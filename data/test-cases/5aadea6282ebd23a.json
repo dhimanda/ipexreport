@@ -1,0 +1,137 @@
+{
+  "uid" : "5aadea6282ebd23a",
+  "name" : "This will validate first name while create new use",
+  "fullName" : "Add New User: This will validate first name while create new use",
+  "historyId" : "75bb58c0163217efd4823ddab32e3d05",
+  "time" : {
+    "start" : 1657788869941,
+    "stop" : 1657788952306,
+    "duration" : 82365
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1657788869944,
+        "stop" : 1657788878083,
+        "duration" : 8139
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1657788878084,
+        "stop" : 1657788892168,
+        "duration" : 14084
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  UserFirstNameValidation",
+      "time" : {
+        "start" : 1657788892169,
+        "stop" : 1657788951292,
+        "duration" : 59123
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1657788951295,
+      "stop" : 1657788952303,
+      "duration" : 1008
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ValidateFistName"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "10680@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Add New User"
+  }, {
+    "name" : "story",
+    "value" : "This will validate first name while create new use"
+  }, {
+    "name" : "suite",
+    "value" : "Add New User"
+  }, {
+    "name" : "testClass",
+    "value" : "This will validate first name while create new use"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/AddNewUser.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.AddNewUser_feature.Add New User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "ValidateFistName" ]
+  },
+  "source" : "5aadea6282ebd23a.json",
+  "parameterValues" : [ ]
+}

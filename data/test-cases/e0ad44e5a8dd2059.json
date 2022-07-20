@@ -1,0 +1,204 @@
+{
+  "uid" : "e0ad44e5a8dd2059",
+  "name" : "This will find a user by email and validate",
+  "fullName" : "Test Custom Script: This will find a user by email and validate",
+  "historyId" : "cc8deaa75bf2bb0f209dd7cfbb80909",
+  "time" : {
+    "start" : 1658051810108,
+    "stop" : 1658051837893,
+    "duration" : 27785
+  },
+  "status" : "failed",
+  "statusMessage" : "expected [1] but found [10]",
+  "statusTrace" : "java.lang.AssertionError: expected [1] but found [10]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:652)\r\n\tat org.testng.Assert.assertEquals(Assert.java:662)\r\n\tat pcx.modules.CreateUser.findUser(CreateUser.java:138)\r\n\tat stepDefinations.stepDefinition.findUser(stepDefinition.java:178)\r\n\tat ✽.FindUser \"TestDhiman001@yopmail.com\"(file:src/test/java/features/CustomScript.feature:125)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected [1] but found [10]",
+    "statusTrace" : "java.lang.AssertionError: expected [1] but found [10]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:652)\r\n\tat org.testng.Assert.assertEquals(Assert.java:662)\r\n\tat pcx.modules.CreateUser.findUser(CreateUser.java:138)\r\n\tat stepDefinations.stepDefinition.findUser(stepDefinition.java:178)\r\n\tat ✽.FindUser \"TestDhiman001@yopmail.com\"(file:src/test/java/features/CustomScript.feature:125)\r\n",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1658051810112,
+        "stop" : 1658051816479,
+        "duration" : 6367
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658051816480,
+        "stop" : 1658051830669,
+        "duration" : 14189
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  FindUser \"TestDhiman001@yopmail.com\"",
+      "time" : {
+        "start" : 1658051830670,
+        "stop" : 1658051836902,
+        "duration" : 6232
+      },
+      "status" : "failed",
+      "statusMessage" : "expected [1] but found [10]",
+      "statusTrace" : "java.lang.AssertionError: expected [1] but found [10]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:652)\r\n\tat org.testng.Assert.assertEquals(Assert.java:662)\r\n\tat pcx.modules.CreateUser.findUser(CreateUser.java:138)\r\n\tat stepDefinations.stepDefinition.findUser(stepDefinition.java:178)\r\n\tat ✽.FindUser \"TestDhiman001@yopmail.com\"(file:src/test/java/features/CustomScript.feature:125)\r\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658051836904,
+      "stop" : 1658051837891,
+      "duration" : 987
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b25c9207fc360f1a",
+      "name" : "Failure Screenshot",
+      "source" : "b25c9207fc360f1a.png",
+      "type" : "image/png",
+      "size" : 112582
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "FindUser"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "5588@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "story",
+    "value" : "This will find a user by email and validate"
+  }, {
+    "name" : "suite",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "testClass",
+    "value" : "This will find a user by email and validate"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/CustomScript.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.CustomScript_feature.Test Custom Script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6520273948d3316d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657742537010,
+        "stop" : 1657742564413,
+        "duration" : 27403
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 4,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "389cd0b8f87a3934",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/3/allure/#testresult/389cd0b8f87a3934",
+        "status" : "failed",
+        "statusDetails" : "expected [1] but found [10]",
+        "time" : {
+          "start" : 1658051810108,
+          "stop" : 1658051837893,
+          "duration" : 27785
+        }
+      }, {
+        "uid" : "3001f7ac10ce0d64",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/2/allure/#testresult/3001f7ac10ce0d64",
+        "status" : "failed",
+        "statusDetails" : "expected [1] but found [10]",
+        "time" : {
+          "start" : 1658051810108,
+          "stop" : 1658051837893,
+          "duration" : 27785
+        }
+      }, {
+        "uid" : "7f1a0aa99a313131",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/1/allure/#testresult/7f1a0aa99a313131",
+        "status" : "failed",
+        "statusDetails" : "expected [1] but found [10]",
+        "time" : {
+          "start" : 1658051810108,
+          "stop" : 1658051837893,
+          "duration" : 27785
+        }
+      } ]
+    },
+    "tags" : [ "FindUser" ]
+  },
+  "source" : "e0ad44e5a8dd2059.json",
+  "parameterValues" : [ ]
+}

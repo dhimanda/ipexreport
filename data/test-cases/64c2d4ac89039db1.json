@@ -1,0 +1,143 @@
+{
+  "uid" : "64c2d4ac89039db1",
+  "name" : "This will create a new user and delete that user",
+  "fullName" : "User Related Tests: This will create a new user and delete that user",
+  "historyId" : "f5384039c173cf3a3f0a3f9dcde72805",
+  "time" : {
+    "start" : 1658261626902,
+    "stop" : 1658261730348,
+    "duration" : 103446
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1658261626906,
+        "stop" : 1658261634516,
+        "duration" : 7610
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658261634517,
+        "stop" : 1658261653533,
+        "duration" : 19016
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6e4e072dd6d15912",
+        "name" : "Just Login",
+        "source" : "6e4e072dd6d15912.png",
+        "type" : "image/png",
+        "size" : 76586
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  DeleteUser",
+      "time" : {
+        "start" : 1658261653533,
+        "stop" : 1658261729625,
+        "duration" : 76092
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658261729627,
+      "stop" : 1658261730344,
+      "duration" : 717
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "DeleteUser"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "18100@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "User Related Tests"
+  }, {
+    "name" : "story",
+    "value" : "This will create a new user and delete that user"
+  }, {
+    "name" : "suite",
+    "value" : "User Related Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "This will create a new user and delete that user"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/UsersOptions.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.UsersOptions_feature.User Related Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "DeleteUser" ]
+  },
+  "source" : "64c2d4ac89039db1.json",
+  "parameterValues" : [ ]
+}

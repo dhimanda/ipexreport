@@ -1,0 +1,201 @@
+{
+  "uid" : "70a32b674004715f",
+  "name" : "This will validate first name while create new use",
+  "fullName" : "User Related Tests: This will validate first name while create new use",
+  "historyId" : "d0f52235e63ba97fa2f3eb9519320cc8",
+  "time" : {
+    "start" : 1658135732351,
+    "stop" : 1658135803172,
+    "duration" : 70821
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1658135732358,
+        "stop" : 1658135739059,
+        "duration" : 6701
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658135739061,
+        "stop" : 1658135758471,
+        "duration" : 19410
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4d9f14d35ecaebf8",
+        "name" : "Just Login",
+        "source" : "4d9f14d35ecaebf8.png",
+        "type" : "image/png",
+        "size" : 82963
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  UserFirstNameValidation \"First Name\" \"Last Name\"",
+      "time" : {
+        "start" : 1658135758473,
+        "stop" : 1658135802074,
+        "duration" : 43601
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "67763e7b988fbe5d",
+        "name" : "No save button for not using first name",
+        "source" : "67763e7b988fbe5d.png",
+        "type" : "image/png",
+        "size" : 76612
+      }, {
+        "uid" : "4204067735807844",
+        "name" : "Long First Name Validation",
+        "source" : "4204067735807844.png",
+        "type" : "image/png",
+        "size" : 87674
+      }, {
+        "uid" : "9b37e9cb4300e9db",
+        "name" : "Number as first name",
+        "source" : "9b37e9cb4300e9db.png",
+        "type" : "image/png",
+        "size" : 73186
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658135802077,
+      "stop" : 1658135803169,
+      "duration" : 1092
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ValidateFistName"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "18464@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "User Related Tests"
+  }, {
+    "name" : "story",
+    "value" : "This will validate first name while create new use"
+  }, {
+    "name" : "suite",
+    "value" : "User Related Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "This will validate first name while create new use"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/UsersOptions.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.UsersOptions_feature.User Related Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "7d02477ab0e03ccd",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/3/allure/#testresult/7d02477ab0e03ccd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658135732351,
+          "stop" : 1658135803172,
+          "duration" : 70821
+        }
+      }, {
+        "uid" : "19f32f9a9e7c83a6",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/2/allure/#testresult/19f32f9a9e7c83a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658135732351,
+          "stop" : 1658135803172,
+          "duration" : 70821
+        }
+      }, {
+        "uid" : "ef63ffa46f70d5e9",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/1/allure/#testresult/ef63ffa46f70d5e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658135732351,
+          "stop" : 1658135803172,
+          "duration" : 70821
+        }
+      } ]
+    },
+    "tags" : [ "ValidateFistName" ]
+  },
+  "source" : "70a32b674004715f.json",
+  "parameterValues" : [ ]
+}

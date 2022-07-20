@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://automate.seliselocal.com:8080/",
+  "buildOrder" : 4,
+  "buildName" : "pcxLocal #4",
+  "buildUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/4/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/4/allure"
+} ]

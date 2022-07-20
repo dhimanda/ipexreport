@@ -1,0 +1,29 @@
+[ {
+  "buildOrder" : 4,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 551728986
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 551140530
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 550954172
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxLocal/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 550668722
+  }
+} ]

@@ -1,0 +1,161 @@
+[ {
+  "uid" : "e0ad44e5a8dd2059",
+  "name" : "This will find a user by email and validate",
+  "time" : {
+    "start" : 1658051810108,
+    "stop" : 1658051837893,
+    "duration" : 27785
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "90172cc21f6caf31",
+  "name" : "This will create a new user and delete that user",
+  "time" : {
+    "start" : 1658262187900,
+    "stop" : 1658262295239,
+    "duration" : 107339
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bcf90834f9fb8df",
+  "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
+  "time" : {
+    "start" : 1657802768899,
+    "stop" : 1657802790226,
+    "duration" : 21327
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f29b97e81ccdaa2",
+  "name" : "It will create a case then edit the case",
+  "time" : {
+    "start" : 1658263169025,
+    "stop" : 1658263355503,
+    "duration" : 186478
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d7fbebad7d4e2474",
+  "name" : "This will find a user by email and validate",
+  "time" : {
+    "start" : 1658262539377,
+    "stop" : 1658262580689,
+    "duration" : 41312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbd87446fbfb08b5",
+  "name" : "Create & Edit a Case",
+  "time" : {
+    "start" : 1658070656714,
+    "stop" : 1658070807209,
+    "duration" : 150495
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4082ac9a72a9563",
+  "name" : "Change order status of a case",
+  "time" : {
+    "start" : 1657734365355,
+    "stop" : 1657734401953,
+    "duration" : 36598
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70a32b674004715f",
+  "name" : "This will validate first name while create new use",
+  "time" : {
+    "start" : 1658135732351,
+    "stop" : 1658135803172,
+    "duration" : 70821
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88503d13aa628cbe",
+  "name" : "This will validate first name while create new use",
+  "time" : {
+    "start" : 1658051371970,
+    "stop" : 1658051430975,
+    "duration" : 59005
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b6661e0895a1edb",
+  "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
+  "time" : {
+    "start" : 1658246705690,
+    "stop" : 1658246802603,
+    "duration" : 96913
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "208cb0854826feb9",
+  "name" : "Delete an email",
+  "time" : {
+    "start" : 1657713662668,
+    "stop" : 1657713721615,
+    "duration" : 58947
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f4ac70bbd4e22ba",
+  "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
+  "time" : {
+    "start" : 1658136115313,
+    "stop" : 1658136207896,
+    "duration" : 92583
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4907ee5df6bfbe66",
+  "name" : "This will delete existing user by email search",
+  "time" : {
+    "start" : 1658249468150,
+    "stop" : 1658249588591,
+    "duration" : 120441
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "67230261d77e8284",
+  "name" : "Change order status of a case",
+  "time" : {
+    "start" : 1657778371691,
+    "stop" : 1657778409465,
+    "duration" : 37774
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "270088050d6bc886",
+  "name" : "This will rename current user and try to match after update",
+  "time" : {
+    "start" : 1658262716161,
+    "stop" : 1658262767047,
+    "duration" : 50886
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4797fc320741854a",
+  "name" : "Just Login Test",
+  "time" : {
+    "start" : 1657711626517,
+    "stop" : 1657711649358,
+    "duration" : 22841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
