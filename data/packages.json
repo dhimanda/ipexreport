@@ -6,14 +6,14 @@
     "children" : [ {
       "name" : "CustomScript_feature.Test Custom Script",
       "children" : [ {
-        "name" : "Just Login Test",
-        "uid" : "4797fc320741854a",
+        "name" : "Assign inspector from case list",
+        "uid" : "18fcf75f0059467a",
         "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
         "status" : "passed",
         "time" : {
-          "start" : 1657711626517,
-          "stop" : 1657711649358,
-          "duration" : 22841
+          "start" : 1657714879593,
+          "stop" : 1657714917479,
+          "duration" : 37886
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,14 +23,14 @@
         "retriesStatusChange" : false,
         "parameters" : [ ]
       }, {
-        "name" : "Delete an email",
-        "uid" : "208cb0854826feb9",
+        "name" : "Select mail using insurance provider & mail index",
+        "uid" : "ff7be25d5b8017a1",
         "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
-        "status" : "failed",
+        "status" : "passed",
         "time" : {
-          "start" : 1657713662668,
-          "stop" : 1657713721615,
-          "duration" : 58947
+          "start" : 1657714967807,
+          "stop" : 1657714995579,
+          "duration" : 27772
         },
         "flaky" : false,
         "newFailed" : false,
@@ -41,174 +41,340 @@
         "parameters" : [ ]
       }, {
         "name" : "Change order status of a case",
-        "uid" : "4082ac9a72a9563",
+        "uid" : "c572016556bd7361",
         "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
         "status" : "passed",
         "time" : {
-          "start" : 1657734365355,
-          "stop" : 1657734401953,
-          "duration" : 36598
+          "start" : 1657733824790,
+          "stop" : 1657733865102,
+          "duration" : 40312
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
         "retriesCount" : 1,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Change order status of a case",
-        "uid" : "67230261d77e8284",
-        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
-        "status" : "passed",
-        "time" : {
-          "start" : 1657778371691,
-          "stop" : 1657778409465,
-          "duration" : 37774
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
-        "uid" : "9bcf90834f9fb8df",
-        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
-        "status" : "broken",
-        "time" : {
-          "start" : 1657802768899,
-          "stop" : 1657802790226,
-          "duration" : 21327
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 5,
-        "retriesStatusChange" : true,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will find a user by email and validate",
-        "uid" : "e0ad44e5a8dd2059",
-        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658051810108,
-          "stop" : 1658051837893,
-          "duration" : 27785
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 1,
-        "retriesStatusChange" : true,
-        "parameters" : [ ]
-      }, {
-        "name" : "Create & Edit a Case",
-        "uid" : "fbd87446fbfb08b5",
-        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658070656714,
-          "stop" : 1658070807209,
-          "duration" : 150495
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 7,
-        "retriesStatusChange" : true,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
-        "uid" : "8f4ac70bbd4e22ba",
-        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658136115313,
-          "stop" : 1658136207896,
-          "duration" : 92583
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will delete existing user by email search",
-        "uid" : "4907ee5df6bfbe66",
-        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
-        "status" : "broken",
-        "time" : {
-          "start" : 1658249468150,
-          "stop" : 1658249588591,
-          "duration" : 120441
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 3,
         "retriesStatusChange" : false,
         "parameters" : [ ]
       }, {
         "name" : "This will rename current user and try to match after update",
-        "uid" : "270088050d6bc886",
+        "uid" : "b3e21a480a5edb9",
         "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
         "status" : "passed",
         "time" : {
-          "start" : 1658262716161,
-          "stop" : 1658262767047,
-          "duration" : 50886
+          "start" : 1657741129749,
+          "stop" : 1657741172640,
+          "duration" : 42891
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 2,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
+        "uid" : "7889109892ea9bba",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Download excel report from case list",
+        "uid" : "762e8dc5cefb575e",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658232846426,
+          "stop" : 1658233065198,
+          "duration" : 218772
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Assign inspector from case list",
+        "uid" : "7e23bf41951ab28f",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658246578550,
+          "stop" : 1658246618249,
+          "duration" : 39699
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
+        "uid" : "de1557f748bf2502",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658308244615,
+          "stop" : 1658308339463,
+          "duration" : 94848
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Adding a Single Case",
+        "uid" : "8bcff3fb28fdda7a",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658388475515,
+          "stop" : 1658388567974,
+          "duration" : 92459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Change order status of a case",
+        "uid" : "dab0b7caec4279b6",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This will create a new user and Verify User Created User's Email.",
+        "uid" : "d93ca7c11d68050",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389707452,
+          "stop" : 1658389917918,
+          "duration" : 210466
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Create a new user",
+        "uid" : "26092e99dcba2e17",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389972394,
+          "stop" : 1658390037185,
+          "duration" : 64791
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Just Login Test",
+        "uid" : "6cfd034b943ebe14",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390083017,
+          "stop" : 1658390108926,
+          "duration" : 25909
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Delete a particular case",
+        "uid" : "9d83d2c5a95ebacd",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390153536,
+          "stop" : 1658390321010,
+          "duration" : 167474
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Create & Edit a Case",
+        "uid" : "66d69ff5f7a1c872",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390372383,
+          "stop" : 1658390564251,
+          "duration" : 191868
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Download excel report from case list",
+        "uid" : "fbdd5e518bf3289",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Filter department and verify all mails shows department's tag",
+        "uid" : "5bec2f09352ca541",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390808768,
+          "stop" : 1658390852899,
+          "duration" : 44131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Populate mailbox for an insurance provider & navigate",
+        "uid" : "e61185c1d447d0b8",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658391010355,
+          "stop" : 1658391036046,
+          "duration" : 25691
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Select mail using insurance provider & mail index",
+        "uid" : "4b9a137f8821b20f",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658391075936,
+          "stop" : 1658391103972,
+          "duration" : 28036
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This will rename current user and try to match after update",
+        "uid" : "c5d008d06336f3d1",
+        "parentUid" : "86d3d2e9b04f61b510a7643ad6e11313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658391168474,
+          "stop" : 1658391218275,
+          "duration" : 49801
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
       "uid" : "CustomScript_feature.Test Custom Script"
     }, {
-      "name" : "AddNewUser_feature.Add New User",
+      "name" : "UsersOptions_feature.User Related Tests",
       "children" : [ {
-        "name" : "This will validate first name while create new use",
-        "uid" : "88503d13aa628cbe",
-        "parentUid" : "8efbe02b9035af24b697254abd99044f",
+        "name" : "This will create a new user and delete that user",
+        "uid" : "419f6d7ada218c2f",
+        "parentUid" : "1d0b6a463bd2fd30b681c1b1cff7c302",
         "status" : "passed",
         "time" : {
-          "start" : 1658051371970,
-          "stop" : 1658051430975,
-          "duration" : 59005
+          "start" : 1658387989985,
+          "stop" : 1658388114059,
+          "duration" : 124074
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 18,
-        "retriesStatusChange" : true,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
         "parameters" : [ ]
-      } ],
-      "uid" : "AddNewUser_feature.Add New User"
-    }, {
-      "name" : "UsersOptions_feature.User Related Tests",
-      "children" : [ {
-        "name" : "This will validate first name while create new use",
-        "uid" : "70a32b674004715f",
+      }, {
+        "name" : "This will find a user by email and validate",
+        "uid" : "cba50030a65df95e",
         "parentUid" : "1d0b6a463bd2fd30b681c1b1cff7c302",
         "status" : "passed",
         "time" : {
-          "start" : 1658135732351,
-          "stop" : 1658135803172,
-          "duration" : 70821
+          "start" : 1658390909198,
+          "stop" : 1658390950110,
+          "duration" : 40912
         },
         "flaky" : false,
         "newFailed" : false,
@@ -217,80 +383,29 @@
         "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
-        "uid" : "2b6661e0895a1edb",
-        "parentUid" : "1d0b6a463bd2fd30b681c1b1cff7c302",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658246705690,
-          "stop" : 1658246802603,
-          "duration" : 96913
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 1,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user and delete that user",
-        "uid" : "90172cc21f6caf31",
-        "parentUid" : "1d0b6a463bd2fd30b681c1b1cff7c302",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658262187900,
-          "stop" : 1658262295239,
-          "duration" : 107339
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 9,
-        "retriesStatusChange" : true,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will find a user by email and validate",
-        "uid" : "d7fbebad7d4e2474",
-        "parentUid" : "1d0b6a463bd2fd30b681c1b1cff7c302",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658262539377,
-          "stop" : 1658262580689,
-          "duration" : 41312
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 1,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
       } ],
       "uid" : "UsersOptions_feature.User Related Tests"
     }, {
-      "name" : "SmokeTest_feature.Add New User",
+      "name" : "SmokeTest_feature.A Happy flow for Create and Edit a case",
       "children" : [ {
         "name" : "It will create a case then edit the case",
-        "uid" : "f29b97e81ccdaa2",
-        "parentUid" : "0d8b424935d7bbd5e798054872ecd5b4",
-        "status" : "broken",
+        "uid" : "7140864d080d6183",
+        "parentUid" : "c33e7e6b931e814e0ddc03efb3342939",
+        "status" : "passed",
         "time" : {
-          "start" : 1658263169025,
-          "stop" : 1658263355503,
-          "duration" : 186478
+          "start" : 1658391300356,
+          "stop" : 1658391491396,
+          "duration" : 191040
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
-        "newBroken" : true,
-        "retriesCount" : 12,
+        "newBroken" : false,
+        "retriesCount" : 4,
         "retriesStatusChange" : true,
         "parameters" : [ ]
       } ],
-      "uid" : "SmokeTest_feature.Add New User"
+      "uid" : "SmokeTest_feature.A Happy flow for Create and Edit a case"
     } ],
     "uid" : "src.test.java.features"
   } ]

@@ -1,0 +1,276 @@
+{
+  "uid" : "dab0b7caec4279b6",
+  "name" : "Change order status of a case",
+  "fullName" : "Test Custom Script: Change order status of a case",
+  "historyId" : "b168be9fc8db0067eae6c4ddc4bf1894",
+  "time" : {
+    "start" : 1658389486316,
+    "stop" : 1658389649625,
+    "duration" : 163309
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1658389486320,
+        "stop" : 1658389492995,
+        "duration" : 6675
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Given  Login \"saniuzzaman.robin@selise.ch\"",
+      "time" : {
+        "start" : 1658389492996,
+        "stop" : 1658389507268,
+        "duration" : 14272
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then  ChangeOrderStatus 0",
+      "time" : {
+        "start" : 1658389507271,
+        "stop" : 1658389648937,
+        "duration" : 141666
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658389648940,
+      "stop" : 1658389649624,
+      "duration" : 684
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ChangeOrderStatus"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "3580@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "story",
+    "value" : "Change order status of a case"
+  }, {
+    "name" : "suite",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "testClass",
+    "value" : "Change order status of a case"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/CustomScript.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.CustomScript_feature.Test Custom Script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 15,
+        "unknown" : 0,
+        "total" : 15
+      },
+      "items" : [ {
+        "uid" : "e7a6603df9eed07",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/99/allure/#testresult/e7a6603df9eed07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "b7b5c47ac754c963",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/98/allure/#testresult/b7b5c47ac754c963",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "dc77235f01a45b56",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/97/allure/#testresult/dc77235f01a45b56",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "d8dbfaa7e4c2f3d2",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/96/allure/#testresult/d8dbfaa7e4c2f3d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "2e1648c74156d0d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/95/allure/#testresult/2e1648c74156d0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "e3f08ddffe5471e1",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/94/allure/#testresult/e3f08ddffe5471e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "29fdec49fdc9d890",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/93/allure/#testresult/29fdec49fdc9d890",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "160ccdd5b452359c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/92/allure/#testresult/160ccdd5b452359c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "aa398cf0daab5d33",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/91/allure/#testresult/aa398cf0daab5d33",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "b0e0afdd113e1640",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/90/allure/#testresult/b0e0afdd113e1640",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "294be964d9be488f",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/89/allure/#testresult/294be964d9be488f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "2b7460b2d1204a63",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/2b7460b2d1204a63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "cb71da379dee2bdc",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/cb71da379dee2bdc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      }, {
+        "uid" : "a3d5c703fa40e6e9",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/a3d5c703fa40e6e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658389486316,
+          "stop" : 1658389649625,
+          "duration" : 163309
+        }
+      } ]
+    },
+    "tags" : [ "ChangeOrderStatus" ]
+  },
+  "source" : "dab0b7caec4279b6.json",
+  "parameterValues" : [ ]
+}
