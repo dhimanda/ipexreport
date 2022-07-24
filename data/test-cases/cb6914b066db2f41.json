@@ -1,0 +1,285 @@
+{
+  "uid" : "cb6914b066db2f41",
+  "name" : "Download excel report from case list",
+  "fullName" : "Test Custom Script: Download excel report from case list",
+  "historyId" : "d6d17ec658365ac545f491649d05b026",
+  "time" : {
+    "start" : 1658390670723,
+    "stop" : 1658390767733,
+    "duration" : 97010
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1658390670727,
+        "stop" : 1658390676742,
+        "duration" : 6015
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Given  Login \"saniuzzaman.robin@selise.ch\"",
+      "time" : {
+        "start" : 1658390676743,
+        "stop" : 1658390691583,
+        "duration" : 14840
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then  ExportExcel",
+      "time" : {
+        "start" : 1658390691584,
+        "stop" : 1658390766998,
+        "duration" : 75414
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658390767004,
+      "stop" : 1658390767729,
+      "duration" : 725
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ExportExcel"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "14296@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "story",
+    "value" : "Download excel report from case list"
+  }, {
+    "name" : "suite",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "testClass",
+    "value" : "Download excel report from case list"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/CustomScript.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.CustomScript_feature.Test Custom Script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 16,
+        "unknown" : 0,
+        "total" : 16
+      },
+      "items" : [ {
+        "uid" : "9c59689c39d3618c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/9c59689c39d3618c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "f1e3cc6a9c6ac223",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/f1e3cc6a9c6ac223",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "d117563a255b1e93",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/d117563a255b1e93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "8401430e836bbdb3",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/8401430e836bbdb3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "b7cbcdd680bb4a1a",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/b7cbcdd680bb4a1a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "f1fb37ca310a4c5e",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/f1fb37ca310a4c5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "d8788f54dd6710a9",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/d8788f54dd6710a9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "fbdd5e518bf3289",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/fbdd5e518bf3289",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "fd5c90d75040c199",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/99/allure/#testresult/fd5c90d75040c199",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "88ada5f6906ec7f",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/98/allure/#testresult/88ada5f6906ec7f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "46be1064f2f4b16d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/97/allure/#testresult/46be1064f2f4b16d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "7cebb6e7873259b8",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/96/allure/#testresult/7cebb6e7873259b8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "8ea0cbf7bf800ad6",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/95/allure/#testresult/8ea0cbf7bf800ad6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "5535f29f66f2c5c2",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/94/allure/#testresult/5535f29f66f2c5c2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      }, {
+        "uid" : "c9d77374e6066cdb",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/93/allure/#testresult/c9d77374e6066cdb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658390670723,
+          "stop" : 1658390767733,
+          "duration" : 97010
+        }
+      } ]
+    },
+    "tags" : [ "ExportExcel" ]
+  },
+  "source" : "cb6914b066db2f41.json",
+  "parameterValues" : [ ]
+}

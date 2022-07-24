@@ -4,11 +4,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 28,
+      "passed" : 36,
       "unknown" : 0,
-      "total" : 28
+      "total" : 36
     },
     "items" : [ {
+      "uid" : "c947cd0f7472dccb",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/c947cd0f7472dccb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658232846426,
+        "stop" : 1658233065198,
+        "duration" : 218772
+      }
+    }, {
+      "uid" : "49c4de1eb81c1fbd",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/49c4de1eb81c1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658232846426,
+        "stop" : 1658233065198,
+        "duration" : 218772
+      }
+    }, {
+      "uid" : "93614b1e4461b009",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/93614b1e4461b009",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658232846426,
+        "stop" : 1658233065198,
+        "duration" : 218772
+      }
+    }, {
+      "uid" : "168d15d7405ae43",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/168d15d7405ae43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658232846426,
+        "stop" : 1658233065198,
+        "duration" : 218772
+      }
+    }, {
+      "uid" : "837c9bce265ccdc9",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/837c9bce265ccdc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658232846426,
+        "stop" : 1658233065198,
+        "duration" : 218772
+      }
+    }, {
+      "uid" : "e6db222bb4013ac4",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/e6db222bb4013ac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658232846426,
+        "stop" : 1658233065198,
+        "duration" : 218772
+      }
+    }, {
+      "uid" : "f3fe52fdd300253",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/f3fe52fdd300253",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658232846426,
+        "stop" : 1658233065198,
+        "duration" : 218772
+      }
+    }, {
+      "uid" : "b8eb89d87b0c17a7",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/b8eb89d87b0c17a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658232846426,
+        "stop" : 1658233065198,
+        "duration" : 218772
+      }
+    }, {
       "uid" : "762e8dc5cefb575e",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/762e8dc5cefb575e",
       "status" : "passed",
@@ -116,78 +188,6 @@
         "stop" : 1658233065198,
         "duration" : 218772
       }
-    }, {
-      "uid" : "4b60c2c5c02767e4",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/4b60c2c5c02767e4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658232846426,
-        "stop" : 1658233065198,
-        "duration" : 218772
-      }
-    }, {
-      "uid" : "2ba05651c62b09e9",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/2ba05651c62b09e9",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658232846426,
-        "stop" : 1658233065198,
-        "duration" : 218772
-      }
-    }, {
-      "uid" : "98ea477971e2fd24",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/98ea477971e2fd24",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658232846426,
-        "stop" : 1658233065198,
-        "duration" : 218772
-      }
-    }, {
-      "uid" : "f156f160b0a0b870",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/f156f160b0a0b870",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658232846426,
-        "stop" : 1658233065198,
-        "duration" : 218772
-      }
-    }, {
-      "uid" : "3596b119f1a2fbe0",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/3596b119f1a2fbe0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658232846426,
-        "stop" : 1658233065198,
-        "duration" : 218772
-      }
-    }, {
-      "uid" : "8f2b8aa52fe2b422",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/8f2b8aa52fe2b422",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658232846426,
-        "stop" : 1658233065198,
-        "duration" : 218772
-      }
-    }, {
-      "uid" : "5c4d552e3a1cf2ac",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/5c4d552e3a1cf2ac",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658232846426,
-        "stop" : 1658233065198,
-        "duration" : 218772
-      }
-    }, {
-      "uid" : "f893a3161b0add02",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/f893a3161b0add02",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658232846426,
-        "stop" : 1658233065198,
-        "duration" : 218772
-      }
     } ]
   },
   "b168be9fc8db0067eae6c4ddc4bf1894" : {
@@ -195,11 +195,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 23,
       "unknown" : 0,
-      "total" : 15
+      "total" : 23
     },
     "items" : [ {
+      "uid" : "35fd063307678d40",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/35fd063307678d40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389486316,
+        "stop" : 1658389649625,
+        "duration" : 163309
+      }
+    }, {
+      "uid" : "303518a9f88d7a19",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/303518a9f88d7a19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389486316,
+        "stop" : 1658389649625,
+        "duration" : 163309
+      }
+    }, {
+      "uid" : "4c4d9e740bf6c07c",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/4c4d9e740bf6c07c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389486316,
+        "stop" : 1658389649625,
+        "duration" : 163309
+      }
+    }, {
+      "uid" : "42e6cd9c8ae76aed",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/42e6cd9c8ae76aed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389486316,
+        "stop" : 1658389649625,
+        "duration" : 163309
+      }
+    }, {
+      "uid" : "58ad52cb145ae2a7",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/58ad52cb145ae2a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389486316,
+        "stop" : 1658389649625,
+        "duration" : 163309
+      }
+    }, {
+      "uid" : "9071e7d983d16b36",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/9071e7d983d16b36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389486316,
+        "stop" : 1658389649625,
+        "duration" : 163309
+      }
+    }, {
+      "uid" : "fd329e3fb40919ea",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/fd329e3fb40919ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389486316,
+        "stop" : 1658389649625,
+        "duration" : 163309
+      }
+    }, {
+      "uid" : "b7fc4d2e41fc8007",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/b7fc4d2e41fc8007",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389486316,
+        "stop" : 1658389649625,
+        "duration" : 163309
+      }
+    }, {
       "uid" : "dab0b7caec4279b6",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/dab0b7caec4279b6",
       "status" : "passed",
@@ -307,33 +379,6 @@
         "stop" : 1658389649625,
         "duration" : 163309
       }
-    }, {
-      "uid" : "2b7460b2d1204a63",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/2b7460b2d1204a63",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658389486316,
-        "stop" : 1658389649625,
-        "duration" : 163309
-      }
-    }, {
-      "uid" : "cb71da379dee2bdc",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/cb71da379dee2bdc",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658389486316,
-        "stop" : 1658389649625,
-        "duration" : 163309
-      }
-    }, {
-      "uid" : "a3d5c703fa40e6e9",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/a3d5c703fa40e6e9",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658389486316,
-        "stop" : 1658389649625,
-        "duration" : 163309
-      }
     } ]
   },
   "1a8db2b94a5cc6efa31433cc2ec7cca4" : {
@@ -406,11 +451,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 6,
+      "passed" : 14,
       "unknown" : 0,
-      "total" : 6
+      "total" : 14
     },
     "items" : [ {
+      "uid" : "d564daeb9da74ee0",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/d564daeb9da74ee0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390909198,
+        "stop" : 1658390950110,
+        "duration" : 40912
+      }
+    }, {
+      "uid" : "b3cb1ab154680d2d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/b3cb1ab154680d2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390909198,
+        "stop" : 1658390950110,
+        "duration" : 40912
+      }
+    }, {
+      "uid" : "2c350f0dc3aba19f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/2c350f0dc3aba19f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390909198,
+        "stop" : 1658390950110,
+        "duration" : 40912
+      }
+    }, {
+      "uid" : "4ad5889aa0f6a8c",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/4ad5889aa0f6a8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390909198,
+        "stop" : 1658390950110,
+        "duration" : 40912
+      }
+    }, {
+      "uid" : "95f6e498e99a740d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/95f6e498e99a740d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390909198,
+        "stop" : 1658390950110,
+        "duration" : 40912
+      }
+    }, {
+      "uid" : "63d5854550fedc7d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/63d5854550fedc7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390909198,
+        "stop" : 1658390950110,
+        "duration" : 40912
+      }
+    }, {
+      "uid" : "4149f51c1f46d3f7",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/4149f51c1f46d3f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390909198,
+        "stop" : 1658390950110,
+        "duration" : 40912
+      }
+    }, {
+      "uid" : "ecaf8af93f5216f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/ecaf8af93f5216f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390909198,
+        "stop" : 1658390950110,
+        "duration" : 40912
+      }
+    }, {
       "uid" : "cba50030a65df95e",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/cba50030a65df95e",
       "status" : "passed",
@@ -471,11 +588,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 27,
+      "passed" : 35,
       "unknown" : 0,
-      "total" : 27
+      "total" : 35
     },
     "items" : [ {
+      "uid" : "543bbc3ee157ef0a",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/543bbc3ee157ef0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658246578550,
+        "stop" : 1658246618249,
+        "duration" : 39699
+      }
+    }, {
+      "uid" : "8539aacded903a36",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/8539aacded903a36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658246578550,
+        "stop" : 1658246618249,
+        "duration" : 39699
+      }
+    }, {
+      "uid" : "86e6d37db9de381",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/86e6d37db9de381",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658246578550,
+        "stop" : 1658246618249,
+        "duration" : 39699
+      }
+    }, {
+      "uid" : "be85f5ff07d2a176",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/be85f5ff07d2a176",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658246578550,
+        "stop" : 1658246618249,
+        "duration" : 39699
+      }
+    }, {
+      "uid" : "8a25480cd4dc4c0f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/8a25480cd4dc4c0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658246578550,
+        "stop" : 1658246618249,
+        "duration" : 39699
+      }
+    }, {
+      "uid" : "8b0036e56b3beb9f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/8b0036e56b3beb9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658246578550,
+        "stop" : 1658246618249,
+        "duration" : 39699
+      }
+    }, {
+      "uid" : "91ac51f365268e0a",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/91ac51f365268e0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658246578550,
+        "stop" : 1658246618249,
+        "duration" : 39699
+      }
+    }, {
+      "uid" : "53d81fc28e95ebe4",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/53d81fc28e95ebe4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658246578550,
+        "stop" : 1658246618249,
+        "duration" : 39699
+      }
+    }, {
       "uid" : "7e23bf41951ab28f",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/7e23bf41951ab28f",
       "status" : "passed",
@@ -583,77 +772,89 @@
         "stop" : 1658246618249,
         "duration" : 39699
       }
-    }, {
-      "uid" : "c42011ae5d90ce4f",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/c42011ae5d90ce4f",
+    } ]
+  },
+  "fa1545bebd87a839879b3b8f7e012db0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "60046bd469131123",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/60046bd469131123",
       "status" : "passed",
       "time" : {
-        "start" : 1658246578550,
-        "stop" : 1658246618249,
-        "duration" : 39699
+        "start" : 1658662226145,
+        "stop" : 1658662287248,
+        "duration" : 61103
       }
     }, {
-      "uid" : "90f1e03b6a2570f5",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/90f1e03b6a2570f5",
+      "uid" : "6be8f61659ecfa18",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/6be8f61659ecfa18",
       "status" : "passed",
       "time" : {
-        "start" : 1658246578550,
-        "stop" : 1658246618249,
-        "duration" : 39699
+        "start" : 1658662226145,
+        "stop" : 1658662287248,
+        "duration" : 61103
       }
     }, {
-      "uid" : "d71671d19865e5a4",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/d71671d19865e5a4",
+      "uid" : "bf57d954bbbe13d2",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/bf57d954bbbe13d2",
       "status" : "passed",
       "time" : {
-        "start" : 1658246578550,
-        "stop" : 1658246618249,
-        "duration" : 39699
+        "start" : 1658662226145,
+        "stop" : 1658662287248,
+        "duration" : 61103
       }
     }, {
-      "uid" : "58e6a471c1460a63",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/58e6a471c1460a63",
+      "uid" : "6cceefa65e8e44dc",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/6cceefa65e8e44dc",
       "status" : "passed",
       "time" : {
-        "start" : 1658246578550,
-        "stop" : 1658246618249,
-        "duration" : 39699
+        "start" : 1658662226145,
+        "stop" : 1658662287248,
+        "duration" : 61103
       }
     }, {
-      "uid" : "4830ce4634fb0c50",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/4830ce4634fb0c50",
+      "uid" : "6f70dcf24f52d7e9",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/6f70dcf24f52d7e9",
       "status" : "passed",
       "time" : {
-        "start" : 1658246578550,
-        "stop" : 1658246618249,
-        "duration" : 39699
+        "start" : 1658662226145,
+        "stop" : 1658662287248,
+        "duration" : 61103
       }
     }, {
-      "uid" : "bb634f6d3918ce03",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/bb634f6d3918ce03",
+      "uid" : "2f0adbe804162a17",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/2f0adbe804162a17",
       "status" : "passed",
       "time" : {
-        "start" : 1658246578550,
-        "stop" : 1658246618249,
-        "duration" : 39699
+        "start" : 1658396305145,
+        "stop" : 1658401351445,
+        "duration" : 5046300
       }
     }, {
-      "uid" : "d68e13c67a3c1a3f",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/d68e13c67a3c1a3f",
+      "uid" : "f085cdeb0468270e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/f085cdeb0468270e",
       "status" : "passed",
       "time" : {
-        "start" : 1658246578550,
-        "stop" : 1658246618249,
-        "duration" : 39699
+        "start" : 1658396305145,
+        "stop" : 1658401351445,
+        "duration" : 5046300
       }
     }, {
-      "uid" : "2e9c7bee3f34f221",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/2e9c7bee3f34f221",
-      "status" : "passed",
+      "uid" : "6c6ab7d41e4effbb",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/6c6ab7d41e4effbb",
+      "status" : "broken",
+      "statusDetails" : "chrome not reachable\n  (Session info: chrome=103.0.5060.134)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-NH20ML0', ip: '192.187.8.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\\Users\\DhimanSB\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:9967}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e55e13ca52881305be7cbca63185633f\n*** Element info: {Using=xpath, value=//button[contains(@class, 'inspector-selector')]}",
       "time" : {
-        "start" : 1658246578550,
-        "stop" : 1658246618249,
-        "duration" : 39699
+        "start" : 1658391551436,
+        "stop" : 1658396019828,
+        "duration" : 4468392
       }
     } ]
   },
@@ -662,11 +863,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 12,
       "unknown" : 0,
-      "total" : 4
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "7e4af34fe4b6f214",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/7e4af34fe4b6f214",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391075936,
+        "stop" : 1658391103972,
+        "duration" : 28036
+      }
+    }, {
+      "uid" : "b76450cac976dd0e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/b76450cac976dd0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391075936,
+        "stop" : 1658391103972,
+        "duration" : 28036
+      }
+    }, {
+      "uid" : "2ef9763933f8b777",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/2ef9763933f8b777",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391075936,
+        "stop" : 1658391103972,
+        "duration" : 28036
+      }
+    }, {
+      "uid" : "cbf10bb128d963f4",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/cbf10bb128d963f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391075936,
+        "stop" : 1658391103972,
+        "duration" : 28036
+      }
+    }, {
+      "uid" : "cb5b151bc4e4cee7",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/cb5b151bc4e4cee7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391075936,
+        "stop" : 1658391103972,
+        "duration" : 28036
+      }
+    }, {
+      "uid" : "259c97ff2ab5c7ed",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/259c97ff2ab5c7ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391075936,
+        "stop" : 1658391103972,
+        "duration" : 28036
+      }
+    }, {
+      "uid" : "ebf685004e428a87",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/ebf685004e428a87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391075936,
+        "stop" : 1658391103972,
+        "duration" : 28036
+      }
+    }, {
+      "uid" : "7a84b12dfa2e4f63",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/7a84b12dfa2e4f63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391075936,
+        "stop" : 1658391103972,
+        "duration" : 28036
+      }
+    }, {
       "uid" : "4b9a137f8821b20f",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/4b9a137f8821b20f",
       "status" : "passed",
@@ -864,16 +1137,117 @@
       }
     } ]
   },
+  "d3184cf16765a3fa9fc84806b54e4b96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "64e49c85ba6d2420",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/64e49c85ba6d2420",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658701372078,
+        "stop" : 1658701455594,
+        "duration" : 83516
+      }
+    }, {
+      "uid" : "1ed06fcb32cd81cc",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/1ed06fcb32cd81cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658701372078,
+        "stop" : 1658701455594,
+        "duration" : 83516
+      }
+    } ]
+  },
   "2424f508841ca59ebdec1414499ecc78" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 30,
+      "passed" : 38,
       "unknown" : 0,
-      "total" : 30
+      "total" : 38
     },
     "items" : [ {
+      "uid" : "d1bd2e4b573e206b",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/d1bd2e4b573e206b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658699614754,
+        "stop" : 1658699850064,
+        "duration" : 235310
+      }
+    }, {
+      "uid" : "caeb7c27663fe239",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/caeb7c27663fe239",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658699614754,
+        "stop" : 1658699850064,
+        "duration" : 235310
+      }
+    }, {
+      "uid" : "e6eb393b4299c12e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/e6eb393b4299c12e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658699614754,
+        "stop" : 1658699850064,
+        "duration" : 235310
+      }
+    }, {
+      "uid" : "f27b780deb8c45ef",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/f27b780deb8c45ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657777970485,
+        "stop" : 1657778062068,
+        "duration" : 91583
+      }
+    }, {
+      "uid" : "215536a5f2cc1682",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/215536a5f2cc1682",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657777970485,
+        "stop" : 1657778062068,
+        "duration" : 91583
+      }
+    }, {
+      "uid" : "b96ff5f7460edf31",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/b96ff5f7460edf31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657777970485,
+        "stop" : 1657778062068,
+        "duration" : 91583
+      }
+    }, {
+      "uid" : "493f920d7230d67c",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/493f920d7230d67c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657777970485,
+        "stop" : 1657778062068,
+        "duration" : 91583
+      }
+    }, {
+      "uid" : "de1167f7c9590dea",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/de1167f7c9590dea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657777970485,
+        "stop" : 1657778062068,
+        "duration" : 91583
+      }
+    }, {
       "uid" : "7889109892ea9bba",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/7889109892ea9bba",
       "status" : "passed",
@@ -981,78 +1355,6 @@
         "stop" : 1657778062068,
         "duration" : 91583
       }
-    }, {
-      "uid" : "f8191d76866a63b5",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/f8191d76866a63b5",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657777970485,
-        "stop" : 1657778062068,
-        "duration" : 91583
-      }
-    }, {
-      "uid" : "498b54b37676ede4",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/498b54b37676ede4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657777970485,
-        "stop" : 1657778062068,
-        "duration" : 91583
-      }
-    }, {
-      "uid" : "c4cff6df1af52dc6",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/c4cff6df1af52dc6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657777970485,
-        "stop" : 1657778062068,
-        "duration" : 91583
-      }
-    }, {
-      "uid" : "76e1b6e9d614a2a1",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/76e1b6e9d614a2a1",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657777970485,
-        "stop" : 1657778062068,
-        "duration" : 91583
-      }
-    }, {
-      "uid" : "5dfedf833f1b10ac",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/5dfedf833f1b10ac",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657777970485,
-        "stop" : 1657778062068,
-        "duration" : 91583
-      }
-    }, {
-      "uid" : "a1d204949c7c6459",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/a1d204949c7c6459",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657777970485,
-        "stop" : 1657778062068,
-        "duration" : 91583
-      }
-    }, {
-      "uid" : "af7f8b41c26dd867",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/af7f8b41c26dd867",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657777970485,
-        "stop" : 1657778062068,
-        "duration" : 91583
-      }
-    }, {
-      "uid" : "2baa8a3c8ace61b6",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/2baa8a3c8ace61b6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657777970485,
-        "stop" : 1657778062068,
-        "duration" : 91583
-      }
     } ]
   },
   "cc8deaa75bf2bb0f209dd7cfbb80909" : {
@@ -1060,11 +1362,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 14,
+      "passed" : 22,
       "unknown" : 0,
-      "total" : 14
+      "total" : 22
     },
     "items" : [ {
+      "uid" : "e6d855c704a5718",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/e6d855c704a5718",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389707452,
+        "stop" : 1658389917918,
+        "duration" : 210466
+      }
+    }, {
+      "uid" : "d6c0e9dadd424a6e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/d6c0e9dadd424a6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389707452,
+        "stop" : 1658389917918,
+        "duration" : 210466
+      }
+    }, {
+      "uid" : "6ccf79106ecf5236",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/6ccf79106ecf5236",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389707452,
+        "stop" : 1658389917918,
+        "duration" : 210466
+      }
+    }, {
+      "uid" : "b59458c9be485f38",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/b59458c9be485f38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389707452,
+        "stop" : 1658389917918,
+        "duration" : 210466
+      }
+    }, {
+      "uid" : "b8c9b1e6c717c7f7",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/b8c9b1e6c717c7f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389707452,
+        "stop" : 1658389917918,
+        "duration" : 210466
+      }
+    }, {
+      "uid" : "c3e41096f68f2970",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/c3e41096f68f2970",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389707452,
+        "stop" : 1658389917918,
+        "duration" : 210466
+      }
+    }, {
+      "uid" : "175fca8d82fe96bf",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/175fca8d82fe96bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389707452,
+        "stop" : 1658389917918,
+        "duration" : 210466
+      }
+    }, {
+      "uid" : "1ce2ef7ef5b3b9d9",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/1ce2ef7ef5b3b9d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389707452,
+        "stop" : 1658389917918,
+        "duration" : 210466
+      }
+    }, {
       "uid" : "d93ca7c11d68050",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/d93ca7c11d68050",
       "status" : "passed",
@@ -1172,24 +1546,6 @@
         "stop" : 1658389917918,
         "duration" : 210466
       }
-    }, {
-      "uid" : "fd4e468578eba477",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/fd4e468578eba477",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658389707452,
-        "stop" : 1658389917918,
-        "duration" : 210466
-      }
-    }, {
-      "uid" : "d527f777aa6933bb",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/d527f777aa6933bb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658389707452,
-        "stop" : 1658389917918,
-        "duration" : 210466
-      }
     } ]
   },
   "99148836dbc7fbacbd72183bf1bcd13f" : {
@@ -1197,11 +1553,83 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 24,
+      "passed" : 32,
       "unknown" : 0,
-      "total" : 25
+      "total" : 33
     },
     "items" : [ {
+      "uid" : "4daaf199f25de3f4",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/4daaf199f25de3f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658308244615,
+        "stop" : 1658308339463,
+        "duration" : 94848
+      }
+    }, {
+      "uid" : "cb36ba821696965b",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/cb36ba821696965b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658308244615,
+        "stop" : 1658308339463,
+        "duration" : 94848
+      }
+    }, {
+      "uid" : "87556559f14e4305",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/87556559f14e4305",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658308244615,
+        "stop" : 1658308339463,
+        "duration" : 94848
+      }
+    }, {
+      "uid" : "2161c2f23d36a4ae",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/2161c2f23d36a4ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658308244615,
+        "stop" : 1658308339463,
+        "duration" : 94848
+      }
+    }, {
+      "uid" : "15a6b2ce566bf6bf",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/15a6b2ce566bf6bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658308244615,
+        "stop" : 1658308339463,
+        "duration" : 94848
+      }
+    }, {
+      "uid" : "5aeff98ef9fae230",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/5aeff98ef9fae230",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658308244615,
+        "stop" : 1658308339463,
+        "duration" : 94848
+      }
+    }, {
+      "uid" : "1ac891e13b450ed2",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/1ac891e13b450ed2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658308244615,
+        "stop" : 1658308339463,
+        "duration" : 94848
+      }
+    }, {
+      "uid" : "ba079faf40f99f76",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/ba079faf40f99f76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658308244615,
+        "stop" : 1658308339463,
+        "duration" : 94848
+      }
+    }, {
       "uid" : "de1557f748bf2502",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/de1557f748bf2502",
       "status" : "passed",
@@ -1309,78 +1737,6 @@
         "stop" : 1658308339463,
         "duration" : 94848
       }
-    }, {
-      "uid" : "a564198bf28f8ef9",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/a564198bf28f8ef9",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658308244615,
-        "stop" : 1658308339463,
-        "duration" : 94848
-      }
-    }, {
-      "uid" : "e67ed76d85aef0e3",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/e67ed76d85aef0e3",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658308244615,
-        "stop" : 1658308339463,
-        "duration" : 94848
-      }
-    }, {
-      "uid" : "eb86b87f702c2964",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/eb86b87f702c2964",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658308244615,
-        "stop" : 1658308339463,
-        "duration" : 94848
-      }
-    }, {
-      "uid" : "59bf0d8c86eb3fdd",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/59bf0d8c86eb3fdd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658308244615,
-        "stop" : 1658308339463,
-        "duration" : 94848
-      }
-    }, {
-      "uid" : "df6cf8e3fb625ca4",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/df6cf8e3fb625ca4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658308244615,
-        "stop" : 1658308339463,
-        "duration" : 94848
-      }
-    }, {
-      "uid" : "cf06187c025f9cb3",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/cf06187c025f9cb3",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658308244615,
-        "stop" : 1658308339463,
-        "duration" : 94848
-      }
-    }, {
-      "uid" : "f0834fb85dd7211e",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/f0834fb85dd7211e",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658308244615,
-        "stop" : 1658308339463,
-        "duration" : 94848
-      }
-    }, {
-      "uid" : "f08aa44532c9a6da",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/f08aa44532c9a6da",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658308244615,
-        "stop" : 1658308339463,
-        "duration" : 94848
-      }
     } ]
   },
   "4b7009b897513f60e26dffc1e0e565e6" : {
@@ -1388,11 +1744,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 33,
+      "passed" : 41,
       "unknown" : 0,
-      "total" : 33
+      "total" : 41
     },
     "items" : [ {
+      "uid" : "8f25e545a32dbf56",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/8f25e545a32dbf56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657733824790,
+        "stop" : 1657733865102,
+        "duration" : 40312
+      }
+    }, {
+      "uid" : "35a7833729a7fe0",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/35a7833729a7fe0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657733824790,
+        "stop" : 1657733865102,
+        "duration" : 40312
+      }
+    }, {
+      "uid" : "7243f0b031ba4ad8",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/7243f0b031ba4ad8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657733824790,
+        "stop" : 1657733865102,
+        "duration" : 40312
+      }
+    }, {
+      "uid" : "aad95b0b5d72e243",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/aad95b0b5d72e243",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657733824790,
+        "stop" : 1657733865102,
+        "duration" : 40312
+      }
+    }, {
+      "uid" : "ccc047da2b863ee7",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/ccc047da2b863ee7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657733824790,
+        "stop" : 1657733865102,
+        "duration" : 40312
+      }
+    }, {
+      "uid" : "ace44cd39b1b4b25",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/ace44cd39b1b4b25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657733824790,
+        "stop" : 1657733865102,
+        "duration" : 40312
+      }
+    }, {
+      "uid" : "1ebe14857733f52f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/1ebe14857733f52f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657733824790,
+        "stop" : 1657733865102,
+        "duration" : 40312
+      }
+    }, {
+      "uid" : "6e5e503a808960ec",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/6e5e503a808960ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657733824790,
+        "stop" : 1657733865102,
+        "duration" : 40312
+      }
+    }, {
       "uid" : "c572016556bd7361",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/c572016556bd7361",
       "status" : "passed",
@@ -1494,78 +1922,6 @@
     }, {
       "uid" : "8d1f45b5372cd57f",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/89/allure/#testresult/8d1f45b5372cd57f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657733824790,
-        "stop" : 1657733865102,
-        "duration" : 40312
-      }
-    }, {
-      "uid" : "fa65cebe52a978d7",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/fa65cebe52a978d7",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657733824790,
-        "stop" : 1657733865102,
-        "duration" : 40312
-      }
-    }, {
-      "uid" : "fed25b6bc0593b4c",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/fed25b6bc0593b4c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657733824790,
-        "stop" : 1657733865102,
-        "duration" : 40312
-      }
-    }, {
-      "uid" : "ee29fef30328287c",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/ee29fef30328287c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657733824790,
-        "stop" : 1657733865102,
-        "duration" : 40312
-      }
-    }, {
-      "uid" : "622e2a85cea906ac",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/622e2a85cea906ac",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657733824790,
-        "stop" : 1657733865102,
-        "duration" : 40312
-      }
-    }, {
-      "uid" : "a03875b3a7382462",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/a03875b3a7382462",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657733824790,
-        "stop" : 1657733865102,
-        "duration" : 40312
-      }
-    }, {
-      "uid" : "cc4a9bcc8e4adca3",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/cc4a9bcc8e4adca3",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657733824790,
-        "stop" : 1657733865102,
-        "duration" : 40312
-      }
-    }, {
-      "uid" : "2da19e616d676452",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/2da19e616d676452",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657733824790,
-        "stop" : 1657733865102,
-        "duration" : 40312
-      }
-    }, {
-      "uid" : "f3a63ece4f91b593",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/f3a63ece4f91b593",
       "status" : "passed",
       "time" : {
         "start" : 1657733824790,
@@ -1770,11 +2126,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 57,
+      "passed" : 65,
       "unknown" : 0,
-      "total" : 57
+      "total" : 65
     },
     "items" : [ {
+      "uid" : "c9920a61b58434fd",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/c9920a61b58434fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390083017,
+        "stop" : 1658390108926,
+        "duration" : 25909
+      }
+    }, {
+      "uid" : "f14c83e99da29e3b",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/f14c83e99da29e3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390083017,
+        "stop" : 1658390108926,
+        "duration" : 25909
+      }
+    }, {
+      "uid" : "b0ea85918030c89f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/b0ea85918030c89f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390083017,
+        "stop" : 1658390108926,
+        "duration" : 25909
+      }
+    }, {
+      "uid" : "5a05393992aac504",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/5a05393992aac504",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390083017,
+        "stop" : 1658390108926,
+        "duration" : 25909
+      }
+    }, {
+      "uid" : "c2ace1961bdc008",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/c2ace1961bdc008",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390083017,
+        "stop" : 1658390108926,
+        "duration" : 25909
+      }
+    }, {
+      "uid" : "788c7489eb543266",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/788c7489eb543266",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390083017,
+        "stop" : 1658390108926,
+        "duration" : 25909
+      }
+    }, {
+      "uid" : "4f68a8c5a788b90a",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/4f68a8c5a788b90a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390083017,
+        "stop" : 1658390108926,
+        "duration" : 25909
+      }
+    }, {
+      "uid" : "12681b9413e2ef82",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/12681b9413e2ef82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390083017,
+        "stop" : 1658390108926,
+        "duration" : 25909
+      }
+    }, {
       "uid" : "6cfd034b943ebe14",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/6cfd034b943ebe14",
       "status" : "passed",
@@ -1881,78 +2309,6 @@
         "start" : 1658390083017,
         "stop" : 1658390108926,
         "duration" : 25909
-      }
-    }, {
-      "uid" : "39dbfaa3841a10ae",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/62/allure/#testresult/39dbfaa3841a10ae",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657185634216,
-        "stop" : 1657185657927,
-        "duration" : 23711
-      }
-    }, {
-      "uid" : "e2e298638538406",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/61/allure/#testresult/e2e298638538406",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657185634216,
-        "stop" : 1657185657927,
-        "duration" : 23711
-      }
-    }, {
-      "uid" : "6266e66cd473db3d",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/60/allure/#testresult/6266e66cd473db3d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657185634216,
-        "stop" : 1657185657927,
-        "duration" : 23711
-      }
-    }, {
-      "uid" : "f994689e16a9a622",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/59/allure/#testresult/f994689e16a9a622",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657185634216,
-        "stop" : 1657185657927,
-        "duration" : 23711
-      }
-    }, {
-      "uid" : "ed1635580dae611d",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/58/allure/#testresult/ed1635580dae611d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657185634216,
-        "stop" : 1657185657927,
-        "duration" : 23711
-      }
-    }, {
-      "uid" : "e7236c624fad0d79",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/57/allure/#testresult/e7236c624fad0d79",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657185634216,
-        "stop" : 1657185657927,
-        "duration" : 23711
-      }
-    }, {
-      "uid" : "79eb02e1a95f6bee",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/56/allure/#testresult/79eb02e1a95f6bee",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657185634216,
-        "stop" : 1657185657927,
-        "duration" : 23711
-      }
-    }, {
-      "uid" : "5112432cdfa96443",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/55/allure/#testresult/5112432cdfa96443",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657185634216,
-        "stop" : 1657185657927,
-        "duration" : 23711
       }
     } ]
   },
@@ -2089,11 +2445,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 13,
+      "passed" : 21,
       "unknown" : 0,
-      "total" : 13
+      "total" : 21
     },
     "items" : [ {
+      "uid" : "358365770eeda5e0",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/358365770eeda5e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389972394,
+        "stop" : 1658390037185,
+        "duration" : 64791
+      }
+    }, {
+      "uid" : "e91e740f97cfa55f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/e91e740f97cfa55f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389972394,
+        "stop" : 1658390037185,
+        "duration" : 64791
+      }
+    }, {
+      "uid" : "a048a8251d894ae1",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/a048a8251d894ae1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389972394,
+        "stop" : 1658390037185,
+        "duration" : 64791
+      }
+    }, {
+      "uid" : "a6374085142cd3d6",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/a6374085142cd3d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389972394,
+        "stop" : 1658390037185,
+        "duration" : 64791
+      }
+    }, {
+      "uid" : "c3a6ac3492e0244",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/c3a6ac3492e0244",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389972394,
+        "stop" : 1658390037185,
+        "duration" : 64791
+      }
+    }, {
+      "uid" : "34843bec632e7ddb",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/34843bec632e7ddb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389972394,
+        "stop" : 1658390037185,
+        "duration" : 64791
+      }
+    }, {
+      "uid" : "c1a5506be4a42e32",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/c1a5506be4a42e32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389972394,
+        "stop" : 1658390037185,
+        "duration" : 64791
+      }
+    }, {
+      "uid" : "440aee87baec00f9",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/440aee87baec00f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658389972394,
+        "stop" : 1658390037185,
+        "duration" : 64791
+      }
+    }, {
       "uid" : "26092e99dcba2e17",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/26092e99dcba2e17",
       "status" : "passed",
@@ -2201,15 +2629,6 @@
         "stop" : 1658390037185,
         "duration" : 64791
       }
-    }, {
-      "uid" : "441da9cd1bd54613",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/441da9cd1bd54613",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658389972394,
-        "stop" : 1658390037185,
-        "duration" : 64791
-      }
     } ]
   },
   "f5384039c173cf3a3f0a3f9dcde72805" : {
@@ -2217,11 +2636,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 22,
+      "passed" : 30,
       "unknown" : 0,
-      "total" : 22
+      "total" : 30
     },
     "items" : [ {
+      "uid" : "885077aa47c4ade9",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/885077aa47c4ade9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658387989985,
+        "stop" : 1658388114059,
+        "duration" : 124074
+      }
+    }, {
+      "uid" : "49216d0d62915d42",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/49216d0d62915d42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658387989985,
+        "stop" : 1658388114059,
+        "duration" : 124074
+      }
+    }, {
+      "uid" : "63aa7d3438b78a80",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/63aa7d3438b78a80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658387989985,
+        "stop" : 1658388114059,
+        "duration" : 124074
+      }
+    }, {
+      "uid" : "cbf3fc9b5bbe9d5d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/cbf3fc9b5bbe9d5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658387989985,
+        "stop" : 1658388114059,
+        "duration" : 124074
+      }
+    }, {
+      "uid" : "6d0c438ad5071dc7",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/6d0c438ad5071dc7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658387989985,
+        "stop" : 1658388114059,
+        "duration" : 124074
+      }
+    }, {
+      "uid" : "eaaa8e376925385e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/eaaa8e376925385e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658387989985,
+        "stop" : 1658388114059,
+        "duration" : 124074
+      }
+    }, {
+      "uid" : "7c3e01d66e5b45c9",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/7c3e01d66e5b45c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658387989985,
+        "stop" : 1658388114059,
+        "duration" : 124074
+      }
+    }, {
+      "uid" : "c808b26df41ff01a",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/c808b26df41ff01a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658387989985,
+        "stop" : 1658388114059,
+        "duration" : 124074
+      }
+    }, {
       "uid" : "419f6d7ada218c2f",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/419f6d7ada218c2f",
       "status" : "passed",
@@ -2329,78 +2820,6 @@
         "stop" : 1658388114059,
         "duration" : 124074
       }
-    }, {
-      "uid" : "b7286d2dea295eea",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/b7286d2dea295eea",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658387989985,
-        "stop" : 1658388114059,
-        "duration" : 124074
-      }
-    }, {
-      "uid" : "110aa6bf36a4bd3e",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/110aa6bf36a4bd3e",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658387989985,
-        "stop" : 1658388114059,
-        "duration" : 124074
-      }
-    }, {
-      "uid" : "badde0961645bbc3",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/badde0961645bbc3",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658387989985,
-        "stop" : 1658388114059,
-        "duration" : 124074
-      }
-    }, {
-      "uid" : "e76e46355a280fc2",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/e76e46355a280fc2",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658387989985,
-        "stop" : 1658388114059,
-        "duration" : 124074
-      }
-    }, {
-      "uid" : "ddb168cc6919da94",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/ddb168cc6919da94",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658387989985,
-        "stop" : 1658388114059,
-        "duration" : 124074
-      }
-    }, {
-      "uid" : "4d988d05de2f9c4",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/4d988d05de2f9c4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658387989985,
-        "stop" : 1658388114059,
-        "duration" : 124074
-      }
-    }, {
-      "uid" : "a730f4ebe73de15b",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/a730f4ebe73de15b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658387989985,
-        "stop" : 1658388114059,
-        "duration" : 124074
-      }
-    }, {
-      "uid" : "7cd50b342b1c3e6a",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/7cd50b342b1c3e6a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658351481123,
-        "stop" : 1658351585693,
-        "duration" : 104570
-      }
     } ]
   },
   "a73747ebfb9456bdf7efb60b8236ba9f" : {
@@ -2408,11 +2827,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 3
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "f7dac0f06583472d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/f7dac0f06583472d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391168474,
+        "stop" : 1658391218275,
+        "duration" : 49801
+      }
+    }, {
+      "uid" : "5d84bae757bbaf3b",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/5d84bae757bbaf3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391168474,
+        "stop" : 1658391218275,
+        "duration" : 49801
+      }
+    }, {
+      "uid" : "7dc61e95f7f567a1",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/7dc61e95f7f567a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391168474,
+        "stop" : 1658391218275,
+        "duration" : 49801
+      }
+    }, {
+      "uid" : "b7f3d58462d7bdf",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/b7f3d58462d7bdf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391168474,
+        "stop" : 1658391218275,
+        "duration" : 49801
+      }
+    }, {
+      "uid" : "fc2fce579f05ff3a",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/fc2fce579f05ff3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391168474,
+        "stop" : 1658391218275,
+        "duration" : 49801
+      }
+    }, {
+      "uid" : "2ca3ac0f65569038",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/2ca3ac0f65569038",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391168474,
+        "stop" : 1658391218275,
+        "duration" : 49801
+      }
+    }, {
+      "uid" : "a97d5c813004840a",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/a97d5c813004840a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391168474,
+        "stop" : 1658391218275,
+        "duration" : 49801
+      }
+    }, {
+      "uid" : "4728c3b204e5a81e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/4728c3b204e5a81e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391168474,
+        "stop" : 1658391218275,
+        "duration" : 49801
+      }
+    }, {
       "uid" : "c5d008d06336f3d1",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/c5d008d06336f3d1",
       "status" : "passed",
@@ -2446,11 +2937,83 @@
       "failed" : 0,
       "broken" : 30,
       "skipped" : 0,
-      "passed" : 52,
+      "passed" : 60,
       "unknown" : 0,
-      "total" : 82
+      "total" : 90
     },
     "items" : [ {
+      "uid" : "da8f34af741c6fc2",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/da8f34af741c6fc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658701483249,
+        "stop" : 1658701680345,
+        "duration" : 197096
+      }
+    }, {
+      "uid" : "48cbba5957e5ca83",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/48cbba5957e5ca83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391300356,
+        "stop" : 1658391491396,
+        "duration" : 191040
+      }
+    }, {
+      "uid" : "8c97779b3a333dc",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/8c97779b3a333dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391300356,
+        "stop" : 1658391491396,
+        "duration" : 191040
+      }
+    }, {
+      "uid" : "fd731b3fb72bc130",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/fd731b3fb72bc130",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391300356,
+        "stop" : 1658391491396,
+        "duration" : 191040
+      }
+    }, {
+      "uid" : "7de85a25d28cc915",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/7de85a25d28cc915",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391300356,
+        "stop" : 1658391491396,
+        "duration" : 191040
+      }
+    }, {
+      "uid" : "c3d18c616f68404f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/c3d18c616f68404f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391300356,
+        "stop" : 1658391491396,
+        "duration" : 191040
+      }
+    }, {
+      "uid" : "94a5704907ba9fb6",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/94a5704907ba9fb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391300356,
+        "stop" : 1658391491396,
+        "duration" : 191040
+      }
+    }, {
+      "uid" : "6521e0dbf4d5e82b",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/6521e0dbf4d5e82b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391300356,
+        "stop" : 1658391491396,
+        "duration" : 191040
+      }
+    }, {
       "uid" : "7140864d080d6183",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/7140864d080d6183",
       "status" : "passed",
@@ -2558,78 +3121,6 @@
         "stop" : 1658354887332,
         "duration" : 189617
       }
-    }, {
-      "uid" : "ebf6b6faf5c3e054",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/ebf6b6faf5c3e054",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658354697715,
-        "stop" : 1658354887332,
-        "duration" : 189617
-      }
-    }, {
-      "uid" : "45dfdc1a1fad97f5",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/45dfdc1a1fad97f5",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658354697715,
-        "stop" : 1658354887332,
-        "duration" : 189617
-      }
-    }, {
-      "uid" : "830f52f77805189c",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/830f52f77805189c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658354697715,
-        "stop" : 1658354887332,
-        "duration" : 189617
-      }
-    }, {
-      "uid" : "fbccebed99472e48",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/fbccebed99472e48",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658354697715,
-        "stop" : 1658354887332,
-        "duration" : 189617
-      }
-    }, {
-      "uid" : "26bb7359cf72a5aa",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/26bb7359cf72a5aa",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658354697715,
-        "stop" : 1658354887332,
-        "duration" : 189617
-      }
-    }, {
-      "uid" : "3aff0888b2190734",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/3aff0888b2190734",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658354697715,
-        "stop" : 1658354887332,
-        "duration" : 189617
-      }
-    }, {
-      "uid" : "e7db30a3227f92ea",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/e7db30a3227f92ea",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658354697715,
-        "stop" : 1658354887332,
-        "duration" : 189617
-      }
-    }, {
-      "uid" : "76361cab7c7f5426",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/76361cab7c7f5426",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658354697715,
-        "stop" : 1658354887332,
-        "duration" : 189617
-      }
     } ]
   },
   "d6d17ec658365ac545f491649d05b026" : {
@@ -2637,11 +3128,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 8,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 8
+      "total" : 16
     },
     "items" : [ {
+      "uid" : "cb6914b066db2f41",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/cb6914b066db2f41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390670723,
+        "stop" : 1658390767733,
+        "duration" : 97010
+      }
+    }, {
+      "uid" : "9c59689c39d3618c",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/9c59689c39d3618c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390670723,
+        "stop" : 1658390767733,
+        "duration" : 97010
+      }
+    }, {
+      "uid" : "f1e3cc6a9c6ac223",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/f1e3cc6a9c6ac223",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390670723,
+        "stop" : 1658390767733,
+        "duration" : 97010
+      }
+    }, {
+      "uid" : "d117563a255b1e93",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/d117563a255b1e93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390670723,
+        "stop" : 1658390767733,
+        "duration" : 97010
+      }
+    }, {
+      "uid" : "8401430e836bbdb3",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/8401430e836bbdb3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390670723,
+        "stop" : 1658390767733,
+        "duration" : 97010
+      }
+    }, {
+      "uid" : "b7cbcdd680bb4a1a",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/b7cbcdd680bb4a1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390670723,
+        "stop" : 1658390767733,
+        "duration" : 97010
+      }
+    }, {
+      "uid" : "f1fb37ca310a4c5e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/f1fb37ca310a4c5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390670723,
+        "stop" : 1658390767733,
+        "duration" : 97010
+      }
+    }, {
+      "uid" : "d8788f54dd6710a9",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/d8788f54dd6710a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390670723,
+        "stop" : 1658390767733,
+        "duration" : 97010
+      }
+    }, {
       "uid" : "fbdd5e518bf3289",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/fbdd5e518bf3289",
       "status" : "passed",
@@ -2720,11 +3283,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 21,
+      "passed" : 29,
       "unknown" : 0,
-      "total" : 21
+      "total" : 29
     },
     "items" : [ {
+      "uid" : "12eea8eb7ce0dd52",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/12eea8eb7ce0dd52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390808768,
+        "stop" : 1658390852899,
+        "duration" : 44131
+      }
+    }, {
+      "uid" : "1220041de1a33b47",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/1220041de1a33b47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390808768,
+        "stop" : 1658390852899,
+        "duration" : 44131
+      }
+    }, {
+      "uid" : "207fa37d266e8bef",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/207fa37d266e8bef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390808768,
+        "stop" : 1658390852899,
+        "duration" : 44131
+      }
+    }, {
+      "uid" : "f0d7ac8616c77fcc",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/f0d7ac8616c77fcc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390808768,
+        "stop" : 1658390852899,
+        "duration" : 44131
+      }
+    }, {
+      "uid" : "17d1e60dd1422230",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/17d1e60dd1422230",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390808768,
+        "stop" : 1658390852899,
+        "duration" : 44131
+      }
+    }, {
+      "uid" : "6cad6a4d308fc2fe",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/6cad6a4d308fc2fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390808768,
+        "stop" : 1658390852899,
+        "duration" : 44131
+      }
+    }, {
+      "uid" : "773706e2d1af1aaa",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/773706e2d1af1aaa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390808768,
+        "stop" : 1658390852899,
+        "duration" : 44131
+      }
+    }, {
+      "uid" : "7c55233a663faaa2",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/7c55233a663faaa2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390808768,
+        "stop" : 1658390852899,
+        "duration" : 44131
+      }
+    }, {
       "uid" : "5bec2f09352ca541",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/5bec2f09352ca541",
       "status" : "passed",
@@ -2832,78 +3467,6 @@
         "stop" : 1658351711849,
         "duration" : 43983
       }
-    }, {
-      "uid" : "1455943b96161e12",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/1455943b96161e12",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658351667866,
-        "stop" : 1658351711849,
-        "duration" : 43983
-      }
-    }, {
-      "uid" : "402061c26a917c44",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/402061c26a917c44",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658351667866,
-        "stop" : 1658351711849,
-        "duration" : 43983
-      }
-    }, {
-      "uid" : "487f56556608df1a",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/487f56556608df1a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658351667866,
-        "stop" : 1658351711849,
-        "duration" : 43983
-      }
-    }, {
-      "uid" : "bd9d8173cef73775",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/bd9d8173cef73775",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658351667866,
-        "stop" : 1658351711849,
-        "duration" : 43983
-      }
-    }, {
-      "uid" : "695fd083d0fa6873",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/695fd083d0fa6873",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658351667866,
-        "stop" : 1658351711849,
-        "duration" : 43983
-      }
-    }, {
-      "uid" : "aaf5636115b3f571",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/aaf5636115b3f571",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658351667866,
-        "stop" : 1658351711849,
-        "duration" : 43983
-      }
-    }, {
-      "uid" : "a91658baf7005b6",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/a91658baf7005b6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658351667866,
-        "stop" : 1658351711849,
-        "duration" : 43983
-      }
-    }, {
-      "uid" : "6df4eca765c867cf",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/6df4eca765c867cf",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658351667866,
-        "stop" : 1658351711849,
-        "duration" : 43983
-      }
     } ]
   },
   "e50b8b29443927a92f78cb2c9b2714c3" : {
@@ -2911,11 +3474,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 35,
+      "passed" : 43,
       "unknown" : 0,
-      "total" : 35
+      "total" : 43
     },
     "items" : [ {
+      "uid" : "206e763bc25b3a4f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/206e763bc25b3a4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714879593,
+        "stop" : 1657714917479,
+        "duration" : 37886
+      }
+    }, {
+      "uid" : "295878cd493de6b0",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/295878cd493de6b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714879593,
+        "stop" : 1657714917479,
+        "duration" : 37886
+      }
+    }, {
+      "uid" : "ff2c8b75e8fd7799",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/ff2c8b75e8fd7799",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714879593,
+        "stop" : 1657714917479,
+        "duration" : 37886
+      }
+    }, {
+      "uid" : "826d20dd63b1b45e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/826d20dd63b1b45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714879593,
+        "stop" : 1657714917479,
+        "duration" : 37886
+      }
+    }, {
+      "uid" : "ee166baa0f919874",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/ee166baa0f919874",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714879593,
+        "stop" : 1657714917479,
+        "duration" : 37886
+      }
+    }, {
+      "uid" : "dcb5e26f5e360d1",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/dcb5e26f5e360d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714879593,
+        "stop" : 1657714917479,
+        "duration" : 37886
+      }
+    }, {
+      "uid" : "a611fd84900b292d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/a611fd84900b292d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714879593,
+        "stop" : 1657714917479,
+        "duration" : 37886
+      }
+    }, {
+      "uid" : "e5d326ec0f2d0abc",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/e5d326ec0f2d0abc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714879593,
+        "stop" : 1657714917479,
+        "duration" : 37886
+      }
+    }, {
       "uid" : "18fcf75f0059467a",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/18fcf75f0059467a",
       "status" : "passed",
@@ -3023,78 +3658,6 @@
         "stop" : 1657714917479,
         "duration" : 37886
       }
-    }, {
-      "uid" : "f72a923bfc71e426",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/f72a923bfc71e426",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714879593,
-        "stop" : 1657714917479,
-        "duration" : 37886
-      }
-    }, {
-      "uid" : "9909d9fcc5ebfbbf",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/9909d9fcc5ebfbbf",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714879593,
-        "stop" : 1657714917479,
-        "duration" : 37886
-      }
-    }, {
-      "uid" : "69541bfb99ed799c",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/69541bfb99ed799c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714879593,
-        "stop" : 1657714917479,
-        "duration" : 37886
-      }
-    }, {
-      "uid" : "f550a3a82bfed6a",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/f550a3a82bfed6a",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714879593,
-        "stop" : 1657714917479,
-        "duration" : 37886
-      }
-    }, {
-      "uid" : "41f3848f8660dc63",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/41f3848f8660dc63",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714879593,
-        "stop" : 1657714917479,
-        "duration" : 37886
-      }
-    }, {
-      "uid" : "89652601b257bcbf",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/89652601b257bcbf",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714879593,
-        "stop" : 1657714917479,
-        "duration" : 37886
-      }
-    }, {
-      "uid" : "e3eb1bfb2f8e510c",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/e3eb1bfb2f8e510c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714879593,
-        "stop" : 1657714917479,
-        "duration" : 37886
-      }
-    }, {
-      "uid" : "8c2fa7b7c09be2ca",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/8c2fa7b7c09be2ca",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714879593,
-        "stop" : 1657714917479,
-        "duration" : 37886
-      }
     } ]
   },
   "6f4c46cfda91967fc99ac50b95f0b6a5" : {
@@ -3102,11 +3665,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 13,
       "unknown" : 0,
-      "total" : 5
+      "total" : 13
     },
     "items" : [ {
+      "uid" : "1f4bb211c49600b",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/1f4bb211c49600b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391010355,
+        "stop" : 1658391036046,
+        "duration" : 25691
+      }
+    }, {
+      "uid" : "ab2701902bdf8bfa",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/ab2701902bdf8bfa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391010355,
+        "stop" : 1658391036046,
+        "duration" : 25691
+      }
+    }, {
+      "uid" : "342ec94c7719efa6",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/342ec94c7719efa6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391010355,
+        "stop" : 1658391036046,
+        "duration" : 25691
+      }
+    }, {
+      "uid" : "c11e1004e9c04113",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/c11e1004e9c04113",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391010355,
+        "stop" : 1658391036046,
+        "duration" : 25691
+      }
+    }, {
+      "uid" : "4c0085f9ba73a965",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/4c0085f9ba73a965",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391010355,
+        "stop" : 1658391036046,
+        "duration" : 25691
+      }
+    }, {
+      "uid" : "86d5ff5473152d92",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/86d5ff5473152d92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391010355,
+        "stop" : 1658391036046,
+        "duration" : 25691
+      }
+    }, {
+      "uid" : "27e3ae9ad321bbd",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/27e3ae9ad321bbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391010355,
+        "stop" : 1658391036046,
+        "duration" : 25691
+      }
+    }, {
+      "uid" : "cae61ab10e96ed68",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/cae61ab10e96ed68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658391010355,
+        "stop" : 1658391036046,
+        "duration" : 25691
+      }
+    }, {
       "uid" : "e61185c1d447d0b8",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/e61185c1d447d0b8",
       "status" : "passed",
@@ -3158,11 +3793,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 18,
       "unknown" : 0,
-      "total" : 10
+      "total" : 18
     },
     "items" : [ {
+      "uid" : "bdd69599484dbc80",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/bdd69599484dbc80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390372383,
+        "stop" : 1658390564251,
+        "duration" : 191868
+      }
+    }, {
+      "uid" : "1dfc26feea60ab85",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/1dfc26feea60ab85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390372383,
+        "stop" : 1658390564251,
+        "duration" : 191868
+      }
+    }, {
+      "uid" : "86ad5ad8cba891a0",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/86ad5ad8cba891a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390372383,
+        "stop" : 1658390564251,
+        "duration" : 191868
+      }
+    }, {
+      "uid" : "d6a8cef8f9fb9d26",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/d6a8cef8f9fb9d26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390372383,
+        "stop" : 1658390564251,
+        "duration" : 191868
+      }
+    }, {
+      "uid" : "7216a1e5e9d7d586",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/7216a1e5e9d7d586",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390372383,
+        "stop" : 1658390564251,
+        "duration" : 191868
+      }
+    }, {
+      "uid" : "b29af9457677d880",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/b29af9457677d880",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390372383,
+        "stop" : 1658390564251,
+        "duration" : 191868
+      }
+    }, {
+      "uid" : "b762cf54801fc3f1",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/b762cf54801fc3f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390372383,
+        "stop" : 1658390564251,
+        "duration" : 191868
+      }
+    }, {
+      "uid" : "60498a66cd46410b",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/60498a66cd46410b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390372383,
+        "stop" : 1658390564251,
+        "duration" : 191868
+      }
+    }, {
       "uid" : "66d69ff5f7a1c872",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/66d69ff5f7a1c872",
       "status" : "passed",
@@ -3259,11 +3966,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 69,
+      "passed" : 77,
       "unknown" : 0,
-      "total" : 69
+      "total" : 77
     },
     "items" : [ {
+      "uid" : "71a086a019c50746",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/71a086a019c50746",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714967807,
+        "stop" : 1657714995579,
+        "duration" : 27772
+      }
+    }, {
+      "uid" : "6d42b11518d50abb",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/6d42b11518d50abb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714967807,
+        "stop" : 1657714995579,
+        "duration" : 27772
+      }
+    }, {
+      "uid" : "4c5a72cf4aa6aa63",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/4c5a72cf4aa6aa63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714967807,
+        "stop" : 1657714995579,
+        "duration" : 27772
+      }
+    }, {
+      "uid" : "e9111930366e6ceb",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/e9111930366e6ceb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714967807,
+        "stop" : 1657714995579,
+        "duration" : 27772
+      }
+    }, {
+      "uid" : "7ec0ed82d99fcaee",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/7ec0ed82d99fcaee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714967807,
+        "stop" : 1657714995579,
+        "duration" : 27772
+      }
+    }, {
+      "uid" : "28120965db202f43",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/28120965db202f43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714967807,
+        "stop" : 1657714995579,
+        "duration" : 27772
+      }
+    }, {
+      "uid" : "e36665f4ce22ede7",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/e36665f4ce22ede7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714967807,
+        "stop" : 1657714995579,
+        "duration" : 27772
+      }
+    }, {
+      "uid" : "6915c9e1b11a3b4f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/6915c9e1b11a3b4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657714967807,
+        "stop" : 1657714995579,
+        "duration" : 27772
+      }
+    }, {
       "uid" : "ff7be25d5b8017a1",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/ff7be25d5b8017a1",
       "status" : "passed",
@@ -3371,78 +4150,6 @@
         "stop" : 1657714995579,
         "duration" : 27772
       }
-    }, {
-      "uid" : "e5e402dd94ca26fa",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/e5e402dd94ca26fa",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714967807,
-        "stop" : 1657714995579,
-        "duration" : 27772
-      }
-    }, {
-      "uid" : "95d17dc65155b2d3",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/95d17dc65155b2d3",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714967807,
-        "stop" : 1657714995579,
-        "duration" : 27772
-      }
-    }, {
-      "uid" : "bb562d9090982ca9",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/bb562d9090982ca9",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714967807,
-        "stop" : 1657714995579,
-        "duration" : 27772
-      }
-    }, {
-      "uid" : "e23f0bf5f4a38aa8",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/e23f0bf5f4a38aa8",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714967807,
-        "stop" : 1657714995579,
-        "duration" : 27772
-      }
-    }, {
-      "uid" : "5b8aa4dfa470561",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/5b8aa4dfa470561",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714967807,
-        "stop" : 1657714995579,
-        "duration" : 27772
-      }
-    }, {
-      "uid" : "1a5c0ee3e1401425",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/1a5c0ee3e1401425",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714967807,
-        "stop" : 1657714995579,
-        "duration" : 27772
-      }
-    }, {
-      "uid" : "6ceda2978f9bd8a0",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/6ceda2978f9bd8a0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714967807,
-        "stop" : 1657714995579,
-        "duration" : 27772
-      }
-    }, {
-      "uid" : "651396bd7556f38d",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/651396bd7556f38d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714967807,
-        "stop" : 1657714995579,
-        "duration" : 27772
-      }
     } ]
   },
   "5a79a7feb2eba4df1f62feb365a5125e" : {
@@ -3450,11 +4157,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 11,
+      "passed" : 19,
       "unknown" : 0,
-      "total" : 11
+      "total" : 19
     },
     "items" : [ {
+      "uid" : "9c26f711287f297f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/9c26f711287f297f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390153536,
+        "stop" : 1658390321010,
+        "duration" : 167474
+      }
+    }, {
+      "uid" : "ca2348f685bc780e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/ca2348f685bc780e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390153536,
+        "stop" : 1658390321010,
+        "duration" : 167474
+      }
+    }, {
+      "uid" : "1ae112d27e13241",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/1ae112d27e13241",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390153536,
+        "stop" : 1658390321010,
+        "duration" : 167474
+      }
+    }, {
+      "uid" : "586a432c582a54fc",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/586a432c582a54fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390153536,
+        "stop" : 1658390321010,
+        "duration" : 167474
+      }
+    }, {
+      "uid" : "3726f0e803874cc4",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/3726f0e803874cc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390153536,
+        "stop" : 1658390321010,
+        "duration" : 167474
+      }
+    }, {
+      "uid" : "16efbdf3e6cbb23d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/16efbdf3e6cbb23d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390153536,
+        "stop" : 1658390321010,
+        "duration" : 167474
+      }
+    }, {
+      "uid" : "cdd8491527502c63",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/cdd8491527502c63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390153536,
+        "stop" : 1658390321010,
+        "duration" : 167474
+      }
+    }, {
+      "uid" : "24313fd210ce74c6",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/24313fd210ce74c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658390153536,
+        "stop" : 1658390321010,
+        "duration" : 167474
+      }
+    }, {
       "uid" : "9d83d2c5a95ebacd",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/9d83d2c5a95ebacd",
       "status" : "passed",
@@ -3560,11 +4339,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 43,
+      "passed" : 51,
       "unknown" : 0,
-      "total" : 43
+      "total" : 51
     },
     "items" : [ {
+      "uid" : "c1d179649daf4be3",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/c1d179649daf4be3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657741129749,
+        "stop" : 1657741172640,
+        "duration" : 42891
+      }
+    }, {
+      "uid" : "37bf9325f51c5eaf",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/37bf9325f51c5eaf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657741129749,
+        "stop" : 1657741172640,
+        "duration" : 42891
+      }
+    }, {
+      "uid" : "958ec4be31c6ced9",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/958ec4be31c6ced9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657741129749,
+        "stop" : 1657741172640,
+        "duration" : 42891
+      }
+    }, {
+      "uid" : "611a0543cd4255f0",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/611a0543cd4255f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657741129749,
+        "stop" : 1657741172640,
+        "duration" : 42891
+      }
+    }, {
+      "uid" : "3d63d8a6838b6ae3",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/3d63d8a6838b6ae3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657741129749,
+        "stop" : 1657741172640,
+        "duration" : 42891
+      }
+    }, {
+      "uid" : "ca241853d8a5ea17",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/ca241853d8a5ea17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657741129749,
+        "stop" : 1657741172640,
+        "duration" : 42891
+      }
+    }, {
+      "uid" : "cfd027e582926fca",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/cfd027e582926fca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657741129749,
+        "stop" : 1657741172640,
+        "duration" : 42891
+      }
+    }, {
+      "uid" : "bea24db1d71a467c",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/bea24db1d71a467c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657741129749,
+        "stop" : 1657741172640,
+        "duration" : 42891
+      }
+    }, {
       "uid" : "b3e21a480a5edb9",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/b3e21a480a5edb9",
       "status" : "passed",
@@ -3672,78 +4523,6 @@
         "stop" : 1657741172640,
         "duration" : 42891
       }
-    }, {
-      "uid" : "65ef35f1a2e60ac6",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/65ef35f1a2e60ac6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657741129749,
-        "stop" : 1657741172640,
-        "duration" : 42891
-      }
-    }, {
-      "uid" : "e665a34d7c6f8c21",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/e665a34d7c6f8c21",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657741129749,
-        "stop" : 1657741172640,
-        "duration" : 42891
-      }
-    }, {
-      "uid" : "42b81d33923cd13d",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/42b81d33923cd13d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657741129749,
-        "stop" : 1657741172640,
-        "duration" : 42891
-      }
-    }, {
-      "uid" : "bd4818ac108ce227",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/bd4818ac108ce227",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657741129749,
-        "stop" : 1657741172640,
-        "duration" : 42891
-      }
-    }, {
-      "uid" : "c9bbeef8b9b583bf",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/c9bbeef8b9b583bf",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657741129749,
-        "stop" : 1657741172640,
-        "duration" : 42891
-      }
-    }, {
-      "uid" : "4e45956f7cceb0ae",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/4e45956f7cceb0ae",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657741129749,
-        "stop" : 1657741172640,
-        "duration" : 42891
-      }
-    }, {
-      "uid" : "bd0cd027203869d6",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/bd0cd027203869d6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657741129749,
-        "stop" : 1657741172640,
-        "duration" : 42891
-      }
-    }, {
-      "uid" : "69440300eba7955f",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/69440300eba7955f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657741129749,
-        "stop" : 1657741172640,
-        "duration" : 42891
-      }
     } ]
   },
   "22bfb074537c46f6ba6e08c3085b9cd4" : {
@@ -3751,11 +4530,83 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 38,
+      "passed" : 46,
       "unknown" : 0,
-      "total" : 38
+      "total" : 46
     },
     "items" : [ {
+      "uid" : "65a42d318f91a6f3",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/108/allure/#testresult/65a42d318f91a6f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658662679516,
+        "stop" : 1658662773508,
+        "duration" : 93992
+      }
+    }, {
+      "uid" : "9631c98a2a50270a",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/9631c98a2a50270a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658662679516,
+        "stop" : 1658662773508,
+        "duration" : 93992
+      }
+    }, {
+      "uid" : "aa08d1bf22b8a93d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/aa08d1bf22b8a93d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658662679516,
+        "stop" : 1658662773508,
+        "duration" : 93992
+      }
+    }, {
+      "uid" : "43446e632b69410d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/43446e632b69410d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658662679516,
+        "stop" : 1658662773508,
+        "duration" : 93992
+      }
+    }, {
+      "uid" : "c56fd0fffb388785",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/c56fd0fffb388785",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658388475515,
+        "stop" : 1658388567974,
+        "duration" : 92459
+      }
+    }, {
+      "uid" : "3f69275295740aa6",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/3f69275295740aa6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658388475515,
+        "stop" : 1658388567974,
+        "duration" : 92459
+      }
+    }, {
+      "uid" : "4210a34b6755a04b",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/4210a34b6755a04b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658388475515,
+        "stop" : 1658388567974,
+        "duration" : 92459
+      }
+    }, {
+      "uid" : "b3bc217f31de438d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/b3bc217f31de438d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658388475515,
+        "stop" : 1658388567974,
+        "duration" : 92459
+      }
+    }, {
       "uid" : "8bcff3fb28fdda7a",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/8bcff3fb28fdda7a",
       "status" : "passed",
@@ -3862,78 +4713,6 @@
         "start" : 1658388475515,
         "stop" : 1658388567974,
         "duration" : 92459
-      }
-    }, {
-      "uid" : "33d9101ff433fe06",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/33d9101ff433fe06",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658388475515,
-        "stop" : 1658388567974,
-        "duration" : 92459
-      }
-    }, {
-      "uid" : "b1d431f67fe05089",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/87/allure/#testresult/b1d431f67fe05089",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658388475515,
-        "stop" : 1658388567974,
-        "duration" : 92459
-      }
-    }, {
-      "uid" : "fb3f0f460ffb33cf",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/86/allure/#testresult/fb3f0f460ffb33cf",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658388475515,
-        "stop" : 1658388567974,
-        "duration" : 92459
-      }
-    }, {
-      "uid" : "7f7749a589364d0f",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/85/allure/#testresult/7f7749a589364d0f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658388475515,
-        "stop" : 1658388567974,
-        "duration" : 92459
-      }
-    }, {
-      "uid" : "9862ad4db9c52d28",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/84/allure/#testresult/9862ad4db9c52d28",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658388475515,
-        "stop" : 1658388567974,
-        "duration" : 92459
-      }
-    }, {
-      "uid" : "4725b899b768f4ab",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/83/allure/#testresult/4725b899b768f4ab",
-      "status" : "passed",
-      "time" : {
-        "start" : 1658388475515,
-        "stop" : 1658388567974,
-        "duration" : 92459
-      }
-    }, {
-      "uid" : "3ad0c6e58816b9cb",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/82/allure/#testresult/3ad0c6e58816b9cb",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714277159,
-        "stop" : 1657714359185,
-        "duration" : 82026
-      }
-    }, {
-      "uid" : "df4becfe489fef17",
-      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/81/allure/#testresult/df4becfe489fef17",
-      "status" : "passed",
-      "time" : {
-        "start" : 1657714277159,
-        "stop" : 1657714359185,
-        "duration" : 82026
       }
     } ]
   }

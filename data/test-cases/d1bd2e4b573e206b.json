@@ -1,0 +1,344 @@
+{
+  "uid" : "d1bd2e4b573e206b",
+  "name" : "This will delete all items and subitems.",
+  "fullName" : "Test Custom Script: This will delete all items and subitems.",
+  "historyId" : "2424f508841ca59ebdec1414499ecc78",
+  "time" : {
+    "start" : 1658699614754,
+    "stop" : 1658699850064,
+    "duration" : 235310
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1658699614759,
+        "stop" : 1658699621014,
+        "duration" : 6255
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658699621015,
+        "stop" : 1658699641469,
+        "duration" : 20454
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a2a25799a9fb687d",
+        "name" : "Just Login",
+        "source" : "a2a25799a9fb687d.png",
+        "type" : "image/png",
+        "size" : 76501
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Given  AddCase 1 1 \"IPEX Staging\" \"IPEX Staging\"",
+      "time" : {
+        "start" : 1658699641471,
+        "stop" : 1658699849154,
+        "duration" : 207683
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658699849157,
+      "stop" : 1658699850063,
+      "duration" : 906
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "DeleteItemAndSubItem"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "13708@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "story",
+    "value" : "This will delete all items and subitems."
+  }, {
+    "name" : "suite",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "testClass",
+    "value" : "This will delete all items and subitems."
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/CustomScript.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.CustomScript_feature.Test Custom Script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7fdca4a9c954a29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657777970485,
+        "stop" : 1657778062068,
+        "duration" : 91583
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 38,
+        "unknown" : 0,
+        "total" : 38
+      },
+      "items" : [ {
+        "uid" : "caeb7c27663fe239",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/107/allure/#testresult/caeb7c27663fe239",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658699614754,
+          "stop" : 1658699850064,
+          "duration" : 235310
+        }
+      }, {
+        "uid" : "e6eb393b4299c12e",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/106/allure/#testresult/e6eb393b4299c12e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658699614754,
+          "stop" : 1658699850064,
+          "duration" : 235310
+        }
+      }, {
+        "uid" : "f27b780deb8c45ef",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/105/allure/#testresult/f27b780deb8c45ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "215536a5f2cc1682",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/104/allure/#testresult/215536a5f2cc1682",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "b96ff5f7460edf31",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/103/allure/#testresult/b96ff5f7460edf31",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "493f920d7230d67c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/102/allure/#testresult/493f920d7230d67c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "de1167f7c9590dea",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/101/allure/#testresult/de1167f7c9590dea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "7889109892ea9bba",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/100/allure/#testresult/7889109892ea9bba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "8cc9ce13a29461f0",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/99/allure/#testresult/8cc9ce13a29461f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "8cf73b04c5a9385e",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/98/allure/#testresult/8cf73b04c5a9385e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "2c0941c31a94b722",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/97/allure/#testresult/2c0941c31a94b722",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "f06752949f9a118e",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/96/allure/#testresult/f06752949f9a118e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "698cff10dc5bcfc3",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/95/allure/#testresult/698cff10dc5bcfc3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "271cb0451535d365",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/94/allure/#testresult/271cb0451535d365",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "e53e80f39ee7cc63",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/93/allure/#testresult/e53e80f39ee7cc63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "c414478da6edfb1c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/92/allure/#testresult/c414478da6edfb1c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "7f7eff2b057bafb8",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/91/allure/#testresult/7f7eff2b057bafb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "6bd3894a04da1555",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/90/allure/#testresult/6bd3894a04da1555",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "9196cb8228ddc329",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/89/allure/#testresult/9196cb8228ddc329",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      }, {
+        "uid" : "f8191d76866a63b5",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxTest/88/allure/#testresult/f8191d76866a63b5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657777970485,
+          "stop" : 1657778062068,
+          "duration" : 91583
+        }
+      } ]
+    },
+    "tags" : [ "DeleteItemAndSubItem" ]
+  },
+  "source" : "d1bd2e4b573e206b.json",
+  "parameterValues" : [ ]
+}

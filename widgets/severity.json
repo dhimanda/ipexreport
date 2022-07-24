@@ -1,55 +1,5 @@
 [ {
-  "uid" : "dab0b7caec4279b6",
-  "name" : "Change order status of a case",
-  "time" : {
-    "start" : 1658389486316,
-    "stop" : 1658389649625,
-    "duration" : 163309
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6cfd034b943ebe14",
-  "name" : "Just Login Test",
-  "time" : {
-    "start" : 1658390083017,
-    "stop" : 1658390108926,
-    "duration" : 25909
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fbdd5e518bf3289",
-  "name" : "Download excel report from case list",
-  "time" : {
-    "start" : 1658390670723,
-    "stop" : 1658390767733,
-    "duration" : 97010
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d93ca7c11d68050",
-  "name" : "This will create a new user and Verify User Created User's Email.",
-  "time" : {
-    "start" : 1658389707452,
-    "stop" : 1658389917918,
-    "duration" : 210466
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "419f6d7ada218c2f",
-  "name" : "This will create a new user and delete that user",
-  "time" : {
-    "start" : 1658387989985,
-    "stop" : 1658388114059,
-    "duration" : 124074
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ff7be25d5b8017a1",
+  "uid" : "71a086a019c50746",
   "name" : "Select mail using insurance provider & mail index",
   "time" : {
     "start" : 1657714967807,
@@ -59,47 +9,7 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8bcff3fb28fdda7a",
-  "name" : "Adding a Single Case",
-  "time" : {
-    "start" : 1658388475515,
-    "stop" : 1658388567974,
-    "duration" : 92459
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c5d008d06336f3d1",
-  "name" : "This will rename current user and try to match after update",
-  "time" : {
-    "start" : 1658391168474,
-    "stop" : 1658391218275,
-    "duration" : 49801
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "66d69ff5f7a1c872",
-  "name" : "Create & Edit a Case",
-  "time" : {
-    "start" : 1658390372383,
-    "stop" : 1658390564251,
-    "duration" : 191868
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7889109892ea9bba",
-  "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
-  "time" : {
-    "start" : 1657777970485,
-    "stop" : 1657778062068,
-    "duration" : 91583
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "26092e99dcba2e17",
+  "uid" : "358365770eeda5e0",
   "name" : "Create a new user",
   "time" : {
     "start" : 1658389972394,
@@ -109,27 +19,27 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b3e21a480a5edb9",
-  "name" : "This will rename current user and try to match after update",
+  "uid" : "1f4bb211c49600b",
+  "name" : "Populate mailbox for an insurance provider & navigate",
   "time" : {
-    "start" : 1657741129749,
-    "stop" : 1657741172640,
-    "duration" : 42891
+    "start" : 1658391010355,
+    "stop" : 1658391036046,
+    "duration" : 25691
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "18fcf75f0059467a",
-  "name" : "Assign inspector from case list",
+  "uid" : "bdd69599484dbc80",
+  "name" : "Create & Edit a Case",
   "time" : {
-    "start" : 1657714879593,
-    "stop" : 1657714917479,
-    "duration" : 37886
+    "start" : 1658390372383,
+    "stop" : 1658390564251,
+    "duration" : 191868
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "9d83d2c5a95ebacd",
+  "uid" : "9c26f711287f297f",
   "name" : "Delete a particular case",
   "time" : {
     "start" : 1658390153536,
@@ -139,77 +49,7 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "de1557f748bf2502",
-  "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
-  "time" : {
-    "start" : 1658308244615,
-    "stop" : 1658308339463,
-    "duration" : 94848
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7e23bf41951ab28f",
-  "name" : "Assign inspector from case list",
-  "time" : {
-    "start" : 1658246578550,
-    "stop" : 1658246618249,
-    "duration" : 39699
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5bec2f09352ca541",
-  "name" : "Filter department and verify all mails shows department's tag",
-  "time" : {
-    "start" : 1658390808768,
-    "stop" : 1658390852899,
-    "duration" : 44131
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4b9a137f8821b20f",
-  "name" : "Select mail using insurance provider & mail index",
-  "time" : {
-    "start" : 1658391075936,
-    "stop" : 1658391103972,
-    "duration" : 28036
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7140864d080d6183",
-  "name" : "It will create a case then edit the case",
-  "time" : {
-    "start" : 1658391300356,
-    "stop" : 1658391491396,
-    "duration" : 191040
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cba50030a65df95e",
-  "name" : "This will find a user by email and validate",
-  "time" : {
-    "start" : 1658390909198,
-    "stop" : 1658390950110,
-    "duration" : 40912
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c572016556bd7361",
-  "name" : "Change order status of a case",
-  "time" : {
-    "start" : 1657733824790,
-    "stop" : 1657733865102,
-    "duration" : 40312
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "762e8dc5cefb575e",
+  "uid" : "c947cd0f7472dccb",
   "name" : "Download excel report from case list",
   "time" : {
     "start" : 1658232846426,
@@ -219,12 +59,192 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e61185c1d447d0b8",
-  "name" : "Populate mailbox for an insurance provider & navigate",
+  "uid" : "da8f34af741c6fc2",
+  "name" : "It will create a case then edit the case",
   "time" : {
-    "start" : 1658391010355,
-    "stop" : 1658391036046,
-    "duration" : 25691
+    "start" : 1658701483249,
+    "stop" : 1658701680345,
+    "duration" : 197096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6d855c704a5718",
+  "name" : "This will create a new user and Verify User Created User's Email.",
+  "time" : {
+    "start" : 1658389707452,
+    "stop" : 1658389917918,
+    "duration" : 210466
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e4af34fe4b6f214",
+  "name" : "Select mail using insurance provider & mail index",
+  "time" : {
+    "start" : 1658391075936,
+    "stop" : 1658391103972,
+    "duration" : 28036
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9920a61b58434fd",
+  "name" : "Just Login Test",
+  "time" : {
+    "start" : 1658390083017,
+    "stop" : 1658390108926,
+    "duration" : 25909
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1bd2e4b573e206b",
+  "name" : "This will delete all items and subitems.",
+  "time" : {
+    "start" : 1658699614754,
+    "stop" : 1658699850064,
+    "duration" : 235310
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "206e763bc25b3a4f",
+  "name" : "Assign inspector from case list",
+  "time" : {
+    "start" : 1657714879593,
+    "stop" : 1657714917479,
+    "duration" : 37886
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f25e545a32dbf56",
+  "name" : "Change order status of a case",
+  "time" : {
+    "start" : 1657733824790,
+    "stop" : 1657733865102,
+    "duration" : 40312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7dac0f06583472d",
+  "name" : "This will rename current user and try to match after update",
+  "time" : {
+    "start" : 1658391168474,
+    "stop" : 1658391218275,
+    "duration" : 49801
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d564daeb9da74ee0",
+  "name" : "This will find a user by email and validate",
+  "time" : {
+    "start" : 1658390909198,
+    "stop" : 1658390950110,
+    "duration" : 40912
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60046bd469131123",
+  "name" : "Assign inspector from case list",
+  "time" : {
+    "start" : 1658662226145,
+    "stop" : 1658662287248,
+    "duration" : 61103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "543bbc3ee157ef0a",
+  "name" : "Assign inspector from case list",
+  "time" : {
+    "start" : 1658246578550,
+    "stop" : 1658246618249,
+    "duration" : 39699
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1d179649daf4be3",
+  "name" : "This will rename current user and try to match after update",
+  "time" : {
+    "start" : 1657741129749,
+    "stop" : 1657741172640,
+    "duration" : 42891
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4daaf199f25de3f4",
+  "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
+  "time" : {
+    "start" : 1658308244615,
+    "stop" : 1658308339463,
+    "duration" : 94848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "885077aa47c4ade9",
+  "name" : "This will create a new user and delete that user",
+  "time" : {
+    "start" : 1658387989985,
+    "stop" : 1658388114059,
+    "duration" : 124074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12eea8eb7ce0dd52",
+  "name" : "Filter department and verify all mails shows department's tag",
+  "time" : {
+    "start" : 1658390808768,
+    "stop" : 1658390852899,
+    "duration" : 44131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64e49c85ba6d2420",
+  "name" : "Adding a Single Case",
+  "time" : {
+    "start" : 1658701372078,
+    "stop" : 1658701455594,
+    "duration" : 83516
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb6914b066db2f41",
+  "name" : "Download excel report from case list",
+  "time" : {
+    "start" : 1658390670723,
+    "stop" : 1658390767733,
+    "duration" : 97010
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65a42d318f91a6f3",
+  "name" : "Adding a Single Case",
+  "time" : {
+    "start" : 1658662679516,
+    "stop" : 1658662773508,
+    "duration" : 93992
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35fd063307678d40",
+  "name" : "Change order status of a case",
+  "time" : {
+    "start" : 1658389486316,
+    "stop" : 1658389649625,
+    "duration" : 163309
   },
   "status" : "passed",
   "severity" : "normal"
