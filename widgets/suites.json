@@ -1,30 +1,8 @@
 {
-  "total" : 3,
+  "total" : 1,
   "items" : [ {
-    "uid" : "43d2f9445691326481fd7682c4abcc3e",
-    "name" : "Test Custom Script",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 22,
-      "unknown" : 0,
-      "total" : 22
-    }
-  }, {
-    "uid" : "3a876a6fc0d57e1976364cf4c14c10d2",
-    "name" : "User Related Tests",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "19eeed7f4ed98c9007d038aab7bc401a",
-    "name" : "A Happy flow for Create and Edit a case",
+    "uid" : "b9d3b50110d64db68494fd772c025dd6",
+    "name" : "Case Creation Module",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
