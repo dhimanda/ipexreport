@@ -1,0 +1,157 @@
+{
+  "uid" : "26fd82cfb6c8056",
+  "name" : "This will find a valid case from list and generate report then send.",
+  "fullName" : "Case Details Module: This will find a valid case from list and generate report then send.",
+  "historyId" : "480d9e9276ef8c214858e5b62ac91568",
+  "time" : {
+    "start" : 1658831378038,
+    "stop" : 1658831419951,
+    "duration" : 41913
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1658831378039,
+        "stop" : 1658831382939,
+        "duration" : 4900
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658831382939,
+        "stop" : 1658831402118,
+        "duration" : 19179
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "28ece70ab94ca7b5",
+        "name" : "Just Login",
+        "source" : "28ece70ab94ca7b5.png",
+        "type" : "image/png",
+        "size" : 76392
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "Given  GenerateReportAndSendReport",
+      "time" : {
+        "start" : 1658831402118,
+        "stop" : 1658831418956,
+        "duration" : 16838
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3c4af256b09c78fd",
+        "name" : "Generate Report and Send Report",
+        "source" : "3c4af256b09c78fd.png",
+        "type" : "image/png",
+        "size" : 130235
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658831418957,
+      "stop" : 1658831419951,
+      "duration" : 994
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "GenerateReportAndSendReport"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseDetails"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "19484@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case Details Module"
+  }, {
+    "name" : "story",
+    "value" : "This will find a valid case from list and generate report then send."
+  }, {
+    "name" : "suite",
+    "value" : "Case Details Module"
+  }, {
+    "name" : "testClass",
+    "value" : "This will find a valid case from list and generate report then send."
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20Details%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case Details Module_feature.Case Details Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "allTest", "GenerateReportAndSendReport", "CaseDetails" ]
+  },
+  "source" : "26fd82cfb6c8056.json",
+  "parameterValues" : [ ]
+}

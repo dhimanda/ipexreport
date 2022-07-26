@@ -1,5 +1,5 @@
 {
-  "ae49ef509293acdab39cd8021318b783" : {
+  "ca8d9e7bae7eaa1d414746982c86152f" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -9,6 +9,75 @@
       "total" : 1
     },
     "items" : [ {
+      "uid" : "a330a0f2f4e91d4d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/a330a0f2f4e91d4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658831760637,
+        "stop" : 1658831926923,
+        "duration" : 166286
+      }
+    } ]
+  },
+  "41819162970e0f4957f57604f364b81" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c74677f8cafe3a7",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/7c74677f8cafe3a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658831582318,
+        "stop" : 1658831760628,
+        "duration" : 178310
+      }
+    } ]
+  },
+  "7bb2adae2cbaed575a3bd2a5f1450c56" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "39f61e3a05720abd",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/39f61e3a05720abd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658832377864,
+        "stop" : 1658832402302,
+        "duration" : 24438
+      }
+    } ]
+  },
+  "ae49ef509293acdab39cd8021318b783" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "aba97f8a5fe7f353",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/aba97f8a5fe7f353",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658830909507,
+        "stop" : 1658830939401,
+        "duration" : 29894
+      }
+    }, {
       "uid" : "c1f7ff9f7736dda6",
       "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/1/allure/#testresult/c1f7ff9f7736dda6",
       "status" : "passed",
@@ -16,6 +85,411 @@
         "start" : 1658830811086,
         "stop" : 1658830842490,
         "duration" : 31404
+      }
+    } ]
+  },
+  "37504e0ed8bf0130e8aeb618c03fac73" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef55a46f4742e02d",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/ef55a46f4742e02d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658832485628,
+        "stop" : 1658832528268,
+        "duration" : 42640
+      }
+    } ]
+  },
+  "c34833f5bdbbf79821f70632f18b515b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be5de9e1df8ba34f",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/be5de9e1df8ba34f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658831157270,
+        "stop" : 1658831378013,
+        "duration" : 220743
+      }
+    } ]
+  },
+  "b6263b6ba3eccf997ba0d48e13e7be24" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b2173f428b84cea",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/9b2173f428b84cea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658832784781,
+        "stop" : 1658832833965,
+        "duration" : 49184
+      }
+    } ]
+  },
+  "3f89d9b9f6775f4a4cbe3ce0a38b559" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0fab8e63775e00c",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/d0fab8e63775e00c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658832690939,
+        "stop" : 1658832784774,
+        "duration" : 93835
+      }
+    } ]
+  },
+  "87b930ecd1af96a59cda5616164f2a9d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "baa3f6ec8bc1c8ab",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/baa3f6ec8bc1c8ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658833294391,
+        "stop" : 1658833359478,
+        "duration" : 65087
+      }
+    } ]
+  },
+  "dc6c91562ef51cc361411ffc2f8ae336" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e729ef78e04534fc",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/e729ef78e04534fc",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//button[@class='mat-button mat-button-base w-100-p inspector-selector']/span/div)[2]/div\"}\n  (Session info: chrome=103.0.5060.134)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-NH20ML0', ip: '192.187.8.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\DhimanSB\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:3251}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2debba8121c1b2cd73f37528f1cc412d\n*** Element info: {Using=xpath, value=(//button[@class='mat-button mat-button-base w-100-p inspector-selector']/span/div)[2]/div}",
+      "time" : {
+        "start" : 1658831071197,
+        "stop" : 1658831157255,
+        "duration" : 86058
+      }
+    } ]
+  },
+  "98d2cc6c3d1443661da3e6abfca46c45" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a379c2271585e32",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/3a379c2271585e32",
+      "status" : "failed",
+      "statusDetails" : "Something went wrong, please try again!",
+      "time" : {
+        "start" : 1658832552211,
+        "stop" : 1658832690921,
+        "duration" : 138710
+      }
+    } ]
+  },
+  "3214534f5c1b6f3537c6aca2a5e01fda" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "804dc18a4df84428",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/804dc18a4df84428",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658831926928,
+        "stop" : 1658831982511,
+        "duration" : 55583
+      }
+    } ]
+  },
+  "b678db81c6d80923f00e9c9fae44530" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f593bfd1774d133",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/6f593bfd1774d133",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658831419956,
+        "stop" : 1658831582314,
+        "duration" : 162358
+      }
+    } ]
+  },
+  "7b8617d9f6cb8a052bb6a86fef487e1d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c4233d854aaed74",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/7c4233d854aaed74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658832528273,
+        "stop" : 1658832552196,
+        "duration" : 23923
+      }
+    } ]
+  },
+  "ae3dd53c8d400c80d455e89dcff3208a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6dc50e54991fed6e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/6dc50e54991fed6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658830939565,
+        "stop" : 1658830998933,
+        "duration" : 59368
+      }
+    } ]
+  },
+  "91053778d6e9f79ebd8aa3104a1a4cde" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c887ffe11e5f330e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/c887ffe11e5f330e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658833181846,
+        "stop" : 1658833221077,
+        "duration" : 39231
+      }
+    } ]
+  },
+  "d3184cf16765a3fa9fc84806b54e4b96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "36f7e66a1973480e",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/36f7e66a1973480e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658832402307,
+        "stop" : 1658832485623,
+        "duration" : 83316
+      }
+    } ]
+  },
+  "178ef3bc1b13c5bbda0d546dc0f42af3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "73df36780ebf2dc6",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/73df36780ebf2dc6",
+      "status" : "failed",
+      "statusDetails" : "expected [1] but found [4]",
+      "time" : {
+        "start" : 1658833221098,
+        "stop" : 1658833253539,
+        "duration" : 32441
+      }
+    } ]
+  },
+  "e35525866ea69c0802f0ec3ec3af42f1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4565438686892517",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/4565438686892517",
+      "status" : "failed",
+      "statusDetails" : "expected [1] but found [0]",
+      "time" : {
+        "start" : 1658833124362,
+        "stop" : 1658833181840,
+        "duration" : 57478
+      }
+    } ]
+  },
+  "480d9e9276ef8c214858e5b62ac91568" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "26fd82cfb6c8056",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/26fd82cfb6c8056",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658831378038,
+        "stop" : 1658831419951,
+        "duration" : 41913
+      }
+    } ]
+  },
+  "237fa5a6018b6f42537f943a235a259a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f1c369324a451e18",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/f1c369324a451e18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658830998967,
+        "stop" : 1658831071189,
+        "duration" : 72222
+      }
+    } ]
+  },
+  "756fd0a75713e3494577745d872e4828" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "252b05ac7ff32f0c",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/252b05ac7ff32f0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658831982516,
+        "stop" : 1658832377854,
+        "duration" : 395338
+      }
+    } ]
+  },
+  "cb36a6253b06a0f8649dc1ab5492f543" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cca9cac1478c2a64",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/cca9cac1478c2a64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658833253547,
+        "stop" : 1658833294375,
+        "duration" : 40828
+      }
+    } ]
+  },
+  "844c8408e0c69bda02cbc606ec1cd593" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cadff2a6c688e58a",
+      "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/cadff2a6c688e58a",
+      "status" : "failed",
+      "statusDetails" : "expected [1] but found [0]",
+      "time" : {
+        "start" : 1658832833973,
+        "stop" : 1658833124354,
+        "duration" : 290381
       }
     } ]
   }

@@ -1,5 +1,114 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//button[@class='mat-button mat-button-base w-100-p inspector-selector']/span/div)[2]/div\"}\n  (Session info: chrome=103.0.5060.134)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-NH20ML0', ip: '192.187.8.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\DhimanSB\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:3251}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 2debba8121c1b2cd73f37528f1cc412d\n*** Element info: {Using=xpath, value=(//button[@class='mat-button mat-button-base w-100-p inspector-selector']/span/div)[2]/div}",
+      "children" : [ {
+        "name" : "Verify default backoffice is set or not",
+        "uid" : "e729ef78e04534fc",
+        "parentUid" : "38da9cc007204ef4fd5a37ad33e80314",
+        "status" : "broken",
+        "time" : {
+          "start" : 1658831071197,
+          "stop" : 1658831157255,
+          "duration" : 86058
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "38da9cc007204ef4fd5a37ad33e80314"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Something went wrong, please try again!",
+      "children" : [ {
+        "name" : "Delete an email",
+        "uid" : "3a379c2271585e32",
+        "parentUid" : "06788efddf14888d6b14d9213776f5fc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658832552211,
+          "stop" : 1658832690921,
+          "duration" : 138710
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "06788efddf14888d6b14d9213776f5fc"
+    }, {
+      "name" : "expected [1] but found [0]",
+      "children" : [ {
+        "name" : "This will create a new user and delete that user",
+        "uid" : "cadff2a6c688e58a",
+        "parentUid" : "8d997fec59c31d253af1a54e2df2de96",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658832833973,
+          "stop" : 1658833124354,
+          "duration" : 290381
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Delete existing User by its mail",
+        "uid" : "4565438686892517",
+        "parentUid" : "8d997fec59c31d253af1a54e2df2de96",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658833124362,
+          "stop" : 1658833181840,
+          "duration" : 57478
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8d997fec59c31d253af1a54e2df2de96"
+    }, {
+      "name" : "expected [1] but found [4]",
+      "children" : [ {
+        "name" : "This will search a user by an email and assign or update then validate.",
+        "uid" : "73df36780ebf2dc6",
+        "parentUid" : "12b0aa545a13b19986f1e9ad3d12bfd1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1658833221098,
+          "stop" : 1658833253539,
+          "duration" : 32441
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "12b0aa545a13b19986f1e9ad3d12bfd1"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
 }
