@@ -1,0 +1,274 @@
+{
+  "uid" : "3c03ef62b0800043",
+  "name" : "This will delete all items and subitems create and edit the case.",
+  "fullName" : "Case Creation Module: This will delete all items and subitems create and edit the case.",
+  "historyId" : "c34833f5bdbbf79821f70632f18b515b",
+  "time" : {
+    "start" : 1658949236542,
+    "stop" : 1658949457135,
+    "duration" : 220593
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1658949236543,
+        "stop" : 1658949241300,
+        "duration" : 4757
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658949241302,
+        "stop" : 1658949260347,
+        "duration" : 19045
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7b1dada10c55ef31",
+        "name" : "Just Login",
+        "source" : "7b1dada10c55ef31.png",
+        "type" : "image/png",
+        "size" : 76479
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Given  AddCase 1 1 \"IPEX Staging\" \"IPEX Staging\"",
+      "time" : {
+        "start" : 1658949260347,
+        "stop" : 1658949456388,
+        "duration" : 196041
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eae0f52143ee6fd7",
+        "name" : "Case created after deleting",
+        "source" : "eae0f52143ee6fd7.png",
+        "type" : "image/png",
+        "size" : 143776
+      }, {
+        "uid" : "2b72671e1b1def52",
+        "name" : "Case hase been edited",
+        "source" : "2b72671e1b1def52.png",
+        "type" : "image/png",
+        "size" : 99557
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658949456388,
+      "stop" : 1658949457135,
+      "duration" : 747
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "DeleteItemAndSubItem"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseCreation"
+  }, {
+    "name" : "tag",
+    "value" : "AddItemAndSubItem"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "23356@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "story",
+    "value" : "This will delete all items and subitems create and edit the case."
+  }, {
+    "name" : "suite",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "testClass",
+    "value" : "This will delete all items and subitems create and edit the case."
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20Creation.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case Creation_feature.Case Creation Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6e5dc1341110075f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658909884032,
+        "stop" : 1658910106575,
+        "duration" : 222543
+      }
+    }, {
+      "uid" : "a14f4b852a393ea5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658831157270,
+        "stop" : 1658831378013,
+        "duration" : 220743
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "6e2e7dc6916eb9e8",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/10/allure/#testresult/6e2e7dc6916eb9e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658949236542,
+          "stop" : 1658949457135,
+          "duration" : 220593
+        }
+      }, {
+        "uid" : "f9ee09efaeb5f438",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/9/allure/#testresult/f9ee09efaeb5f438",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658949236542,
+          "stop" : 1658949457135,
+          "duration" : 220593
+        }
+      }, {
+        "uid" : "f31884e739dc8d27",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/8/allure/#testresult/f31884e739dc8d27",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658949236542,
+          "stop" : 1658949457135,
+          "duration" : 220593
+        }
+      }, {
+        "uid" : "30c11fbbdd1ac543",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/7/allure/#testresult/30c11fbbdd1ac543",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658909884032,
+          "stop" : 1658910106575,
+          "duration" : 222543
+        }
+      }, {
+        "uid" : "ee442d83e85913e4",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/6/allure/#testresult/ee442d83e85913e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658909884032,
+          "stop" : 1658910106575,
+          "duration" : 222543
+        }
+      }, {
+        "uid" : "c99b0bd97509b997",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/5/allure/#testresult/c99b0bd97509b997",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658831157270,
+          "stop" : 1658831378013,
+          "duration" : 220743
+        }
+      }, {
+        "uid" : "d85f9d9a5fb80cf",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/4/allure/#testresult/d85f9d9a5fb80cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658831157270,
+          "stop" : 1658831378013,
+          "duration" : 220743
+        }
+      }, {
+        "uid" : "1820bee89edd0927",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/3/allure/#testresult/1820bee89edd0927",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658831157270,
+          "stop" : 1658831378013,
+          "duration" : 220743
+        }
+      }, {
+        "uid" : "be5de9e1df8ba34f",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/be5de9e1df8ba34f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658831157270,
+          "stop" : 1658831378013,
+          "duration" : 220743
+        }
+      } ]
+    },
+    "tags" : [ "CaseCreation", "allTest", "DeleteItemAndSubItem", "AddItemAndSubItem" ]
+  },
+  "source" : "3c03ef62b0800043.json",
+  "parameterValues" : [ ]
+}

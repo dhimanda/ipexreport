@@ -1,0 +1,265 @@
+{
+  "uid" : "c2cc5cc046233580",
+  "name" : "Check Call Clickable",
+  "fullName" : "Case Creation Module: Check Call Clickable",
+  "historyId" : "ae3dd53c8d400c80d455e89dcff3208a",
+  "time" : {
+    "start" : 1658949063382,
+    "stop" : 1658949125830,
+    "duration" : 62448
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1658949063383,
+        "stop" : 1658949068718,
+        "duration" : 5335
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658949068718,
+        "stop" : 1658949087899,
+        "duration" : 19181
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4de258660a8ce0bf",
+        "name" : "Just Login",
+        "source" : "4de258660a8ce0bf.png",
+        "type" : "image/png",
+        "size" : 76479
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Given  CheckClickableCall",
+      "time" : {
+        "start" : 1658949087899,
+        "stop" : 1658949125109,
+        "duration" : 37210
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8233f178f33558d",
+        "name" : "Check call clickable",
+        "source" : "8233f178f33558d.png",
+        "type" : "image/png",
+        "size" : 45037
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658949125110,
+      "stop" : 1658949125830,
+      "duration" : 720
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "CheckClickableCall"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseCreation"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "23356@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "story",
+    "value" : "Check Call Clickable"
+  }, {
+    "name" : "suite",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Check Call Clickable"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20Creation.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case Creation_feature.Case Creation Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1cf6f18f5641611e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658909423787,
+        "stop" : 1658909769967,
+        "duration" : 346180
+      }
+    }, {
+      "uid" : "3a6b0f5dc70d93ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658830939565,
+        "stop" : 1658830998933,
+        "duration" : 59368
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "e683089e87927ea8",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/10/allure/#testresult/e683089e87927ea8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658949063382,
+          "stop" : 1658949125830,
+          "duration" : 62448
+        }
+      }, {
+        "uid" : "cae3afccb550384a",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/9/allure/#testresult/cae3afccb550384a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658949063382,
+          "stop" : 1658949125830,
+          "duration" : 62448
+        }
+      }, {
+        "uid" : "855efd83d904c31d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/8/allure/#testresult/855efd83d904c31d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658949063382,
+          "stop" : 1658949125830,
+          "duration" : 62448
+        }
+      }, {
+        "uid" : "b54cc55b2f4a398a",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/7/allure/#testresult/b54cc55b2f4a398a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658909423787,
+          "stop" : 1658909769967,
+          "duration" : 346180
+        }
+      }, {
+        "uid" : "1c30a1de850cf912",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/6/allure/#testresult/1c30a1de850cf912",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658909423787,
+          "stop" : 1658909769967,
+          "duration" : 346180
+        }
+      }, {
+        "uid" : "55894a1d23866df6",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/5/allure/#testresult/55894a1d23866df6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658830939565,
+          "stop" : 1658830998933,
+          "duration" : 59368
+        }
+      }, {
+        "uid" : "ce07f3457927861c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/4/allure/#testresult/ce07f3457927861c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658830939565,
+          "stop" : 1658830998933,
+          "duration" : 59368
+        }
+      }, {
+        "uid" : "f716764a15bc5ff5",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/3/allure/#testresult/f716764a15bc5ff5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658830939565,
+          "stop" : 1658830998933,
+          "duration" : 59368
+        }
+      }, {
+        "uid" : "6dc50e54991fed6e",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/6dc50e54991fed6e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658830939565,
+          "stop" : 1658830998933,
+          "duration" : 59368
+        }
+      } ]
+    },
+    "tags" : [ "CaseCreation", "allTest", "CheckClickableCall" ]
+  },
+  "source" : "c2cc5cc046233580.json",
+  "parameterValues" : [ ]
+}

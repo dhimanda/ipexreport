@@ -1,0 +1,161 @@
+{
+  "uid" : "8f4a83360d1f20a9",
+  "name" : "This will rename current user and try to match after update",
+  "fullName" : "Users Module: This will rename current user and try to match after update",
+  "historyId" : "b6263b6ba3eccf997ba0d48e13e7be24",
+  "time" : {
+    "start" : 1658911450755,
+    "stop" : 1658911489012,
+    "duration" : 38257
+  },
+  "status" : "failed",
+  "statusMessage" : "expected [saniuzzaman.robin@selise.ch] but found [testuser7948378@yopmail.com]",
+  "statusTrace" : "java.lang.AssertionError: expected [saniuzzaman.robin@selise.ch] but found [testuser7948378@yopmail.com]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:453)\r\n\tat org.testng.Assert.assertEquals(Assert.java:463)\r\n\tat pcx.modules.CreateUser.findUser(CreateUser.java:154)\r\n\tat pcx.modules.CreateUser.updateUser(CreateUser.java:189)\r\n\tat stepDefinations.stepDefinition.UpdateUser(stepDefinition.java:201)\r\n\tat ✽.UpdateUser \"saniuzzaman.robin@selise.ch\"(file:src/test/java/features/Users%20Module.feature:16)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected [saniuzzaman.robin@selise.ch] but found [testuser7948378@yopmail.com]",
+    "statusTrace" : "java.lang.AssertionError: expected [saniuzzaman.robin@selise.ch] but found [testuser7948378@yopmail.com]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:453)\r\n\tat org.testng.Assert.assertEquals(Assert.java:463)\r\n\tat pcx.modules.CreateUser.findUser(CreateUser.java:154)\r\n\tat pcx.modules.CreateUser.updateUser(CreateUser.java:189)\r\n\tat stepDefinations.stepDefinition.UpdateUser(stepDefinition.java:201)\r\n\tat ✽.UpdateUser \"saniuzzaman.robin@selise.ch\"(file:src/test/java/features/Users%20Module.feature:16)\r\n",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1658911450756,
+        "stop" : 1658911459522,
+        "duration" : 8766
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658911459522,
+        "stop" : 1658911478710,
+        "duration" : 19188
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "390559315ba1334e",
+        "name" : "Just Login",
+        "source" : "390559315ba1334e.png",
+        "type" : "image/png",
+        "size" : 76491
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Given  UpdateUser \"saniuzzaman.robin@selise.ch\"",
+      "time" : {
+        "start" : 1658911478710,
+        "stop" : 1658911488170,
+        "duration" : 9460
+      },
+      "status" : "failed",
+      "statusMessage" : "expected [saniuzzaman.robin@selise.ch] but found [testuser7948378@yopmail.com]",
+      "statusTrace" : "java.lang.AssertionError: expected [saniuzzaman.robin@selise.ch] but found [testuser7948378@yopmail.com]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:453)\r\n\tat org.testng.Assert.assertEquals(Assert.java:463)\r\n\tat pcx.modules.CreateUser.findUser(CreateUser.java:154)\r\n\tat pcx.modules.CreateUser.updateUser(CreateUser.java:189)\r\n\tat stepDefinations.stepDefinition.UpdateUser(stepDefinition.java:201)\r\n\tat ✽.UpdateUser \"saniuzzaman.robin@selise.ch\"(file:src/test/java/features/Users%20Module.feature:16)\r\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658911488170,
+      "stop" : 1658911489012,
+      "duration" : 842
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7f491dda7afb0ac3",
+      "name" : "Failure Screenshot",
+      "source" : "7f491dda7afb0ac3.png",
+      "type" : "image/png",
+      "size" : 72528
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "UpdateUser"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "Users"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "5092@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Users Module"
+  }, {
+    "name" : "story",
+    "value" : "This will rename current user and try to match after update"
+  }, {
+    "name" : "suite",
+    "value" : "Users Module"
+  }, {
+    "name" : "testClass",
+    "value" : "This will rename current user and try to match after update"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Users%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Users Module_feature.Users Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "allTest", "UpdateUser", "Users" ]
+  },
+  "source" : "8f4a83360d1f20a9.json",
+  "parameterValues" : [ ]
+}

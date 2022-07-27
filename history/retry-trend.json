@@ -1,4 +1,28 @@
 [ {
+  "buildOrder" : 11,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 29,
+    "retry" : 63
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/10/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 29,
+    "retry" : 62
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 29,
+    "retry" : 61
+  }
+}, {
   "buildOrder" : 8,
   "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/8/allure",
   "reportName" : "AllureReport",

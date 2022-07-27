@@ -1,0 +1,198 @@
+{
+  "uid" : "cfb04e54de7a7e3f",
+  "name" : "Validate CaseID from case list via Additional Option filter",
+  "fullName" : "Case List Module: Validate CaseID from case list via Additional Option filter",
+  "historyId" : "b41d940ebf6f6406a778d634446dcdda",
+  "time" : {
+    "start" : 1658950445846,
+    "stop" : 1658950516209,
+    "duration" : 70363
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1658950445846,
+        "stop" : 1658950450609,
+        "duration" : 4763
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658950450609,
+        "stop" : 1658950469557,
+        "duration" : 18948
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c9d156417f83bc21",
+        "name" : "Just Login",
+        "source" : "c9d156417f83bc21.png",
+        "type" : "image/png",
+        "size" : 76479
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Given  ValidateCaseID",
+      "time" : {
+        "start" : 1658950469557,
+        "stop" : 1658950515464,
+        "duration" : 45907
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ac31146b4fe797",
+        "name" : "Validate Case Name",
+        "source" : "ac31146b4fe797.png",
+        "type" : "image/png",
+        "size" : 144233
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658950515465,
+      "stop" : 1658950516209,
+      "duration" : 744
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ValidateCaseID"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseList"
+  }, {
+    "name" : "tag",
+    "value" : "AdditionalOptions"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "23356@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case List Module"
+  }, {
+    "name" : "story",
+    "value" : "Validate CaseID from case list via Additional Option filter"
+  }, {
+    "name" : "suite",
+    "value" : "Case List Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate CaseID from case list via Additional Option filter"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20List%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case List Module_feature.Case List Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "43bd049b1b39df45",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/10/allure/#testresult/43bd049b1b39df45",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658950445846,
+          "stop" : 1658950516209,
+          "duration" : 70363
+        }
+      }, {
+        "uid" : "4f9331ffaad3e62d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/9/allure/#testresult/4f9331ffaad3e62d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658950445846,
+          "stop" : 1658950516209,
+          "duration" : 70363
+        }
+      }, {
+        "uid" : "1d11c4f4356f06a4",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/8/allure/#testresult/1d11c4f4356f06a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658950445846,
+          "stop" : 1658950516209,
+          "duration" : 70363
+        }
+      } ]
+    },
+    "tags" : [ "ValidateCaseID", "allTest", "CaseList", "AdditionalOptions" ]
+  },
+  "source" : "cfb04e54de7a7e3f.json",
+  "parameterValues" : [ ]
+}

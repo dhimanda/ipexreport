@@ -1,0 +1,273 @@
+{
+  "uid" : "8843253763d37860",
+  "name" : "This will find a user by email and validate",
+  "fullName" : "Users Module: This will find a user by email and validate",
+  "historyId" : "91053778d6e9f79ebd8aa3104a1a4cde",
+  "time" : {
+    "start" : 1658951183021,
+    "stop" : 1658951223860,
+    "duration" : 40839
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1658951183021,
+        "stop" : 1658951187753,
+        "duration" : 4732
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658951187753,
+        "stop" : 1658951206773,
+        "duration" : 19020
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1f7d233bd81340fc",
+        "name" : "Just Login",
+        "source" : "1f7d233bd81340fc.png",
+        "type" : "image/png",
+        "size" : 76479
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Given  FindUser \"testuser2360904@yopmail.com\"",
+      "time" : {
+        "start" : 1658951206774,
+        "stop" : 1658951223153,
+        "duration" : 16379
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9540ffe6d0846de1",
+        "name" : "User Found for mail testuser2360904@yopmail.com",
+        "source" : "9540ffe6d0846de1.png",
+        "type" : "image/png",
+        "size" : 74082
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658951223154,
+      "stop" : 1658951223860,
+      "duration" : 706
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "FindUser"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "Users"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "23356@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Users Module"
+  }, {
+    "name" : "story",
+    "value" : "This will find a user by email and validate"
+  }, {
+    "name" : "suite",
+    "value" : "Users Module"
+  }, {
+    "name" : "testClass",
+    "value" : "This will find a user by email and validate"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Users%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Users Module_feature.Users Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b9964453cae651fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658918971084,
+        "stop" : 1658919019338,
+        "duration" : 48254
+      }
+    }, {
+      "uid" : "acac951e87f9d50f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658911814898,
+        "stop" : 1658911856349,
+        "duration" : 41451
+      }
+    }, {
+      "uid" : "80c7007fd7612d76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658833181846,
+        "stop" : 1658833221077,
+        "duration" : 39231
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "ec8c4f83c68f176b",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/10/allure/#testresult/ec8c4f83c68f176b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658951183021,
+          "stop" : 1658951223860,
+          "duration" : 40839
+        }
+      }, {
+        "uid" : "9d5f8b26e70b81ac",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/9/allure/#testresult/9d5f8b26e70b81ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658951183021,
+          "stop" : 1658951223860,
+          "duration" : 40839
+        }
+      }, {
+        "uid" : "1c0fa457ad617c7d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/8/allure/#testresult/1c0fa457ad617c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658951183021,
+          "stop" : 1658951223860,
+          "duration" : 40839
+        }
+      }, {
+        "uid" : "a01094594839acf8",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/7/allure/#testresult/a01094594839acf8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658918971084,
+          "stop" : 1658919019338,
+          "duration" : 48254
+        }
+      }, {
+        "uid" : "eaf0c98c579931b7",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/6/allure/#testresult/eaf0c98c579931b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658911814898,
+          "stop" : 1658911856349,
+          "duration" : 41451
+        }
+      }, {
+        "uid" : "58c134208790aaff",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/5/allure/#testresult/58c134208790aaff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658833181846,
+          "stop" : 1658833221077,
+          "duration" : 39231
+        }
+      }, {
+        "uid" : "1d39e035f6a02d95",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/4/allure/#testresult/1d39e035f6a02d95",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658833181846,
+          "stop" : 1658833221077,
+          "duration" : 39231
+        }
+      }, {
+        "uid" : "d724e4d9c894925c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/3/allure/#testresult/d724e4d9c894925c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658833181846,
+          "stop" : 1658833221077,
+          "duration" : 39231
+        }
+      }, {
+        "uid" : "c887ffe11e5f330e",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/c887ffe11e5f330e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658833181846,
+          "stop" : 1658833221077,
+          "duration" : 39231
+        }
+      } ]
+    },
+    "tags" : [ "allTest", "FindUser", "Users" ]
+  },
+  "source" : "8843253763d37860.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,215 @@
+{
+  "uid" : "bfe4872343b6ef75",
+  "name" : "Will create a case with liability assessment & check the calculation",
+  "fullName" : "Case Creation Module: Will create a case with liability assessment & check the calculation",
+  "historyId" : "ca2ea226cbc36baadfb294fe3d544789",
+  "time" : {
+    "start" : 1658949457142,
+    "stop" : 1658949574775,
+    "duration" : 117633
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1658949457142,
+        "stop" : 1658949461924,
+        "duration" : 4782
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658949461924,
+        "stop" : 1658949481309,
+        "duration" : 19385
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "49dfa16a05d4a487",
+        "name" : "Just Login",
+        "source" : "49dfa16a05d4a487.png",
+        "type" : "image/png",
+        "size" : 76479
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then  LiabilityValidation",
+      "time" : {
+        "start" : 1658949481310,
+        "stop" : 1658949573797,
+        "duration" : 92487
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658949573798,
+      "stop" : 1658949574775,
+      "duration" : 977
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "LiabilityValidation"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseCreation"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "23356@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "story",
+    "value" : "Will create a case with liability assessment & check the calculation"
+  }, {
+    "name" : "suite",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Will create a case with liability assessment & check the calculation"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20Creation.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case Creation_feature.Case Creation Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fc09a97a5debb0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658910106610,
+        "stop" : 1658910222596,
+        "duration" : 115986
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 6,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "dc6eff5e66b7f658",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/10/allure/#testresult/dc6eff5e66b7f658",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658949457142,
+          "stop" : 1658949574775,
+          "duration" : 117633
+        }
+      }, {
+        "uid" : "c6918cb5c84c12b7",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/9/allure/#testresult/c6918cb5c84c12b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658949457142,
+          "stop" : 1658949574775,
+          "duration" : 117633
+        }
+      }, {
+        "uid" : "e99585693a7563e2",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/8/allure/#testresult/e99585693a7563e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658949457142,
+          "stop" : 1658949574775,
+          "duration" : 117633
+        }
+      }, {
+        "uid" : "164548a5dc9336d7",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/7/allure/#testresult/164548a5dc9336d7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658910106610,
+          "stop" : 1658910222596,
+          "duration" : 115986
+        }
+      }, {
+        "uid" : "3be39e01a39fb488",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/6/allure/#testresult/3be39e01a39fb488",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658910106610,
+          "stop" : 1658910222596,
+          "duration" : 115986
+        }
+      } ]
+    },
+    "tags" : [ "CaseCreation", "allTest", "LiabilityValidation" ]
+  },
+  "source" : "bfe4872343b6ef75.json",
+  "parameterValues" : [ ]
+}

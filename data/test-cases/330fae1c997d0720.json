@@ -1,0 +1,188 @@
+{
+  "uid" : "330fae1c997d0720",
+  "name" : "Create & Edit a Case",
+  "fullName" : "Case Details Module: Create & Edit a Case",
+  "historyId" : "41819162970e0f4957f57604f364b81",
+  "time" : {
+    "start" : 1658910428224,
+    "stop" : 1658910603747,
+    "duration" : 175523
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1658910428224,
+        "stop" : 1658910433012,
+        "duration" : 4788
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658910433012,
+        "stop" : 1658910452006,
+        "duration" : 18994
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7a52c624fd5ae9e1",
+        "name" : "Just Login",
+        "source" : "7a52c624fd5ae9e1.png",
+        "type" : "image/png",
+        "size" : 76491
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Given  AddCaseSingle 1 1 \"IPEX Staging\" \"IPEX Staging\"",
+      "time" : {
+        "start" : 1658910452006,
+        "stop" : 1658910517642,
+        "duration" : 65636
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "acab0d02ffa45325",
+        "name" : "A new case has been created",
+        "source" : "acab0d02ffa45325.png",
+        "type" : "image/png",
+        "size" : 63542
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Given  EditCaseSingle 1 1 \"IPEX Staging\" \"IPEX Staging\"",
+      "time" : {
+        "start" : 1658910517643,
+        "stop" : 1658910602963,
+        "duration" : 85320
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "68963a9b1bea4db1",
+        "name" : "Got inspector email",
+        "source" : "68963a9b1bea4db1.png",
+        "type" : "image/png",
+        "size" : 53526
+      }, {
+        "uid" : "6678a7931babcfd7",
+        "name" : "Logged in into IPEX Staging [inspector] account",
+        "source" : "6678a7931babcfd7.png",
+        "type" : "image/png",
+        "size" : 74987
+      }, {
+        "uid" : "b73d34a8d633cae3",
+        "name" : "Case [Mail Merge - Offer651185064] has been edited succesfully!",
+        "source" : "b73d34a8d633cae3.png",
+        "type" : "image/png",
+        "size" : 96398
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 3,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658910602964,
+      "stop" : 1658910603747,
+      "duration" : 783
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "EditCase"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseDetails"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "5092@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case Details Module"
+  }, {
+    "name" : "story",
+    "value" : "Create & Edit a Case"
+  }, {
+    "name" : "suite",
+    "value" : "Case Details Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Create & Edit a Case"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20Details%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case Details Module_feature.Case Details Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "allTest", "EditCase", "CaseDetails" ]
+  },
+  "source" : "330fae1c997d0720.json",
+  "parameterValues" : [ ]
+}

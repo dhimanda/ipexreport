@@ -2,79 +2,12 @@
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
   "children" : [ {
-    "name" : "Test defects",
-    "children" : [ {
-      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#am-1080\"}\n  (Session info: chrome=103.0.5060.134)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-NH20ML0', ip: '192.187.8.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\DhimanSB\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:14080}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e03cc18b441d939ffdc2e3ff6035ac83\n*** Element info: {Using=css selector, value=#am-1080}",
-      "children" : [ {
-        "name" : "Validate Case Status from case list via Additional Option filter",
-        "uid" : "a969d0e5aa54503f",
-        "parentUid" : "d21b58b0554353c20587570db1d013a2",
-        "status" : "broken",
-        "time" : {
-          "start" : 1658950314425,
-          "stop" : 1658950374294,
-          "duration" : 59869
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : true,
-        "retriesCount" : 1,
-        "retriesStatusChange" : true,
-        "parameters" : [ ]
-      } ],
-      "uid" : "d21b58b0554353c20587570db1d013a2"
-    }, {
-      "name" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=103.0.5060.134)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-NH20ML0', ip: '192.187.8.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\DhimanSB\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:1177}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: ba58187f214a717f1596fd10eee2e59b\n*** Element info: {Using=xpath, value=(//span[text()='Users'])[1]}",
-      "children" : [ {
-        "name" : "This will create a new user and delete that user",
-        "uid" : "6245188b8618a4ce",
-        "parentUid" : "618f2397b453dce1f15384a7aaf40367",
-        "status" : "broken",
-        "time" : {
-          "start" : 1658950892828,
-          "stop" : 1658951124079,
-          "duration" : 231251
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : true,
-        "retriesCount" : 3,
-        "retriesStatusChange" : true,
-        "parameters" : [ ]
-      } ],
-      "uid" : "618f2397b453dce1f15384a7aaf40367"
-    }, {
-      "name" : "chrome not reachable\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-NH20ML0', ip: '192.187.8.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.11'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: Backtrace:\n\tOrdinal0 [0x00E35FD3+2187219]\n\tOrdinal0 [0x00DCE6D1+1763025]\n\tOrdinal0 [0x00CE3D40+802112]\n\tOrdinal0 [0x00CD8935+756021]\n\tOrdinal0 [0x00D04BB4+936884]\n\tOrdinal0 [0x00D00DDC+921052]\n\tOrdinal0 [0x00CFE691+910993]\n\tOrdinal0 [0x00D317F0+1120240]\n\tOrdinal0 [0x00D3144A+1119306]\n\tOrdinal0 [0x00D2C9A6+1100198]\n\tOrdinal0 [0x00D06F80+946048]\n\tOrdinal0 [0x00D07E76+949878]\n\tGetHandleVerifier [0x010D90C2+2721218]\n\tGetHandleVerifier [0x010CAAF0+2662384]\n\tGetHandleVerifier [0x00EC137A+526458]\n\tGetHandleVerifier [0x00EC0416+522518]\n\tOrdinal0 [0x00DD4EAB+1789611]\n\tOrdinal0 [0x00DD97A8+1808296]\n\tOrdinal0 [0x00DD9895+1808533]\n\tOrdinal0 [0x00DE26C1+1844929]\n\tBaseThreadInitThunk [0x7646FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77307A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77307A6E+238]\n",
-      "children" : [ {
-        "name" : "This will validate first name while create new use",
-        "uid" : "d0c59e6400ba8c1",
-        "parentUid" : "3c2d6a2f9b871370c8471bdadb16589d",
-        "status" : "broken",
-        "time" : {
-          "start" : 1658951309027,
-          "stop" : 1658951370341,
-          "duration" : 61314
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : true,
-        "retriesCount" : 3,
-        "retriesStatusChange" : true,
-        "parameters" : [ ]
-      } ],
-      "uid" : "3c2d6a2f9b871370c8471bdadb16589d"
-    } ],
-    "uid" : "bdbf199525818fae7a8651db9eafe741"
-  }, {
     "name" : "Product defects",
     "children" : [ {
       "name" : "Please delete cases created from this mail first",
       "children" : [ {
         "name" : "Delete an email",
-        "uid" : "64d2634ca370b350",
+        "uid" : "ae5084eacf54da67",
         "parentUid" : "f39a1a470cb80b87dce4bba6f1dd8acc",
         "status" : "failed",
         "time" : {
@@ -95,7 +28,7 @@
       "name" : "expected [1] but found [0]",
       "children" : [ {
         "name" : "Delete existing User by its mail",
-        "uid" : "ddef77812bbacfcd",
+        "uid" : "4fd47352dce4344a",
         "parentUid" : "8d997fec59c31d253af1a54e2df2de96",
         "status" : "failed",
         "time" : {

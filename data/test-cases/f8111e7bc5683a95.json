@@ -1,0 +1,167 @@
+{
+  "uid" : "f8111e7bc5683a95",
+  "name" : "Assign inspector from case list",
+  "fullName" : "Case List Module: Assign inspector from case list",
+  "historyId" : "3214534f5c1b6f3537c6aca2a5e01fda",
+  "time" : {
+    "start" : 1658831926928,
+    "stop" : 1658831982511,
+    "duration" : 55583
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1658831926928,
+        "stop" : 1658831931752,
+        "duration" : 4824
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login \"saniuzzaman.robin@selise.ch\"",
+      "time" : {
+        "start" : 1658831931752,
+        "stop" : 1658831945662,
+        "duration" : 13910
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  AssignInspector 1 \"IPEX Staging\"",
+      "time" : {
+        "start" : 1658831945662,
+        "stop" : 1658831981798,
+        "duration" : 36136
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fa69f50d9dc58aac",
+        "name" : "Case List",
+        "source" : "fa69f50d9dc58aac.png",
+        "type" : "image/png",
+        "size" : 75249
+      }, {
+        "uid" : "24ca6138ad550ae4",
+        "name" : "Navigate to Case List",
+        "source" : "24ca6138ad550ae4.png",
+        "type" : "image/png",
+        "size" : 176600
+      }, {
+        "uid" : "c718038536e144a5",
+        "name" : "Paginate to Case Page",
+        "source" : "c718038536e144a5.png",
+        "type" : "image/png",
+        "size" : 176600
+      }, {
+        "uid" : "788c121ed1d1e0c5",
+        "name" : "Changed Assigned Inspector",
+        "source" : "788c121ed1d1e0c5.png",
+        "type" : "image/png",
+        "size" : 191296
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 4,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658831981799,
+      "stop" : 1658831982511,
+      "duration" : 712
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "AssignInspector"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseList"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "19484@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case List Module"
+  }, {
+    "name" : "story",
+    "value" : "Assign inspector from case list"
+  }, {
+    "name" : "suite",
+    "value" : "Case List Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Assign inspector from case list"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20List%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case List Module_feature.Case List Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "allTest", "CaseList", "AssignInspector" ]
+  },
+  "source" : "f8111e7bc5683a95.json",
+  "parameterValues" : [ ]
+}

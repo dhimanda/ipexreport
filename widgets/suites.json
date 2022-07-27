@@ -5,9 +5,9 @@
     "name" : "Users Module",
     "statistic" : {
       "failed" : 1,
-      "broken" : 2,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 7,
       "unknown" : 0,
       "total" : 8
     }
@@ -23,19 +23,19 @@
       "total" : 3
     }
   }, {
-    "uid" : "c1192bef0bf99c721f3f55870ad209f8",
-    "name" : "Case List Module",
+    "uid" : "b9d3b50110d64db68494fd772c025dd6",
+    "name" : "Case Creation Module",
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
       "total" : 6
     }
   }, {
-    "uid" : "b9d3b50110d64db68494fd772c025dd6",
-    "name" : "Case Creation Module",
+    "uid" : "c1192bef0bf99c721f3f55870ad209f8",
+    "name" : "Case List Module",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
