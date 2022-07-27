@@ -1,0 +1,155 @@
+{
+  "uid" : "f26a5680257b28b0",
+  "name" : "Validate Insurance Provider from case list via Additional Option filter",
+  "fullName" : "Case List Module: Validate Insurance Provider from case list via Additional Option filter",
+  "historyId" : "44e82282d0ba1bffe55b9ef751755e3f",
+  "time" : {
+    "start" : 1658910963885,
+    "stop" : 1658911039465,
+    "duration" : 75580
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1658910963885,
+        "stop" : 1658910973270,
+        "duration" : 9385
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658910973270,
+        "stop" : 1658910992314,
+        "duration" : 19044
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bea53400935adcb6",
+        "name" : "Just Login",
+        "source" : "bea53400935adcb6.png",
+        "type" : "image/png",
+        "size" : 76491
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  ValidateCaseStatus",
+      "time" : {
+        "start" : 1658910992314,
+        "stop" : 1658911038757,
+        "duration" : 46443
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d8dcc94603a0db43",
+        "name" : "Case Status Validation",
+        "source" : "d8dcc94603a0db43.png",
+        "type" : "image/png",
+        "size" : 173354
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658911038757,
+      "stop" : 1658911039465,
+      "duration" : 708
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ValidateCaseStatus"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseList"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "5092@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case List Module"
+  }, {
+    "name" : "story",
+    "value" : "Validate Insurance Provider from case list via Additional Option filter"
+  }, {
+    "name" : "suite",
+    "value" : "Case List Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Insurance Provider from case list via Additional Option filter"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20List%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case List Module_feature.Case List Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "allTest", "CaseList", "ValidateCaseStatus" ]
+  },
+  "source" : "f26a5680257b28b0.json",
+  "parameterValues" : [ ]
+}

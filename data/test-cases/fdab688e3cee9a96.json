@@ -1,0 +1,161 @@
+{
+  "uid" : "fdab688e3cee9a96",
+  "name" : "Filter department and verify all mails shows department's tag",
+  "fullName" : "Mailbox Module: Filter department and verify all mails shows department's tag",
+  "historyId" : "37504e0ed8bf0130e8aeb618c03fac73",
+  "time" : {
+    "start" : 1658911151231,
+    "stop" : 1658911193220,
+    "duration" : 41989
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1658911151231,
+        "stop" : 1658911156121,
+        "duration" : 4890
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658911156121,
+        "stop" : 1658911175100,
+        "duration" : 18979
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6b485c0ec290f1d",
+        "name" : "Just Login",
+        "source" : "6b485c0ec290f1d.png",
+        "type" : "image/png",
+        "size" : 76491
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then  FilterDepartment \"Zurich\" \"Zurich Inspector\"",
+      "time" : {
+        "start" : 1658911175100,
+        "stop" : 1658911192518,
+        "duration" : 17418
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ccf19c6f5e94d213",
+        "name" : "Applied Filter - Insurance Provider as Zurich and Department as Zurich Inspector",
+        "source" : "ccf19c6f5e94d213.png",
+        "type" : "image/png",
+        "size" : 122251
+      }, {
+        "uid" : "7f841ac8710c885a",
+        "name" : "Filterd Number",
+        "source" : "7f841ac8710c885a.png",
+        "type" : "image/png",
+        "size" : 122251
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658911192518,
+      "stop" : 1658911193220,
+      "duration" : 702
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "FilterDepartment"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "Mailbox"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "5092@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Mailbox Module"
+  }, {
+    "name" : "story",
+    "value" : "Filter department and verify all mails shows department's tag"
+  }, {
+    "name" : "suite",
+    "value" : "Mailbox Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Filter department and verify all mails shows department's tag"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Mailbox%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Mailbox Module_feature.Mailbox Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "allTest", "Mailbox", "FilterDepartment" ]
+  },
+  "source" : "fdab688e3cee9a96.json",
+  "parameterValues" : [ ]
+}

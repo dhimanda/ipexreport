@@ -2,9 +2,9 @@
   "name" : "Jenkins",
   "type" : "jenkins",
   "url" : "http://automate.seliselocal.com:8080/",
-  "buildOrder" : 2,
-  "buildName" : "pcxModules #2",
-  "buildUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/",
+  "buildOrder" : 8,
+  "buildName" : "pcxModules #8",
+  "buildUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/8/",
   "reportName" : "AllureReport",
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure"
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/8/allure"
 } ]

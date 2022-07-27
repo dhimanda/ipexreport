@@ -1,0 +1,238 @@
+{
+  "uid" : "4c6724f4d41eb248",
+  "name" : "Check Mail Clickable",
+  "fullName" : "Case Creation Module: Check Mail Clickable",
+  "historyId" : "237fa5a6018b6f42537f943a235a259a",
+  "time" : {
+    "start" : 1658949125839,
+    "stop" : 1658949188537,
+    "duration" : 62698
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1658949125839,
+        "stop" : 1658949130885,
+        "duration" : 5046
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658949130885,
+        "stop" : 1658949150159,
+        "duration" : 19274
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6d3a39d4a12ee0c5",
+        "name" : "Just Login",
+        "source" : "6d3a39d4a12ee0c5.png",
+        "type" : "image/png",
+        "size" : 76479
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  CheckClickableMail",
+      "time" : {
+        "start" : 1658949150159,
+        "stop" : 1658949187808,
+        "duration" : 37649
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ca19f2bffb69707a",
+        "name" : "Check mail clickable",
+        "source" : "ca19f2bffb69707a.png",
+        "type" : "image/png",
+        "size" : 45406
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658949187808,
+      "stop" : 1658949188537,
+      "duration" : 729
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "CheckClickableMail"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseCreation"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "23356@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "story",
+    "value" : "Check Mail Clickable"
+  }, {
+    "name" : "suite",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Check Mail Clickable"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20Creation.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case Creation_feature.Case Creation Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e8e205b8772f1753",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658909769982,
+        "stop" : 1658909836050,
+        "duration" : 66068
+      }
+    }, {
+      "uid" : "c40dff916505bf23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658830998967,
+        "stop" : 1658831071189,
+        "duration" : 72222
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "db77d65f220ac7a",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/7/allure/#testresult/db77d65f220ac7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658909769982,
+          "stop" : 1658909836050,
+          "duration" : 66068
+        }
+      }, {
+        "uid" : "4b1df4465e75a06d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/6/allure/#testresult/4b1df4465e75a06d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658909769982,
+          "stop" : 1658909836050,
+          "duration" : 66068
+        }
+      }, {
+        "uid" : "b9abd6713f1ca867",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/5/allure/#testresult/b9abd6713f1ca867",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658830998967,
+          "stop" : 1658831071189,
+          "duration" : 72222
+        }
+      }, {
+        "uid" : "de6c172e1128d1a4",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/4/allure/#testresult/de6c172e1128d1a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658830998967,
+          "stop" : 1658831071189,
+          "duration" : 72222
+        }
+      }, {
+        "uid" : "37af158c6c3133b6",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/3/allure/#testresult/37af158c6c3133b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658830998967,
+          "stop" : 1658831071189,
+          "duration" : 72222
+        }
+      }, {
+        "uid" : "f1c369324a451e18",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/f1c369324a451e18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658830998967,
+          "stop" : 1658831071189,
+          "duration" : 72222
+        }
+      } ]
+    },
+    "tags" : [ "CaseCreation", "allTest", "CheckClickableMail" ]
+  },
+  "source" : "4c6724f4d41eb248.json",
+  "parameterValues" : [ ]
+}

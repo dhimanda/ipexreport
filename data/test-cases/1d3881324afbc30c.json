@@ -1,0 +1,226 @@
+{
+  "uid" : "1d3881324afbc30c",
+  "name" : "Delete a particular case",
+  "fullName" : "Case Details Module: Delete a particular case",
+  "historyId" : "ca8d9e7bae7eaa1d414746982c86152f",
+  "time" : {
+    "start" : 1658949952510,
+    "stop" : 1658950120204,
+    "duration" : 167694
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1658949952510,
+        "stop" : 1658949957430,
+        "duration" : 4920
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  Login \"saniuzzaman.robin@selise.ch\"",
+      "time" : {
+        "start" : 1658949957430,
+        "stop" : 1658949971725,
+        "duration" : 14295
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then  DeleteCase 0",
+      "time" : {
+        "start" : 1658949971725,
+        "stop" : 1658950119379,
+        "duration" : 147654
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658950119380,
+      "stop" : 1658950120204,
+      "duration" : 824
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "DeleteCase"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseDetails"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "23356@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case Details Module"
+  }, {
+    "name" : "story",
+    "value" : "Delete a particular case"
+  }, {
+    "name" : "suite",
+    "value" : "Case Details Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete a particular case"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20Details%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case Details Module_feature.Case Details Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eef48b5d5a2cb424",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658910603757,
+        "stop" : 1658910772352,
+        "duration" : 168595
+      }
+    }, {
+      "uid" : "53cf2ce588514133",
+      "status" : "passed",
+      "time" : {
+        "start" : 1658831760637,
+        "stop" : 1658831926923,
+        "duration" : 166286
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "cd158c8da25727d8",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/7/allure/#testresult/cd158c8da25727d8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658910603757,
+          "stop" : 1658910772352,
+          "duration" : 168595
+        }
+      }, {
+        "uid" : "b45c393f93a88c1b",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/6/allure/#testresult/b45c393f93a88c1b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658910603757,
+          "stop" : 1658910772352,
+          "duration" : 168595
+        }
+      }, {
+        "uid" : "ed5ad31b5b0f3582",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/5/allure/#testresult/ed5ad31b5b0f3582",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658831760637,
+          "stop" : 1658831926923,
+          "duration" : 166286
+        }
+      }, {
+        "uid" : "f99e53501a995def",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/4/allure/#testresult/f99e53501a995def",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658831760637,
+          "stop" : 1658831926923,
+          "duration" : 166286
+        }
+      }, {
+        "uid" : "2f652865280e3de1",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/3/allure/#testresult/2f652865280e3de1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658831760637,
+          "stop" : 1658831926923,
+          "duration" : 166286
+        }
+      }, {
+        "uid" : "a330a0f2f4e91d4d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/pcxModules/2/allure/#testresult/a330a0f2f4e91d4d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658831760637,
+          "stop" : 1658831926923,
+          "duration" : 166286
+        }
+      } ]
+    },
+    "tags" : [ "allTest", "CaseDetails", "DeleteCase" ]
+  },
+  "source" : "1d3881324afbc30c.json",
+  "parameterValues" : [ ]
+}

@@ -4,8 +4,8 @@
     "uid" : "2adfac48a5d7510f1dd6c7a179d41828",
     "name" : "Users Module",
     "statistic" : {
-      "failed" : 3,
-      "broken" : 0,
+      "failed" : 1,
+      "broken" : 2,
       "skipped" : 0,
       "passed" : 5,
       "unknown" : 0,
@@ -23,15 +23,26 @@
       "total" : 3
     }
   }, {
-    "uid" : "3935f52fbba7c422fc9cd0ecf4895be0",
-    "name" : "Case Creation Module",
+    "uid" : "d5da3e19ac3121a6735d50311cc27ac8",
+    "name" : "Case List Module",
     "statistic" : {
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 5,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
+    }
+  }, {
+    "uid" : "3935f52fbba7c422fc9cd0ecf4895be0",
+    "name" : "Case Creation Module",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
     }
   }, {
     "uid" : "2bc16e88f54e9ffc8ac9df016b6d2424",
@@ -43,17 +54,6 @@
       "passed" : 4,
       "unknown" : 0,
       "total" : 4
-    }
-  }, {
-    "uid" : "d5da3e19ac3121a6735d50311cc27ac8",
-    "name" : "Case List Module",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
     }
   }, {
     "uid" : "ba47b8b4808d4576c42cb6090ba1c693",

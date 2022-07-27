@@ -1,0 +1,152 @@
+{
+  "uid" : "944bfd3384f817e4",
+  "name" : "Check Call Clickable",
+  "fullName" : "Case Creation Module: Check Call Clickable",
+  "historyId" : "ae3dd53c8d400c80d455e89dcff3208a",
+  "time" : {
+    "start" : 1658830939565,
+    "stop" : 1658830998933,
+    "duration" : 59368
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1658830939565,
+        "stop" : 1658830944490,
+        "duration" : 4925
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1658830944490,
+        "stop" : 1658830963717,
+        "duration" : 19227
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "66ae12a5003eb543",
+        "name" : "Just Login",
+        "source" : "66ae12a5003eb543.png",
+        "type" : "image/png",
+        "size" : 76392
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Given  CheckClickableCall",
+      "time" : {
+        "start" : 1658830963717,
+        "stop" : 1658830998230,
+        "duration" : 34513
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9bfe4c960b1ec981",
+        "name" : "Check call clickable",
+        "source" : "9bfe4c960b1ec981.png",
+        "type" : "image/png",
+        "size" : 45113
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1658830998230,
+      "stop" : 1658830998933,
+      "duration" : 703
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "CheckClickableCall"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-NH20ML0"
+  }, {
+    "name" : "thread",
+    "value" : "19484@DESKTOP-NH20ML0.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "story",
+    "value" : "Check Call Clickable"
+  }, {
+    "name" : "suite",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Check Call Clickable"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20Creation.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case Creation_feature.Case Creation Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "allTest", "CheckClickableCall" ]
+  },
+  "source" : "944bfd3384f817e4.json",
+  "parameterValues" : [ ]
+}
