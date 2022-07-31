@@ -1,291 +1,151 @@
 [ {
-  "uid" : "4fd47352dce4344a",
-  "name" : "Delete existing User by its mail",
-  "time" : {
-    "start" : 1658951124084,
-    "stop" : 1658951183001,
-    "duration" : 58917
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "ddf66cede90b7186",
-  "name" : "Create & Edit a Case",
-  "time" : {
-    "start" : 1658949778036,
-    "stop" : 1658949952498,
-    "duration" : 174462
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "336944996b782fd5",
-  "name" : "Delete a particular case",
-  "time" : {
-    "start" : 1658949952510,
-    "stop" : 1658950120204,
-    "duration" : 167694
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "69c55fb71c4b5c35",
-  "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
-  "time" : {
-    "start" : 1658950745936,
-    "stop" : 1658950843522,
-    "duration" : 97586
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bfe4872343b6ef75",
-  "name" : "Will create a case with liability assessment & check the calculation",
-  "time" : {
-    "start" : 1658949457142,
-    "stop" : 1658949574775,
-    "duration" : 117633
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "12d14aa82cf6e777",
-  "name" : "Validate Insurance Provider from case list via Additional Option filter",
-  "time" : {
-    "start" : 1658950242765,
-    "stop" : 1658950314414,
-    "duration" : 71649
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bf1191622b8103c0",
-  "name" : "Populate mailbox for an insurance provider & navigate",
-  "time" : {
-    "start" : 1658950663047,
-    "stop" : 1658950687754,
-    "duration" : 24707
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8843253763d37860",
-  "name" : "This will find a user by email and validate",
-  "time" : {
-    "start" : 1658951183021,
-    "stop" : 1658951223860,
-    "duration" : 40839
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5c117ea9fc348f0a",
-  "name" : "This will search a user by an email and assign or update then validate.",
-  "time" : {
-    "start" : 1658951223864,
-    "stop" : 1658951268449,
-    "duration" : 44585
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "98c761b653710e1c",
-  "name" : "Validate Case Status from case list via Additional Option filter",
-  "time" : {
-    "start" : 1658952548513,
-    "stop" : 1658952622898,
-    "duration" : 74385
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d741e3c60d858772",
-  "name" : "Just Login Test",
-  "time" : {
-    "start" : 1658950516262,
-    "stop" : 1658950540748,
-    "duration" : 24486
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "50d18db39600757e",
-  "name" : "This will validate first name while create new use",
-  "time" : {
-    "start" : 1658952391299,
-    "stop" : 1658952461326,
-    "duration" : 70027
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "24b0b4b01ebdadd5",
-  "name" : "Assign inspector from case list",
-  "time" : {
-    "start" : 1658950120237,
-    "stop" : 1658950176402,
-    "duration" : 56165
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3916c9e5219a312e",
-  "name" : "Check Mail Clickable",
-  "time" : {
-    "start" : 1658949125839,
-    "stop" : 1658949188537,
-    "duration" : 62698
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7058c0e6bb9fa1e4",
-  "name" : "This will find a valid case from list and generate report then send.",
-  "time" : {
-    "start" : 1658949574782,
-    "stop" : 1658949616243,
-    "duration" : 41461
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1388ae5d99bcdb85",
-  "name" : "Change order status of a case",
-  "time" : {
-    "start" : 1658949616250,
-    "stop" : 1658949778032,
-    "duration" : 161782
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c6cbe0b4c9415207",
-  "name" : "This will create a new user and delete that user",
-  "time" : {
-    "start" : 1658952771554,
-    "stop" : 1658952879712,
-    "duration" : 108158
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3c03ef62b0800043",
-  "name" : "This will delete all items and subitems create and edit the case.",
-  "time" : {
-    "start" : 1658949236542,
-    "stop" : 1658949457135,
-    "duration" : 220593
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b52f13359f377944",
+  "uid" : "70b88475d490433d",
   "name" : "Select mail using insurance provider & mail index",
   "time" : {
-    "start" : 1658949033760,
-    "stop" : 1658949063209,
-    "duration" : 29449
+    "start" : 1657535493884,
+    "stop" : 1657535525486,
+    "duration" : 31602
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e0c6fd97e5ed808",
-  "name" : "Download excel report from case list",
-  "time" : {
-    "start" : 1658950176412,
-    "stop" : 1658950242750,
-    "duration" : 66338
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cfb04e54de7a7e3f",
-  "name" : "Validate CaseID from case list via Additional Option filter",
-  "time" : {
-    "start" : 1658950445846,
-    "stop" : 1658950516209,
-    "duration" : 70363
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9ae80fa62abbfb2f",
-  "name" : "Verify default backoffice is set or not",
-  "time" : {
-    "start" : 1658949188545,
-    "stop" : 1658949236512,
-    "duration" : 47967
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dd1c09f4cf2b9533",
+  "uid" : "53bb267f9f3be608",
   "name" : "Adding a Single Case",
   "time" : {
-    "start" : 1658950540756,
-    "stop" : 1658950620140,
-    "duration" : 79384
+    "start" : 1657535122678,
+    "stop" : 1657535200039,
+    "duration" : 77361
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "7f315fcc6d71380",
-  "name" : "This will rename current user name and try to match after update",
+  "uid" : "7689191f606e65da",
+  "name" : "This will find a user by email and validate",
   "time" : {
-    "start" : 1658950843529,
-    "stop" : 1658950892819,
-    "duration" : 49290
+    "start" : 1657534313232,
+    "stop" : 1657534362341,
+    "duration" : 49109
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "11f19d730511a79b",
-  "name" : "Filter department and verify all mails shows department's tag",
+  "uid" : "1a5a758134e1136a",
+  "name" : "This will search a user by an email and assign or update then validate.",
   "time" : {
-    "start" : 1658950620147,
-    "stop" : 1658950663040,
-    "duration" : 42893
+    "start" : 1659265633484,
+    "stop" : 1659265702128,
+    "duration" : 68644
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3c40d1ec3a58a87b",
-  "name" : "Validate Assigned Inspector from case list via Additional Option filter",
+  "uid" : "25e76f79b87de4f8",
+  "name" : "It will create a case then edit the case",
   "time" : {
-    "start" : 1658950374315,
-    "stop" : 1658950445835,
-    "duration" : 71520
+    "start" : 1657691740394,
+    "stop" : 1657691881359,
+    "duration" : 140965
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c2cc5cc046233580",
-  "name" : "Check Call Clickable",
+  "uid" : "6029ac2db05f56b7",
+  "name" : "Populate mailbox for an insurance provider & navigate",
   "time" : {
-    "start" : 1658949063382,
-    "stop" : 1658949125830,
-    "duration" : 62448
+    "start" : 1657535274581,
+    "stop" : 1657535302662,
+    "duration" : 28081
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "11cf8596a6d657b5",
-  "name" : "This will goto user list and update status of user.",
+  "uid" : "115c16ed2ff1edb3",
+  "name" : "Delete a particular case",
   "time" : {
-    "start" : 1658951268465,
-    "stop" : 1658951309023,
-    "duration" : 40558
+    "start" : 1657535546297,
+    "stop" : 1657535611080,
+    "duration" : 64783
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "ae5084eacf54da67",
-  "name" : "Delete an email",
+  "uid" : "bfa4901034d5460d",
+  "name" : "Change order status of a case",
   "time" : {
-    "start" : 1658950687762,
-    "stop" : 1658950745926,
-    "duration" : 58164
+    "start" : 1657535039020,
+    "stop" : 1657535085126,
+    "duration" : 46106
   },
-  "status" : "failed",
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ead5277c2c49d99a",
+  "name" : "Create & Edit a Case",
+  "time" : {
+    "start" : 1657535323414,
+    "stop" : 1657535469034,
+    "duration" : 145620
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b07ee4505c41313d",
+  "name" : "Will create a case with liability assessment & check the calculation",
+  "time" : {
+    "start" : 1659265926069,
+    "stop" : 1659266120960,
+    "duration" : 194891
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e567a46072be276",
+  "name" : "Assign inspector from case list",
+  "time" : {
+    "start" : 1657534830111,
+    "stop" : 1657534866225,
+    "duration" : 36114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "305784e2343373e",
+  "name" : "Create a new user",
+  "time" : {
+    "start" : 1657534568526,
+    "stop" : 1657534614701,
+    "duration" : 46175
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34f7b85842ed1517",
+  "name" : "Download excel report from case list",
+  "time" : {
+    "start" : 1657534644716,
+    "stop" : 1657534803879,
+    "duration" : 159163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d428df7620598e3",
+  "name" : "Populate mailbox for an insurance provider & navigate",
+  "time" : {
+    "start" : 1657535222211,
+    "stop" : 1657535252975,
+    "duration" : 30764
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2059f1d3eb0230b8",
+  "name" : "Just Login Test",
+  "time" : {
+    "start" : 1657691511096,
+    "stop" : 1657691599845,
+    "duration" : 88749
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]

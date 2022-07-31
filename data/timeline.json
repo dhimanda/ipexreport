@@ -2,69 +2,18 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "DESKTOP-NH20ML0",
+    "name" : "DESKTOP-D4SH2AK",
     "children" : [ {
-      "name" : "5092@DESKTOP-NH20ML0.main(1)",
+      "name" : "2840@DESKTOP-D4SH2AK.main(1)",
       "children" : [ {
-        "name" : "Delete a particular case",
-        "uid" : "7d7df647a933633b",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658910603757,
-          "stop" : 1658910772352,
-          "duration" : 168595
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Assign inspector from case list",
-        "uid" : "1e882e76c1206a03",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658910772367,
-          "stop" : 1658910827614,
-          "duration" : 55247
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Filter department and verify all mails shows department's tag",
-        "uid" : "8d149b38e62bc85d",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658911151231,
-          "stop" : 1658911193220,
-          "duration" : 41989
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "Just Login Test",
-        "uid" : "532d7176d6713535",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
+        "uid" : "c5338bbc84ea9056",
+        "parentUid" : "6950922a6ccb79ac18edd8ef35e19bd4",
         "status" : "passed",
         "time" : {
-          "start" : 1658911039470,
-          "stop" : 1658911064891,
-          "duration" : 25421
+          "start" : 1657186215470,
+          "stop" : 1657186240135,
+          "duration" : 24665
         },
         "flaky" : false,
         "newFailed" : false,
@@ -73,584 +22,19 @@
         "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "Create & Edit a Case",
-        "uid" : "330fae1c997d0720",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658910428224,
-          "stop" : 1658910603747,
-          "duration" : 175523
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Check Mail Clickable",
-        "uid" : "44ea21bf7bd5ef",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658909769982,
-          "stop" : 1658909836050,
-          "duration" : 66068
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Populate mailbox for an insurance provider & navigate",
-        "uid" : "1cf898d9cde057ed",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658911193247,
-          "stop" : 1658911217400,
-          "duration" : 24153
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will search a user by an email and assign or update then validate.",
-        "uid" : "8e2ec827aa745045",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658911856357,
-          "stop" : 1658911904615,
-          "duration" : 48258
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Check Call Clickable",
-        "uid" : "1cf6f18f5641611e",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658909423787,
-          "stop" : 1658909769967,
-          "duration" : 346180
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will rename current user and try to match after update",
-        "uid" : "8f4a83360d1f20a9",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658911450755,
-          "stop" : 1658911489012,
-          "duration" : 38257
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user and delete that user",
-        "uid" : "e476c9c79004a2ca",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658911489021,
-          "stop" : 1658911782050,
-          "duration" : 293029
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will validate first name while create new use",
-        "uid" : "ff3bd3df73da471",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658911944906,
-          "stop" : 1658912011470,
-          "duration" : 66564
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Verify default backoffice is set or not",
-        "uid" : "9f650d7a25e82fd3",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658909836063,
-          "stop" : 1658909884012,
-          "duration" : 47949
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will delete all items and subitems create and edit the case.",
-        "uid" : "6e5dc1341110075f",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658909884032,
-          "stop" : 1658910106575,
-          "duration" : 222543
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Will create a case with liability assessment & check the calculation",
-        "uid" : "fc09a97a5debb0b",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658910106610,
-          "stop" : 1658910222596,
-          "duration" : 115986
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Adding a Single Case",
-        "uid" : "2e26f44ec9951eb0",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658911064902,
-          "stop" : 1658911151220,
-          "duration" : 86318
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will find a user by email and validate",
-        "uid" : "acac951e87f9d50f",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658911814898,
-          "stop" : 1658911856349,
-          "duration" : 41451
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Delete existing User by its mail",
-        "uid" : "4e25cc7934f3b35c",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658911782056,
-          "stop" : 1658911814891,
-          "duration" : 32835
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will find a valid case from list and generate report then send.",
-        "uid" : "b92e625a38bf1d73",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658910222609,
-          "stop" : 1658910264332,
-          "duration" : 41723
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Select mail using insurance provider & mail index",
-        "uid" : "ead5b22c6f78a84f",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658909388479,
-          "stop" : 1658909423626,
-          "duration" : 35147
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Validate Insurance Provider from case list via Additional Option filter",
-        "uid" : "237ad2bbbb31414b",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658910963885,
-          "stop" : 1658911039465,
-          "duration" : 75580
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
+      } ],
+      "uid" : "6950922a6ccb79ac18edd8ef35e19bd4"
+    }, {
+      "name" : "5048@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
         "name" : "Download excel report from case list",
-        "uid" : "1aeb9d7da2ee1659",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
+        "uid" : "34f7b85842ed1517",
+        "parentUid" : "faa27758bc0b15000af1732eecc553fd",
         "status" : "passed",
         "time" : {
-          "start" : 1658910827630,
-          "stop" : 1658910892539,
-          "duration" : 64909
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Change order status of a case",
-        "uid" : "3cfb5b7c0ffab5a8",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658910264337,
-          "stop" : 1658910428218,
-          "duration" : 163881
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Validate Insurance Provider from case list via Additional Option filter",
-        "uid" : "8babeeb12a6d0cf2",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658910892546,
-          "stop" : 1658910963880,
-          "duration" : 71334
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will goto user list and update status of user.",
-        "uid" : "df853b87f7003463",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658911904619,
-          "stop" : 1658911944901,
-          "duration" : 40282
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Delete an email",
-        "uid" : "5690da335a90add",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658911217414,
-          "stop" : 1658911356560,
-          "duration" : 139146
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
-        "uid" : "519efe913caf026",
-        "parentUid" : "788c86d230173c88a410f824339f7df3",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658911356581,
-          "stop" : 1658911450744,
-          "duration" : 94163
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "788c86d230173c88a410f824339f7df3"
-    }, {
-      "name" : "14652@DESKTOP-NH20ML0.main(1)",
-      "children" : [ {
-        "name" : "This will goto user list and update status of user.",
-        "uid" : "82ff0bb46d74d5aa",
-        "parentUid" : "97ba18aab33c8581b275e811ea803a94",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658919068688,
-          "stop" : 1658919111414,
-          "duration" : 42726
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user and delete that user",
-        "uid" : "9928bd892565f0b1",
-        "parentUid" : "97ba18aab33c8581b275e811ea803a94",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658918616546,
-          "stop" : 1658918908079,
-          "duration" : 291533
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will rename current user and try to match after update",
-        "uid" : "35ba43da113496f0",
-        "parentUid" : "97ba18aab33c8581b275e811ea803a94",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658918565423,
-          "stop" : 1658918616509,
-          "duration" : 51086
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will validate first name while create new use",
-        "uid" : "ddd3768d5e7d56d8",
-        "parentUid" : "97ba18aab33c8581b275e811ea803a94",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658919111440,
-          "stop" : 1658919178844,
-          "duration" : 67404
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Delete existing User by its mail",
-        "uid" : "6c32beff91c9b4fc",
-        "parentUid" : "97ba18aab33c8581b275e811ea803a94",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658918908141,
-          "stop" : 1658918971049,
-          "duration" : 62908
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will search a user by an email and assign or update then validate.",
-        "uid" : "2a3fd38396daad0c",
-        "parentUid" : "97ba18aab33c8581b275e811ea803a94",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658919019369,
-          "stop" : 1658919068662,
-          "duration" : 49293
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will find a user by email and validate",
-        "uid" : "b9964453cae651fc",
-        "parentUid" : "97ba18aab33c8581b275e811ea803a94",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658918971084,
-          "stop" : 1658919019338,
-          "duration" : 48254
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
-        "uid" : "be13e7e4d2d2e3e6",
-        "parentUid" : "97ba18aab33c8581b275e811ea803a94",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658918465432,
-          "stop" : 1658918565211,
-          "duration" : 99779
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "97ba18aab33c8581b275e811ea803a94"
-    }, {
-      "name" : "23356@DESKTOP-NH20ML0.main(1)",
-      "children" : [ {
-        "name" : "Just Login Test",
-        "uid" : "d741e3c60d858772",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658950516262,
-          "stop" : 1658950540748,
-          "duration" : 24486
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Filter department and verify all mails shows department's tag",
-        "uid" : "11f19d730511a79b",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658950620147,
-          "stop" : 1658950663040,
-          "duration" : 42893
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Validate Insurance Provider from case list via Additional Option filter",
-        "uid" : "12d14aa82cf6e777",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658950242765,
-          "stop" : 1658950314414,
-          "duration" : 71649
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
         },
         "flaky" : false,
         "newFailed" : false,
@@ -659,49 +43,19 @@
         "retriesCount" : 1,
         "retriesStatusChange" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "Delete a particular case",
-        "uid" : "336944996b782fd5",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
+      } ],
+      "uid" : "faa27758bc0b15000af1732eecc553fd"
+    }, {
+      "name" : "16116@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "It will create a case then edit the case",
+        "uid" : "607298cdf5eff7aa",
+        "parentUid" : "3ee55ec8b0ce145ab0d9fdb98c9549ed",
         "status" : "passed",
         "time" : {
-          "start" : 1658949952510,
-          "stop" : 1658950120204,
-          "duration" : 167694
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
-        "uid" : "69c55fb71c4b5c35",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658950745936,
-          "stop" : 1658950843522,
-          "duration" : 97586
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 3,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Validate Case Status from case list via Additional Option filter",
-        "uid" : "6b8b067d0efeecbb",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "broken",
-        "time" : {
-          "start" : 1658950314425,
-          "stop" : 1658950374294,
-          "duration" : 59869
+          "start" : 1657186420897,
+          "stop" : 1657186555900,
+          "duration" : 135003
         },
         "flaky" : false,
         "newFailed" : false,
@@ -710,219 +64,40 @@
         "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ ]
-      }, {
+      } ],
+      "uid" : "3ee55ec8b0ce145ab0d9fdb98c9549ed"
+    }, {
+      "name" : "13588@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "It will create a case then edit the case",
+        "uid" : "25e76f79b87de4f8",
+        "parentUid" : "39057d50991fccb6ce18bcbeda47afbf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657691740394,
+          "stop" : 1657691881359,
+          "duration" : 140965
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "39057d50991fccb6ce18bcbeda47afbf"
+    }, {
+      "name" : "15052@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
         "name" : "Select mail using insurance provider & mail index",
-        "uid" : "b52f13359f377944",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
+        "uid" : "4dcacd1b3e3e2acd",
+        "parentUid" : "298772b9004a5feb8691ad5c064fb8d3",
         "status" : "passed",
         "time" : {
-          "start" : 1658949033760,
-          "stop" : 1658949063209,
-          "duration" : 29449
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 3,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Verify default backoffice is set or not",
-        "uid" : "9ae80fa62abbfb2f",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658949188545,
-          "stop" : 1658949236512,
-          "duration" : 47967
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : true,
-        "parameters" : [ ]
-      }, {
-        "name" : "Check Call Clickable",
-        "uid" : "c2cc5cc046233580",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658949063382,
-          "stop" : 1658949125830,
-          "duration" : 62448
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Delete an email",
-        "uid" : "ae5084eacf54da67",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658950687762,
-          "stop" : 1658950745926,
-          "duration" : 58164
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Change order status of a case",
-        "uid" : "1388ae5d99bcdb85",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658949616250,
-          "stop" : 1658949778032,
-          "duration" : 161782
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Assign inspector from case list",
-        "uid" : "24b0b4b01ebdadd5",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658950120237,
-          "stop" : 1658950176402,
-          "duration" : 56165
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Check Mail Clickable",
-        "uid" : "3916c9e5219a312e",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658949125839,
-          "stop" : 1658949188537,
-          "duration" : 62698
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will find a user by email and validate",
-        "uid" : "8843253763d37860",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658951183021,
-          "stop" : 1658951223860,
-          "duration" : 40839
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 3,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will search a user by an email and assign or update then validate.",
-        "uid" : "5c117ea9fc348f0a",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658951223864,
-          "stop" : 1658951268449,
-          "duration" : 44585
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 3,
-        "retriesStatusChange" : true,
-        "parameters" : [ ]
-      }, {
-        "name" : "Adding a Single Case",
-        "uid" : "dd1c09f4cf2b9533",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658950540756,
-          "stop" : 1658950620140,
-          "duration" : 79384
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Create & Edit a Case",
-        "uid" : "ddf66cede90b7186",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658949778036,
-          "stop" : 1658949952498,
-          "duration" : 174462
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Populate mailbox for an insurance provider & navigate",
-        "uid" : "bf1191622b8103c0",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658950663047,
-          "stop" : 1658950687754,
-          "duration" : 24707
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will validate first name while create new use",
-        "uid" : "3255d8f571aa1519",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "broken",
-        "time" : {
-          "start" : 1658951309027,
-          "stop" : 1658951370341,
-          "duration" : 61314
+          "start" : 1657187160325,
+          "stop" : 1657187188199,
+          "duration" : 27874
         },
         "flaky" : false,
         "newFailed" : false,
@@ -931,32 +106,19 @@
         "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "Delete existing User by its mail",
-        "uid" : "4fd47352dce4344a",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658951124084,
-          "stop" : 1658951183001,
-          "duration" : 58917
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 3,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Validate CaseID from case list via Additional Option filter",
-        "uid" : "cfb04e54de7a7e3f",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
+      } ],
+      "uid" : "298772b9004a5feb8691ad5c064fb8d3"
+    }, {
+      "name" : "17660@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "It will create a case then edit the case",
+        "uid" : "2898b4edfe6a4d12",
+        "parentUid" : "8f37edb4c0f65924df072895cf5f78a6",
         "status" : "passed",
         "time" : {
-          "start" : 1658950445846,
-          "stop" : 1658950516209,
-          "duration" : 70363
+          "start" : 1657534032034,
+          "stop" : 1657534162936,
+          "duration" : 130902
         },
         "flaky" : false,
         "newFailed" : false,
@@ -965,49 +127,166 @@
         "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "This will rename current user name and try to match after update",
-        "uid" : "7f315fcc6d71380",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658950843529,
-          "stop" : 1658950892819,
-          "duration" : 49290
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 3,
-        "retriesStatusChange" : true,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will find a valid case from list and generate report then send.",
-        "uid" : "7058c0e6bb9fa1e4",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658949574782,
-          "stop" : 1658949616243,
-          "duration" : 41461
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
+      } ],
+      "uid" : "8f37edb4c0f65924df072895cf5f78a6"
+    }, {
+      "name" : "8936@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
         "name" : "Will create a case with liability assessment & check the calculation",
-        "uid" : "bfe4872343b6ef75",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
+        "uid" : "b07ee4505c41313d",
+        "parentUid" : "da720b42d81e2c46f8132f65e86dc13e",
         "status" : "passed",
         "time" : {
-          "start" : 1658949457142,
-          "stop" : 1658949574775,
-          "duration" : 117633
+          "start" : 1659265926069,
+          "stop" : 1659266120960,
+          "duration" : 194891
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da720b42d81e2c46f8132f65e86dc13e"
+    }, {
+      "name" : "13808@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "Change order status of a case",
+        "uid" : "bfa4901034d5460d",
+        "parentUid" : "2811aadd3fc9c6a5f758af1b83bb3949",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657535039020,
+          "stop" : 1657535085126,
+          "duration" : 46106
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2811aadd3fc9c6a5f758af1b83bb3949"
+    }, {
+      "name" : "6400@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "This will search a user by an email and assign or update then validate.",
+        "uid" : "1a5a758134e1136a",
+        "parentUid" : "d72f3fe9fc56fb8edd66b3494ff4aa3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659265633484,
+          "stop" : 1659265702128,
+          "duration" : 68644
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d72f3fe9fc56fb8edd66b3494ff4aa3b"
+    }, {
+      "name" : "10052@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "Change order status of a case",
+        "uid" : "bef7ac62b6de47bf",
+        "parentUid" : "e31ce22bbe3b547927c60d0269b59d16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534958309,
+          "stop" : 1657535010978,
+          "duration" : 52669
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e31ce22bbe3b547927c60d0269b59d16"
+    }, {
+      "name" : "6084@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "Just Login Test",
+        "uid" : "ff02632d1522a328",
+        "parentUid" : "690ee8c37fe46888a85b8a7eff8a2535",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657533951664,
+          "stop" : 1657533979823,
+          "duration" : 28159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "690ee8c37fe46888a85b8a7eff8a2535"
+    }, {
+      "name" : "11984@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "Just Login Test",
+        "uid" : "2059f1d3eb0230b8",
+        "parentUid" : "6451268d46f7984db55c535a74f4d198",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657691511096,
+          "stop" : 1657691599845,
+          "duration" : 88749
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6451268d46f7984db55c535a74f4d198"
+    }, {
+      "name" : "16020@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "Assign inspector from case list",
+        "uid" : "2e567a46072be276",
+        "parentUid" : "b6e30a2bbf544a98b9efdfc672632a41",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534830111,
+          "stop" : 1657534866225,
+          "duration" : 36114
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b6e30a2bbf544a98b9efdfc672632a41"
+    }, {
+      "name" : "18924@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "Populate mailbox for an insurance provider & navigate",
+        "uid" : "7d428df7620598e3",
+        "parentUid" : "efd2c1ea9ea55dd00eb4b93bc3f6706a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657535222211,
+          "stop" : 1657535252975,
+          "duration" : 30764
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1016,189 +295,40 @@
         "retriesCount" : 1,
         "retriesStatusChange" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user and delete that user",
-        "uid" : "7561517868d9c2b1",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "broken",
-        "time" : {
-          "start" : 1658950892828,
-          "stop" : 1658951124079,
-          "duration" : 231251
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Validate Assigned Inspector from case list via Additional Option filter",
-        "uid" : "3c40d1ec3a58a87b",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
+      } ],
+      "uid" : "efd2c1ea9ea55dd00eb4b93bc3f6706a"
+    }, {
+      "name" : "7908@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "Select mail using insurance provider & mail index",
+        "uid" : "70b88475d490433d",
+        "parentUid" : "659b5b51418ce725e27757b25e8b235e",
         "status" : "passed",
         "time" : {
-          "start" : 1658950374315,
-          "stop" : 1658950445835,
-          "duration" : 71520
+          "start" : 1657535493884,
+          "stop" : 1657535525486,
+          "duration" : 31602
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will goto user list and update status of user.",
-        "uid" : "11cf8596a6d657b5",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658951268465,
-          "stop" : 1658951309023,
-          "duration" : 40558
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 3,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will delete all items and subitems create and edit the case.",
-        "uid" : "3c03ef62b0800043",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658949236542,
-          "stop" : 1658949457135,
-          "duration" : 220593
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Download excel report from case list",
-        "uid" : "e0c6fd97e5ed808",
-        "parentUid" : "a423b2d9f8c62188fa379307aaf9725d",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658950176412,
-          "stop" : 1658950242750,
-          "duration" : 66338
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
+        "retriesCount" : 1,
         "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "a423b2d9f8c62188fa379307aaf9725d"
+      "uid" : "659b5b51418ce725e27757b25e8b235e"
     }, {
-      "name" : "19484@DESKTOP-NH20ML0.main(1)",
+      "name" : "7920@DESKTOP-D4SH2AK.main(1)",
       "children" : [ {
-        "name" : "Download excel report from case list",
-        "uid" : "b8c0ab24ef24d1fb",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658831982516,
-          "stop" : 1658832377854,
-          "duration" : 395338
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Check Mail Clickable",
-        "uid" : "2d0026809e70650",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658830998967,
-          "stop" : 1658831071189,
-          "duration" : 72222
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Delete existing User by its mail",
-        "uid" : "cb78228ba4d85198",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658833124362,
-          "stop" : 1658833181840,
-          "duration" : 57478
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Check Call Clickable",
-        "uid" : "3a6b0f5dc70d93ad",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658830939565,
-          "stop" : 1658830998933,
-          "duration" : 59368
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user and delete that user",
-        "uid" : "3ec438702b024d49",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658832833973,
-          "stop" : 1658833124354,
-          "duration" : 290381
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "Change order status of a case",
-        "uid" : "7e001d650160c812",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
+        "uid" : "cf4dbb389a4603",
+        "parentUid" : "3bc77694503daf8e5c0df8d72d7b7d4e",
         "status" : "passed",
         "time" : {
-          "start" : 1658831419956,
-          "stop" : 1658831582314,
-          "duration" : 162358
+          "start" : 1657534890338,
+          "stop" : 1657534932234,
+          "duration" : 41896
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1207,15 +337,19 @@
         "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "This will rename current user and try to match after update",
-        "uid" : "cc65dd9c51d67f4f",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
+      } ],
+      "uid" : "3bc77694503daf8e5c0df8d72d7b7d4e"
+    }, {
+      "name" : "16328@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "Download excel report from case list",
+        "uid" : "530a98a146aa0d57",
+        "parentUid" : "661d18edae71b14eddea957088bb0bbd",
         "status" : "passed",
         "time" : {
-          "start" : 1658832784781,
-          "stop" : 1658832833965,
-          "duration" : 49184
+          "start" : 1657186982831,
+          "stop" : 1657187142545,
+          "duration" : 159714
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1224,134 +358,19 @@
         "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "Assign inspector from case list",
-        "uid" : "f8111e7bc5683a95",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658831926928,
-          "stop" : 1658831982511,
-          "duration" : 55583
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will goto user list and update status of user.",
-        "uid" : "b94be0d29629c821",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658833253547,
-          "stop" : 1658833294375,
-          "duration" : 40828
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Adding a Single Case",
-        "uid" : "89e971f698525788",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658832402307,
-          "stop" : 1658832485623,
-          "duration" : 83316
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Filter department and verify all mails shows department's tag",
-        "uid" : "d55db5cfdad1889f",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658832485628,
-          "stop" : 1658832528268,
-          "duration" : 42640
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will validate first name while create new use",
-        "uid" : "d4cf3d04245fdb28",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658833294391,
-          "stop" : 1658833359478,
-          "duration" : 65087
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will find a valid case from list and generate report then send.",
-        "uid" : "cd34faf62bf8d052",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658831378038,
-          "stop" : 1658831419951,
-          "duration" : 41913
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will delete all items and subitems create and edit the case.",
-        "uid" : "a14f4b852a393ea5",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658831157270,
-          "stop" : 1658831378013,
-          "duration" : 220743
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
+      } ],
+      "uid" : "661d18edae71b14eddea957088bb0bbd"
+    }, {
+      "name" : "2132@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
         "name" : "Create & Edit a Case",
-        "uid" : "70448e895e4c5afd",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
+        "uid" : "ead5277c2c49d99a",
+        "parentUid" : "48be6a7285179700e6235bbd8c94b2e9",
         "status" : "passed",
         "time" : {
-          "start" : 1658831582318,
-          "stop" : 1658831760628,
-          "duration" : 178310
+          "start" : 1657535323414,
+          "stop" : 1657535469034,
+          "duration" : 145620
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1360,15 +379,19 @@
         "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "Delete a particular case",
-        "uid" : "795c380c65cc7b59",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
+      } ],
+      "uid" : "48be6a7285179700e6235bbd8c94b2e9"
+    }, {
+      "name" : "9904@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
+        "name" : "Create a new user",
+        "uid" : "305784e2343373e",
+        "parentUid" : "126f027547b678f15c8e8456459f8618",
         "status" : "passed",
         "time" : {
-          "start" : 1658831760637,
-          "stop" : 1658831926923,
-          "duration" : 166286
+          "start" : 1657534568526,
+          "stop" : 1657534614701,
+          "duration" : 46175
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1377,134 +400,19 @@
         "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ ]
-      }, {
-        "name" : "Populate mailbox for an insurance provider & navigate",
-        "uid" : "690b4bcf22112e2f",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658832528273,
-          "stop" : 1658832552196,
-          "duration" : 23923
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Just Login Test",
-        "uid" : "38bc52db2529bfab",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658832377864,
-          "stop" : 1658832402302,
-          "duration" : 24438
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
+      } ],
+      "uid" : "126f027547b678f15c8e8456459f8618"
+    }, {
+      "name" : "6476@DESKTOP-D4SH2AK.main(1)",
+      "children" : [ {
         "name" : "This will find a user by email and validate",
-        "uid" : "80c7007fd7612d76",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
+        "uid" : "7689191f606e65da",
+        "parentUid" : "0a3d2e24c8a7e0cee671a564d6e3af2e",
         "status" : "passed",
         "time" : {
-          "start" : 1658833181846,
-          "stop" : 1658833221077,
-          "duration" : 39231
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Verify default backoffice is set or not",
-        "uid" : "467b858b577ccc63",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "broken",
-        "time" : {
-          "start" : 1658831071197,
-          "stop" : 1658831157255,
-          "duration" : 86058
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Select mail using insurance provider & mail index",
-        "uid" : "7338a21a2b275c52",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658830909507,
-          "stop" : 1658830939401,
-          "duration" : 29894
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will create a new user with temporary yopmail and verify from mail Then it will find last created user.",
-        "uid" : "4f6fbaa8efdb0055",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "passed",
-        "time" : {
-          "start" : 1658832690939,
-          "stop" : 1658832784774,
-          "duration" : 93835
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "This will search a user by an email and assign or update then validate.",
-        "uid" : "97d3413a2cc9e60a",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658833221098,
-          "stop" : 1658833253539,
-          "duration" : 32441
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Delete an email",
-        "uid" : "781fdc28af1bc1f5",
-        "parentUid" : "d2c5c07404429efb066d918a874f31cf",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658832552211,
-          "stop" : 1658832690921,
-          "duration" : 138710
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1514,18 +422,18 @@
         "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "d2c5c07404429efb066d918a874f31cf"
+      "uid" : "0a3d2e24c8a7e0cee671a564d6e3af2e"
     }, {
-      "name" : "18832@DESKTOP-NH20ML0.main(1)",
+      "name" : "7636@DESKTOP-D4SH2AK.main(1)",
       "children" : [ {
-        "name" : "Select mail using insurance provider & mail index",
-        "uid" : "342d3c195effd5e2",
-        "parentUid" : "f302d072e6b388034032bf87a66ae107",
+        "name" : "Delete a particular case",
+        "uid" : "115c16ed2ff1edb3",
+        "parentUid" : "b9c5746d6d4c83d736a3e7a7c26a92be",
         "status" : "passed",
         "time" : {
-          "start" : 1658830811086,
-          "stop" : 1658830842490,
-          "duration" : 31404
+          "start" : 1657535546297,
+          "stop" : 1657535611080,
+          "duration" : 64783
         },
         "flaky" : false,
         "newFailed" : false,
@@ -1535,71 +443,71 @@
         "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "f302d072e6b388034032bf87a66ae107"
+      "uid" : "b9c5746d6d4c83d736a3e7a7c26a92be"
     }, {
-      "name" : "15312@DESKTOP-NH20ML0.main(1)",
+      "name" : "19360@DESKTOP-D4SH2AK.main(1)",
       "children" : [ {
-        "name" : "Validate Case Status from case list via Additional Option filter",
-        "uid" : "98c761b653710e1c",
-        "parentUid" : "a1c49af5e4c55356eebdde74c2eeec3a",
+        "name" : "Populate mailbox for an insurance provider & navigate",
+        "uid" : "6029ac2db05f56b7",
+        "parentUid" : "ab40383b2ebe413ebebb2d99e333a94c",
         "status" : "passed",
         "time" : {
-          "start" : 1658952548513,
-          "stop" : 1658952622898,
-          "duration" : 74385
+          "start" : 1657535274581,
+          "stop" : 1657535302662,
+          "duration" : 28081
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : true,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "a1c49af5e4c55356eebdde74c2eeec3a"
+      "uid" : "ab40383b2ebe413ebebb2d99e333a94c"
     }, {
-      "name" : "11988@DESKTOP-NH20ML0.main(1)",
+      "name" : "5992@DESKTOP-D4SH2AK.main(1)",
       "children" : [ {
-        "name" : "This will validate first name while create new use",
-        "uid" : "50d18db39600757e",
-        "parentUid" : "34c1939cbaf95b8742a38874699f0432",
+        "name" : "Populate mailbox for an insurance provider & navigate",
+        "uid" : "b1fb6ad598240b3f",
+        "parentUid" : "748100bd694c8c884fee650ba2cf349f",
         "status" : "passed",
         "time" : {
-          "start" : 1658952391299,
-          "stop" : 1658952461326,
-          "duration" : 70027
+          "start" : 1657187213991,
+          "stop" : 1657187240830,
+          "duration" : 26839
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
-        "retriesStatusChange" : true,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "34c1939cbaf95b8742a38874699f0432"
+      "uid" : "748100bd694c8c884fee650ba2cf349f"
     }, {
-      "name" : "9624@DESKTOP-NH20ML0.main(1)",
+      "name" : "10872@DESKTOP-D4SH2AK.main(1)",
       "children" : [ {
-        "name" : "This will create a new user and delete that user",
-        "uid" : "c6cbe0b4c9415207",
-        "parentUid" : "c1d4a2e0b09e3f1ca630e7b120bda19a",
+        "name" : "Adding a Single Case",
+        "uid" : "53bb267f9f3be608",
+        "parentUid" : "e9f5c13ed52a682f95ee1c7f5b49503e",
         "status" : "passed",
         "time" : {
-          "start" : 1658952771554,
-          "stop" : 1658952879712,
-          "duration" : 108158
+          "start" : 1657535122678,
+          "stop" : 1657535200039,
+          "duration" : 77361
         },
         "flaky" : false,
         "newFailed" : false,
-        "newPassed" : true,
+        "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 4,
-        "retriesStatusChange" : true,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "c1d4a2e0b09e3f1ca630e7b120bda19a"
+      "uid" : "e9f5c13ed52a682f95ee1c7f5b49503e"
     } ],
-    "uid" : "c13962495a242e21efc9f00a9859ef6a"
+    "uid" : "44227c34813bbc631933c78597740218"
   } ]
 }

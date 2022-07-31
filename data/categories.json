@@ -1,51 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "Please delete cases created from this mail first",
-      "children" : [ {
-        "name" : "Delete an email",
-        "uid" : "ae5084eacf54da67",
-        "parentUid" : "f39a1a470cb80b87dce4bba6f1dd8acc",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658950687762,
-          "stop" : 1658950745926,
-          "duration" : 58164
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 2,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "f39a1a470cb80b87dce4bba6f1dd8acc"
-    }, {
-      "name" : "expected [1] but found [0]",
-      "children" : [ {
-        "name" : "Delete existing User by its mail",
-        "uid" : "4fd47352dce4344a",
-        "parentUid" : "8d997fec59c31d253af1a54e2df2de96",
-        "status" : "failed",
-        "time" : {
-          "start" : 1658951124084,
-          "stop" : 1658951183001,
-          "duration" : 58917
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 3,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "8d997fec59c31d253af1a54e2df2de96"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ]
+  "children" : [ ]
 }

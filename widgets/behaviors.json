@@ -1,26 +1,37 @@
 {
-  "total" : 6,
+  "total" : 4,
   "items" : [ {
+    "uid" : "ba47b8b4808d4576c42cb6090ba1c693",
+    "name" : "Test Custom Script",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 11
+    }
+  }, {
+    "uid" : "c9d2cebe6a2e5c2f70077c8d65c0d7a6",
+    "name" : "Add New User",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
     "uid" : "2adfac48a5d7510f1dd6c7a179d41828",
     "name" : "Users Module",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 8
-    }
-  }, {
-    "uid" : "8c12ce82e3d52b1b7f4b0bd82aa6096e",
-    "name" : "Mailbox Module",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 3
+      "total" : 1
     }
   }, {
     "uid" : "3935f52fbba7c422fc9cd0ecf4895be0",
@@ -29,42 +40,9 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 6,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 6
-    }
-  }, {
-    "uid" : "d5da3e19ac3121a6735d50311cc27ac8",
-    "name" : "Case List Module",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 6,
-      "unknown" : 0,
-      "total" : 6
-    }
-  }, {
-    "uid" : "2bc16e88f54e9ffc8ac9df016b6d2424",
-    "name" : "Case Details Module",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 4,
-      "unknown" : 0,
-      "total" : 4
-    }
-  }, {
-    "uid" : "ba47b8b4808d4576c42cb6090ba1c693",
-    "name" : "Test Custom Script",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
+      "total" : 1
     }
   } ]
 }
