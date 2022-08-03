@@ -1,0 +1,164 @@
+{
+  "uid" : "731f55d0f065ab98",
+  "name" : "This will delete all items and subitems create and edit the case.",
+  "fullName" : "Case Creation Module: This will delete all items and subitems create and edit the case.",
+  "historyId" : "c34833f5bdbbf79821f70632f18b515b",
+  "time" : {
+    "start" : 1659346287795,
+    "stop" : 1659346685385,
+    "duration" : 397590
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1659346287795,
+        "stop" : 1659346479405,
+        "duration" : 191610
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1659346479405,
+        "stop" : 1659346498871,
+        "duration" : 19466
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ce60f133a905ea09",
+        "name" : "Just Login",
+        "source" : "ce60f133a905ea09.png",
+        "type" : "image/png",
+        "size" : 82345
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Given  AddCase 1 1 \"IPEX Staging\" \"IPEX Staging\"",
+      "time" : {
+        "start" : 1659346498871,
+        "stop" : 1659346681541,
+        "duration" : 182670
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5607f6800b10289a",
+        "name" : "Case created after deleting",
+        "source" : "5607f6800b10289a.png",
+        "type" : "image/png",
+        "size" : 68375
+      }, {
+        "uid" : "6a68dcbbb07a98f1",
+        "name" : "Case hase been edited",
+        "source" : "6a68dcbbb07a98f1.png",
+        "type" : "image/png",
+        "size" : 133730
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1659346681541,
+      "stop" : 1659346685384,
+      "duration" : 3843
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "DeleteItemAndSubItem"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseCreation"
+  }, {
+    "name" : "tag",
+    "value" : "AddItemAndSubItem"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "8384@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "story",
+    "value" : "This will delete all items and subitems create and edit the case."
+  }, {
+    "name" : "suite",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "testClass",
+    "value" : "This will delete all items and subitems create and edit the case."
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20Creation.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case Creation_feature.Case Creation Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "CaseCreation", "allTest", "DeleteItemAndSubItem", "AddItemAndSubItem" ]
+  },
+  "source" : "731f55d0f065ab98.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,330 @@
+{
+  "uid" : "1708931f4f51a85b",
+  "name" : "This will find a user by email and validate",
+  "fullName" : "Test Custom Script: This will find a user by email and validate",
+  "historyId" : "cee80b81d5e5cbfa9a0765ae42a74d16",
+  "time" : {
+    "start" : 1657534313232,
+    "stop" : 1657534362341,
+    "duration" : 49109
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1657534313235,
+        "stop" : 1657534321060,
+        "duration" : 7825
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1657534321060,
+        "stop" : 1657534334912,
+        "duration" : 13852
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  FindUser \"TestDhiman001@yopmail.com\"",
+      "time" : {
+        "start" : 1657534334912,
+        "stop" : 1657534361661,
+        "duration" : 26749
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1657534361662,
+      "stop" : 1657534362340,
+      "duration" : 678
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "FindUser"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "6476@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "story",
+    "value" : "This will find a user by email and validate"
+  }, {
+    "name" : "suite",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "testClass",
+    "value" : "This will find a user by email and validate"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/CustomScript.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.CustomScript_feature.Test Custom Script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 70,
+        "unknown" : 0,
+        "total" : 70
+      },
+      "items" : [ {
+        "uid" : "6bdfcb559512d8f7",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/91/allure/#testresult/6bdfcb559512d8f7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "fe145dafb7dc1608",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/90/allure/#testresult/fe145dafb7dc1608",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "cdc93e66b371828b",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/89/allure/#testresult/cdc93e66b371828b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "8b395e29fc4717a3",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/88/allure/#testresult/8b395e29fc4717a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "18a3b073eb882c34",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/87/allure/#testresult/18a3b073eb882c34",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "8e7a7a4753ca4325",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/86/allure/#testresult/8e7a7a4753ca4325",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "1c5830637324acf2",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/85/allure/#testresult/1c5830637324acf2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "bc916e1de294e976",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/84/allure/#testresult/bc916e1de294e976",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "dd7ad0f758738ad5",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/83/allure/#testresult/dd7ad0f758738ad5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "6b4fe821962de6ef",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/82/allure/#testresult/6b4fe821962de6ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "c9a3b16aec44642f",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/81/allure/#testresult/c9a3b16aec44642f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "a7bd6ad7035e836b",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/80/allure/#testresult/a7bd6ad7035e836b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "c873c90cebfa3e07",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/79/allure/#testresult/c873c90cebfa3e07",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "3f8dd5aac64bf98c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/78/allure/#testresult/3f8dd5aac64bf98c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "a1849feb873c200e",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/77/allure/#testresult/a1849feb873c200e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "9897050ff1121d2e",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/76/allure/#testresult/9897050ff1121d2e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "a1168c0186dc94a6",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/75/allure/#testresult/a1168c0186dc94a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "5f1905dda3b87a5d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/74/allure/#testresult/5f1905dda3b87a5d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "9d741240acc8b92f",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/73/allure/#testresult/9d741240acc8b92f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      }, {
+        "uid" : "feda815c96cad477",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/72/allure/#testresult/feda815c96cad477",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534313232,
+          "stop" : 1657534362341,
+          "duration" : 49109
+        }
+      } ]
+    },
+    "tags" : [ "FindUser" ]
+  },
+  "source" : "1708931f4f51a85b.json",
+  "parameterValues" : [ ]
+}

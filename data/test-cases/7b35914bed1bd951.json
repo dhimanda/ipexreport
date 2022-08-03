@@ -1,0 +1,249 @@
+{
+  "uid" : "7b35914bed1bd951",
+  "name" : "This will find a valid case from list and generate report then send.",
+  "fullName" : "Case Details Module: This will find a valid case from list and generate report then send.",
+  "historyId" : "480d9e9276ef8c214858e5b62ac91568",
+  "time" : {
+    "start" : 1659349957460,
+    "stop" : 1659350035570,
+    "duration" : 78110
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1659349957463,
+        "stop" : 1659349991780,
+        "duration" : 34317
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1659349991781,
+        "stop" : 1659350013384,
+        "duration" : 21603
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fc19cdfaf4e70da3",
+        "name" : "Just Login",
+        "source" : "fc19cdfaf4e70da3.png",
+        "type" : "image/png",
+        "size" : 82345
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Given  GenerateReportAndSendReport",
+      "time" : {
+        "start" : 1659350013384,
+        "stop" : 1659350029239,
+        "duration" : 15855
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c38a204db592d79f",
+        "name" : "Generate Report and Send Report",
+        "source" : "c38a204db592d79f.png",
+        "type" : "image/png",
+        "size" : 133054
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1659350029241,
+      "stop" : 1659350035563,
+      "duration" : 6322
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "GenerateReportAndSendReport"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseDetails"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "15096@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case Details Module"
+  }, {
+    "name" : "story",
+    "value" : "This will find a valid case from list and generate report then send."
+  }, {
+    "name" : "suite",
+    "value" : "Case Details Module"
+  }, {
+    "name" : "testClass",
+    "value" : "This will find a valid case from list and generate report then send."
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20Details%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case Details Module_feature.Case Details Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "7ef6ac6c0b649e49",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/91/allure/#testresult/7ef6ac6c0b649e49",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659349957460,
+          "stop" : 1659350035570,
+          "duration" : 78110
+        }
+      }, {
+        "uid" : "ef6649d15cedaf81",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/90/allure/#testresult/ef6649d15cedaf81",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659349957460,
+          "stop" : 1659350035570,
+          "duration" : 78110
+        }
+      }, {
+        "uid" : "e4af58defde96596",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/89/allure/#testresult/e4af58defde96596",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659349957460,
+          "stop" : 1659350035570,
+          "duration" : 78110
+        }
+      }, {
+        "uid" : "3a886a0ff8118437",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/88/allure/#testresult/3a886a0ff8118437",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659349957460,
+          "stop" : 1659350035570,
+          "duration" : 78110
+        }
+      }, {
+        "uid" : "9cca803df532de36",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/87/allure/#testresult/9cca803df532de36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659349957460,
+          "stop" : 1659350035570,
+          "duration" : 78110
+        }
+      }, {
+        "uid" : "93d8a529aa02f91c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/86/allure/#testresult/93d8a529aa02f91c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659349957460,
+          "stop" : 1659350035570,
+          "duration" : 78110
+        }
+      }, {
+        "uid" : "e7e9e08d4599ec7",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/85/allure/#testresult/e7e9e08d4599ec7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659349957460,
+          "stop" : 1659350035570,
+          "duration" : 78110
+        }
+      }, {
+        "uid" : "1dcecac3349b0aed",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/84/allure/#testresult/1dcecac3349b0aed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659349957460,
+          "stop" : 1659350035570,
+          "duration" : 78110
+        }
+      }, {
+        "uid" : "62e2f17eb59298e8",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/83/allure/#testresult/62e2f17eb59298e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659349957460,
+          "stop" : 1659350035570,
+          "duration" : 78110
+        }
+      } ]
+    },
+    "tags" : [ "allTest", "GenerateReportAndSendReport", "CaseDetails" ]
+  },
+  "source" : "7b35914bed1bd951.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,390 @@
+{
+  "uid" : "1e1c3159a0c9b2f5",
+  "name" : "Delete an email",
+  "fullName" : "Mailbox Module: Delete an email",
+  "historyId" : "98d2cc6c3d1443661da3e6abfca46c45",
+  "time" : {
+    "start" : 1659349241348,
+    "stop" : 1659349692815,
+    "duration" : 451467
+  },
+  "status" : "failed",
+  "statusMessage" : "Something went wrong, please try again!",
+  "statusTrace" : "java.lang.AssertionError: Something went wrong, please try again!\r\n\tat pcx.modules.SelectMail.deleteMail(SelectMail.java:124)\r\n\tat stepDefinations.stepDefinition.deleteEmail(stepDefinition.java:428)\r\n\tat ✽.DeleteEmail \"Zurich\" 1(file:src/test/java/features/Mailbox%20Module.feature:23)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Something went wrong, please try again!",
+    "statusTrace" : "java.lang.AssertionError: Something went wrong, please try again!\r\n\tat pcx.modules.SelectMail.deleteMail(SelectMail.java:124)\r\n\tat stepDefinations.stepDefinition.deleteEmail(stepDefinition.java:428)\r\n\tat ✽.DeleteEmail \"Zurich\" 1(file:src/test/java/features/Mailbox%20Module.feature:23)\r\n",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1659349241350,
+        "stop" : 1659349553085,
+        "duration" : 311735
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login \"saniuzzaman.robin@selise.ch\"",
+      "time" : {
+        "start" : 1659349553086,
+        "stop" : 1659349567325,
+        "duration" : 14239
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  DeleteEmail \"Zurich\" 1",
+      "time" : {
+        "start" : 1659349567326,
+        "stop" : 1659349686165,
+        "duration" : 118839
+      },
+      "status" : "failed",
+      "statusMessage" : "Something went wrong, please try again!",
+      "statusTrace" : "java.lang.AssertionError: Something went wrong, please try again!\r\n\tat pcx.modules.SelectMail.deleteMail(SelectMail.java:124)\r\n\tat stepDefinations.stepDefinition.deleteEmail(stepDefinition.java:428)\r\n\tat ✽.DeleteEmail \"Zurich\" 1(file:src/test/java/features/Mailbox%20Module.feature:23)\r\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1659349686168,
+      "stop" : 1659349692815,
+      "duration" : 6647
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4bfc5ea27bb27946",
+      "name" : "Failure Screenshot",
+      "source" : "4bfc5ea27bb27946.png",
+      "type" : "image/png",
+      "size" : 244794
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "DeleteEmail"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "Mailbox"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "12408@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Mailbox Module"
+  }, {
+    "name" : "story",
+    "value" : "Delete an email"
+  }, {
+    "name" : "suite",
+    "value" : "Mailbox Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete an email"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Mailbox%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Mailbox Module_feature.Mailbox Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6777847e5044f96f",
+      "status" : "failed",
+      "statusDetails" : "Something went wrong, please try again!",
+      "time" : {
+        "start" : 1659348936784,
+        "stop" : 1659349208213,
+        "duration" : 271429
+      }
+    }, {
+      "uid" : "fef944f86e6ef06e",
+      "status" : "broken",
+      "statusDetails" : "Index 1 out of bounds for length 0",
+      "time" : {
+        "start" : 1659345071813,
+        "stop" : 1659345592251,
+        "duration" : 520438
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 12,
+        "broken" : 17,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 29
+      },
+      "items" : [ {
+        "uid" : "6c3c9f866ba3f1a0",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/91/allure/#testresult/6c3c9f866ba3f1a0",
+        "status" : "failed",
+        "statusDetails" : "Something went wrong, please try again!",
+        "time" : {
+          "start" : 1659349241348,
+          "stop" : 1659349692815,
+          "duration" : 451467
+        }
+      }, {
+        "uid" : "18eb8c0f64fe65",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/90/allure/#testresult/18eb8c0f64fe65",
+        "status" : "failed",
+        "statusDetails" : "Something went wrong, please try again!",
+        "time" : {
+          "start" : 1659349241348,
+          "stop" : 1659349692815,
+          "duration" : 451467
+        }
+      }, {
+        "uid" : "bf4b33033eced0b",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/89/allure/#testresult/bf4b33033eced0b",
+        "status" : "failed",
+        "statusDetails" : "Something went wrong, please try again!",
+        "time" : {
+          "start" : 1659349241348,
+          "stop" : 1659349692815,
+          "duration" : 451467
+        }
+      }, {
+        "uid" : "5776c295680c3c52",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/88/allure/#testresult/5776c295680c3c52",
+        "status" : "failed",
+        "statusDetails" : "Something went wrong, please try again!",
+        "time" : {
+          "start" : 1659349241348,
+          "stop" : 1659349692815,
+          "duration" : 451467
+        }
+      }, {
+        "uid" : "1389ab99cf07e07a",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/87/allure/#testresult/1389ab99cf07e07a",
+        "status" : "failed",
+        "statusDetails" : "Something went wrong, please try again!",
+        "time" : {
+          "start" : 1659349241348,
+          "stop" : 1659349692815,
+          "duration" : 451467
+        }
+      }, {
+        "uid" : "ca3b5ca6215ba57d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/86/allure/#testresult/ca3b5ca6215ba57d",
+        "status" : "failed",
+        "statusDetails" : "Something went wrong, please try again!",
+        "time" : {
+          "start" : 1659349241348,
+          "stop" : 1659349692815,
+          "duration" : 451467
+        }
+      }, {
+        "uid" : "9005dbcc47b6d6ba",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/85/allure/#testresult/9005dbcc47b6d6ba",
+        "status" : "failed",
+        "statusDetails" : "Something went wrong, please try again!",
+        "time" : {
+          "start" : 1659349241348,
+          "stop" : 1659349692815,
+          "duration" : 451467
+        }
+      }, {
+        "uid" : "9b31a608747ac07",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/84/allure/#testresult/9b31a608747ac07",
+        "status" : "failed",
+        "statusDetails" : "Something went wrong, please try again!",
+        "time" : {
+          "start" : 1659349241348,
+          "stop" : 1659349692815,
+          "duration" : 451467
+        }
+      }, {
+        "uid" : "ea6b357ab305ac47",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/83/allure/#testresult/ea6b357ab305ac47",
+        "status" : "failed",
+        "statusDetails" : "Something went wrong, please try again!",
+        "time" : {
+          "start" : 1659349241348,
+          "stop" : 1659349692815,
+          "duration" : 451467
+        }
+      }, {
+        "uid" : "a4eeacd7cf5c720e",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/82/allure/#testresult/a4eeacd7cf5c720e",
+        "status" : "failed",
+        "statusDetails" : "Something went wrong, please try again!",
+        "time" : {
+          "start" : 1659349241348,
+          "stop" : 1659349692815,
+          "duration" : 451467
+        }
+      }, {
+        "uid" : "4038c04653c587a6",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/81/allure/#testresult/4038c04653c587a6",
+        "status" : "failed",
+        "statusDetails" : "Something went wrong, please try again!",
+        "time" : {
+          "start" : 1659348936784,
+          "stop" : 1659349208213,
+          "duration" : 271429
+        }
+      }, {
+        "uid" : "1c994cce3b27e7ce",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/80/allure/#testresult/1c994cce3b27e7ce",
+        "status" : "broken",
+        "statusDetails" : "Index 1 out of bounds for length 0",
+        "time" : {
+          "start" : 1659345071813,
+          "stop" : 1659345592251,
+          "duration" : 520438
+        }
+      }, {
+        "uid" : "ca1df34c1b9ac1c9",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/79/allure/#testresult/ca1df34c1b9ac1c9",
+        "status" : "broken",
+        "statusDetails" : "Index 1 out of bounds for length 0",
+        "time" : {
+          "start" : 1659345071813,
+          "stop" : 1659345592251,
+          "duration" : 520438
+        }
+      }, {
+        "uid" : "2d8503a61d5ad99",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/78/allure/#testresult/2d8503a61d5ad99",
+        "status" : "broken",
+        "statusDetails" : "Index 1 out of bounds for length 0",
+        "time" : {
+          "start" : 1659345071813,
+          "stop" : 1659345592251,
+          "duration" : 520438
+        }
+      }, {
+        "uid" : "349eae78c6961065",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/77/allure/#testresult/349eae78c6961065",
+        "status" : "broken",
+        "statusDetails" : "Index 1 out of bounds for length 0",
+        "time" : {
+          "start" : 1659345071813,
+          "stop" : 1659345592251,
+          "duration" : 520438
+        }
+      }, {
+        "uid" : "723fe733ef10c67b",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/76/allure/#testresult/723fe733ef10c67b",
+        "status" : "broken",
+        "statusDetails" : "Index 1 out of bounds for length 0",
+        "time" : {
+          "start" : 1659345071813,
+          "stop" : 1659345592251,
+          "duration" : 520438
+        }
+      }, {
+        "uid" : "b467df81efba7409",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/75/allure/#testresult/b467df81efba7409",
+        "status" : "broken",
+        "statusDetails" : "Index 1 out of bounds for length 0",
+        "time" : {
+          "start" : 1659345071813,
+          "stop" : 1659345592251,
+          "duration" : 520438
+        }
+      }, {
+        "uid" : "dee431ae1b55eba4",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/74/allure/#testresult/dee431ae1b55eba4",
+        "status" : "broken",
+        "statusDetails" : "Index 1 out of bounds for length 0",
+        "time" : {
+          "start" : 1659345071813,
+          "stop" : 1659345592251,
+          "duration" : 520438
+        }
+      }, {
+        "uid" : "d3968136a50a9115",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/73/allure/#testresult/d3968136a50a9115",
+        "status" : "broken",
+        "statusDetails" : "Index 1 out of bounds for length 0",
+        "time" : {
+          "start" : 1659345071813,
+          "stop" : 1659345592251,
+          "duration" : 520438
+        }
+      }, {
+        "uid" : "99be190134d44340",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/72/allure/#testresult/99be190134d44340",
+        "status" : "broken",
+        "statusDetails" : "Index 1 out of bounds for length 0",
+        "time" : {
+          "start" : 1659345071813,
+          "stop" : 1659345592251,
+          "duration" : 520438
+        }
+      } ]
+    },
+    "tags" : [ "allTest", "Mailbox", "DeleteEmail" ]
+  },
+  "source" : "1e1c3159a0c9b2f5.json",
+  "parameterValues" : [ ]
+}

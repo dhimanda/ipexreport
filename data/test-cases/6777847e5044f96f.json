@@ -1,0 +1,155 @@
+{
+  "uid" : "6777847e5044f96f",
+  "name" : "Delete an email",
+  "fullName" : "Mailbox Module: Delete an email",
+  "historyId" : "98d2cc6c3d1443661da3e6abfca46c45",
+  "time" : {
+    "start" : 1659348936784,
+    "stop" : 1659349208213,
+    "duration" : 271429
+  },
+  "status" : "failed",
+  "statusMessage" : "Something went wrong, please try again!",
+  "statusTrace" : "java.lang.AssertionError: Something went wrong, please try again!\r\n\tat pcx.modules.SelectMail.deleteMail(SelectMail.java:124)\r\n\tat stepDefinations.stepDefinition.deleteEmail(stepDefinition.java:428)\r\n\tat ✽.DeleteEmail \"Zurich\" 1(file:src/test/java/features/Mailbox%20Module.feature:23)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Something went wrong, please try again!",
+    "statusTrace" : "java.lang.AssertionError: Something went wrong, please try again!\r\n\tat pcx.modules.SelectMail.deleteMail(SelectMail.java:124)\r\n\tat stepDefinations.stepDefinition.deleteEmail(stepDefinition.java:428)\r\n\tat ✽.DeleteEmail \"Zurich\" 1(file:src/test/java/features/Mailbox%20Module.feature:23)\r\n",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1659348936784,
+        "stop" : 1659349063145,
+        "duration" : 126361
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Given  Login \"saniuzzaman.robin@selise.ch\"",
+      "time" : {
+        "start" : 1659349063145,
+        "stop" : 1659349081316,
+        "duration" : 18171
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  DeleteEmail \"Zurich\" 1",
+      "time" : {
+        "start" : 1659349081316,
+        "stop" : 1659349200017,
+        "duration" : 118701
+      },
+      "status" : "failed",
+      "statusMessage" : "Something went wrong, please try again!",
+      "statusTrace" : "java.lang.AssertionError: Something went wrong, please try again!\r\n\tat pcx.modules.SelectMail.deleteMail(SelectMail.java:124)\r\n\tat stepDefinations.stepDefinition.deleteEmail(stepDefinition.java:428)\r\n\tat ✽.DeleteEmail \"Zurich\" 1(file:src/test/java/features/Mailbox%20Module.feature:23)\r\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1659349200019,
+      "stop" : 1659349208213,
+      "duration" : 8194
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5ee8b2e37505314a",
+      "name" : "Failure Screenshot",
+      "source" : "5ee8b2e37505314a.png",
+      "type" : "image/png",
+      "size" : 255746
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "DeleteEmail"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "Mailbox"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "2592@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Mailbox Module"
+  }, {
+    "name" : "story",
+    "value" : "Delete an email"
+  }, {
+    "name" : "suite",
+    "value" : "Mailbox Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete an email"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Mailbox%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Mailbox Module_feature.Mailbox Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "allTest", "Mailbox", "DeleteEmail" ]
+  },
+  "source" : "6777847e5044f96f.json",
+  "parameterValues" : [ ]
+}
