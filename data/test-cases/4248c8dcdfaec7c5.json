@@ -1,0 +1,173 @@
+{
+  "uid" : "4248c8dcdfaec7c5",
+  "name" : "Assign inspector from case list",
+  "fullName" : "Case List Module: Assign inspector from case list",
+  "historyId" : "3214534f5c1b6f3537c6aca2a5e01fda",
+  "time" : {
+    "start" : 1660463354611,
+    "stop" : 1660463424461,
+    "duration" : 69850
+  },
+  "status" : "failed",
+  "statusMessage" : "expected [true] but found [false]",
+  "statusTrace" : "java.lang.AssertionError: expected [true] but found [false]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:568)\r\n\tat org.testng.Assert.assertEquals(Assert.java:578)\r\n\tat core.components.ComponentHandler.IsMatched(ComponentHandler.java:405)\r\n\tat pcx.modules.CaseList.changeAssignedInspector(CaseList.java:89)\r\n\tat stepDefinations.stepDefinition.assignInspector(stepDefinition.java:411)\r\n\tat ✽.AssignInspector 1 \"IPEX Staging\"(file:src/test/java/features/Case%20List%20Module.feature:9)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected [true] but found [false]",
+    "statusTrace" : "java.lang.AssertionError: expected [true] but found [false]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:568)\r\n\tat org.testng.Assert.assertEquals(Assert.java:578)\r\n\tat core.components.ComponentHandler.IsMatched(ComponentHandler.java:405)\r\n\tat pcx.modules.CaseList.changeAssignedInspector(CaseList.java:89)\r\n\tat stepDefinations.stepDefinition.assignInspector(stepDefinition.java:411)\r\n\tat ✽.AssignInspector 1 \"IPEX Staging\"(file:src/test/java/features/Case%20List%20Module.feature:9)\r\n",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1660463354614,
+        "stop" : 1660463367558,
+        "duration" : 12944
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  Login \"saniuzzaman.robin@selise.ch\"",
+      "time" : {
+        "start" : 1660463367559,
+        "stop" : 1660463389059,
+        "duration" : 21500
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then  AssignInspector 1 \"IPEX Staging\"",
+      "time" : {
+        "start" : 1660463389060,
+        "stop" : 1660463419797,
+        "duration" : 30737
+      },
+      "status" : "failed",
+      "statusMessage" : "expected [true] but found [false]",
+      "statusTrace" : "java.lang.AssertionError: expected [true] but found [false]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:568)\r\n\tat org.testng.Assert.assertEquals(Assert.java:578)\r\n\tat core.components.ComponentHandler.IsMatched(ComponentHandler.java:405)\r\n\tat pcx.modules.CaseList.changeAssignedInspector(CaseList.java:89)\r\n\tat stepDefinations.stepDefinition.assignInspector(stepDefinition.java:411)\r\n\tat ✽.AssignInspector 1 \"IPEX Staging\"(file:src/test/java/features/Case%20List%20Module.feature:9)\r\n",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "287d0f0fdb657af9",
+        "name" : "Case List",
+        "source" : "287d0f0fdb657af9.png",
+        "type" : "image/png",
+        "size" : 81614
+      }, {
+        "uid" : "ba3e657b8d1a9779",
+        "name" : "Navigate to Case List",
+        "source" : "ba3e657b8d1a9779.png",
+        "type" : "image/png",
+        "size" : 202492
+      }, {
+        "uid" : "caa87cbbc743eea0",
+        "name" : "Paginate to Case Page",
+        "source" : "caa87cbbc743eea0.png",
+        "type" : "image/png",
+        "size" : 207067
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 3
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1660463419799,
+      "stop" : 1660463424459,
+      "duration" : 4660
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a2871d6d74d3aee4",
+      "name" : "Failure Screenshot",
+      "source" : "a2871d6d74d3aee4.png",
+      "type" : "image/png",
+      "size" : 223648
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "AssignInspector"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseList"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "17032@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case List Module"
+  }, {
+    "name" : "story",
+    "value" : "Assign inspector from case list"
+  }, {
+    "name" : "suite",
+    "value" : "Case List Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Assign inspector from case list"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20List%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case List Module_feature.Case List Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "allTest", "CaseList", "AssignInspector" ]
+  },
+  "source" : "4248c8dcdfaec7c5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,338 @@
+{
+  "uid" : "45c983f1335dba14",
+  "name" : "Download excel report from case list",
+  "fullName" : "Test Custom Script: Download excel report from case list",
+  "historyId" : "947fe0ab612f664820157ce2216118c8",
+  "time" : {
+    "start" : 1657534644716,
+    "stop" : 1657534803879,
+    "duration" : 159163
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1657534644718,
+        "stop" : 1657534654117,
+        "duration" : 9399
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  Login \"saniuzzaman.robin@selise.ch\"",
+      "time" : {
+        "start" : 1657534654117,
+        "stop" : 1657534667760,
+        "duration" : 13643
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then  ExportExcel",
+      "time" : {
+        "start" : 1657534667761,
+        "stop" : 1657534803234,
+        "duration" : 135473
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1657534803243,
+      "stop" : 1657534803878,
+      "duration" : 635
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ExportExcel"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "5048@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "story",
+    "value" : "Download excel report from case list"
+  }, {
+    "name" : "suite",
+    "value" : "Test Custom Script"
+  }, {
+    "name" : "testClass",
+    "value" : "Download excel report from case list"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/CustomScript.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.CustomScript_feature.Test Custom Script"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1e381533a5e9abfe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657186982831,
+        "stop" : 1657187142545,
+        "duration" : 159714
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 117,
+        "unknown" : 0,
+        "total" : 117
+      },
+      "items" : [ {
+        "uid" : "81c490f88741eb44",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/120/allure/#testresult/81c490f88741eb44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "310fc74d25a1ad11",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/119/allure/#testresult/310fc74d25a1ad11",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "f2959c3f93144166",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/118/allure/#testresult/f2959c3f93144166",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "d7b16510ad7d3e9b",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/117/allure/#testresult/d7b16510ad7d3e9b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "41ce702c6b1d7094",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/116/allure/#testresult/41ce702c6b1d7094",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "805fc3fd6fd40bac",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/115/allure/#testresult/805fc3fd6fd40bac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "ff0f347cb7d3b03",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/114/allure/#testresult/ff0f347cb7d3b03",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "65bbd4bbe01a65e9",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/113/allure/#testresult/65bbd4bbe01a65e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "63525d6c11e8c7f2",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/112/allure/#testresult/63525d6c11e8c7f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "c4c96ce2984e67ce",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/111/allure/#testresult/c4c96ce2984e67ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "d0542c33c87cfe73",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/110/allure/#testresult/d0542c33c87cfe73",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "17fc480696c6bcf5",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/109/allure/#testresult/17fc480696c6bcf5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "ddd1b62801df981f",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/108/allure/#testresult/ddd1b62801df981f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "9dc14df591b5a8bb",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/107/allure/#testresult/9dc14df591b5a8bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "4f6044b47e3fbb91",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/106/allure/#testresult/4f6044b47e3fbb91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "d68f36579b0c7123",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/105/allure/#testresult/d68f36579b0c7123",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "a99357bc099818b7",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/104/allure/#testresult/a99357bc099818b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "cd3a7e15a9e20550",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/103/allure/#testresult/cd3a7e15a9e20550",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "87a5e3832432d263",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/102/allure/#testresult/87a5e3832432d263",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      }, {
+        "uid" : "4121f6e9c8053009",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/101/allure/#testresult/4121f6e9c8053009",
+        "status" : "passed",
+        "time" : {
+          "start" : 1657534644716,
+          "stop" : 1657534803879,
+          "duration" : 159163
+        }
+      } ]
+    },
+    "tags" : [ "ExportExcel" ]
+  },
+  "source" : "45c983f1335dba14.json",
+  "parameterValues" : [ ]
+}

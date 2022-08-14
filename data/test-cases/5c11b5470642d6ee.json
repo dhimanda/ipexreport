@@ -1,0 +1,158 @@
+{
+  "uid" : "5c11b5470642d6ee",
+  "name" : "Validate Insurance Provider from case list via Additional Option filter",
+  "fullName" : "Case List Module: Validate Insurance Provider from case list via Additional Option filter",
+  "historyId" : "18f78e88699d3d272e75c886726747b9",
+  "time" : {
+    "start" : 1659354449885,
+    "stop" : 1659354533664,
+    "duration" : 83779
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1659354449888,
+        "stop" : 1659354463815,
+        "duration" : 13927
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1659354463815,
+        "stop" : 1659354483087,
+        "duration" : 19272
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c56723a8244da43d",
+        "name" : "Just Login",
+        "source" : "c56723a8244da43d.png",
+        "type" : "image/png",
+        "size" : 82345
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "Given  ValidateInsuranceProvider \"AXA\"",
+      "time" : {
+        "start" : 1659354483087,
+        "stop" : 1659354529306,
+        "duration" : 46219
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b2834fe6545b0ae2",
+        "name" : "Insurance Provider Validation",
+        "source" : "b2834fe6545b0ae2.png",
+        "type" : "image/png",
+        "size" : 187140
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1659354529307,
+      "stop" : 1659354533663,
+      "duration" : 4356
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ValidateInsuranceProvider"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseList"
+  }, {
+    "name" : "tag",
+    "value" : "AdditionalOptions"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "6128@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case List Module"
+  }, {
+    "name" : "story",
+    "value" : "Validate Insurance Provider from case list via Additional Option filter"
+  }, {
+    "name" : "suite",
+    "value" : "Case List Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Insurance Provider from case list via Additional Option filter"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20List%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case List Module_feature.Case List Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "allTest", "CaseList", "ValidateInsuranceProvider", "AdditionalOptions" ]
+  },
+  "source" : "5c11b5470642d6ee.json",
+  "parameterValues" : [ ]
+}

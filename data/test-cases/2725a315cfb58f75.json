@@ -1,0 +1,394 @@
+{
+  "uid" : "2725a315cfb58f75",
+  "name" : "Assign inspector from case list",
+  "fullName" : "Case List Module: Assign inspector from case list",
+  "historyId" : "3214534f5c1b6f3537c6aca2a5e01fda",
+  "time" : {
+    "start" : 1660480996660,
+    "stop" : 1660481075416,
+    "duration" : 78756
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : true,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1660480996665,
+        "stop" : 1660481013212,
+        "duration" : 16547
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  Login \"saniuzzaman.robin@selise.ch\"",
+      "time" : {
+        "start" : 1660481013213,
+        "stop" : 1660481028514,
+        "duration" : 15301
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then  AssignInspector 1 \"IPEX Staging\"",
+      "time" : {
+        "start" : 1660481028515,
+        "stop" : 1660481070850,
+        "duration" : 42335
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bbded9eef29d441d",
+        "name" : "Case List",
+        "source" : "bbded9eef29d441d.png",
+        "type" : "image/png",
+        "size" : 81627
+      }, {
+        "uid" : "474a24266e77bfcb",
+        "name" : "Navigate to Case List",
+        "source" : "474a24266e77bfcb.png",
+        "type" : "image/png",
+        "size" : 221565
+      }, {
+        "uid" : "46f1850ee22d8071",
+        "name" : "Paginate to Case Page",
+        "source" : "46f1850ee22d8071.png",
+        "type" : "image/png",
+        "size" : 221565
+      }, {
+        "uid" : "252c14268910d654",
+        "name" : "Changed Assigned Inspector",
+        "source" : "252c14268910d654.png",
+        "type" : "image/png",
+        "size" : 241420
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 4
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1660481070852,
+      "stop" : 1660481075415,
+      "duration" : 4563
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "AssignInspector"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseList"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "10416@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case List Module"
+  }, {
+    "name" : "story",
+    "value" : "Assign inspector from case list"
+  }, {
+    "name" : "suite",
+    "value" : "Case List Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Assign inspector from case list"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20List%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case List Module_feature.Case List Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4248c8dcdfaec7c5",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1660463354611,
+        "stop" : 1660463424461,
+        "duration" : 69850
+      }
+    }, {
+      "uid" : "39517da4a34158bc",
+      "status" : "failed",
+      "statusDetails" : "expected [true] but found [false]",
+      "time" : {
+        "start" : 1660462321987,
+        "stop" : 1660462393688,
+        "duration" : 71701
+      }
+    }, {
+      "uid" : "8699231c141ded92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659347605295,
+        "stop" : 1659347855546,
+        "duration" : 250251
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 8,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 40,
+        "unknown" : 0,
+        "total" : 48
+      },
+      "items" : [ {
+        "uid" : "7880ff38cc0f48a1",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/120/allure/#testresult/7880ff38cc0f48a1",
+        "status" : "failed",
+        "statusDetails" : "expected [true] but found [false]",
+        "time" : {
+          "start" : 1660463354611,
+          "stop" : 1660463424461,
+          "duration" : 69850
+        }
+      }, {
+        "uid" : "e6cc4d3f0ff198d6",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/119/allure/#testresult/e6cc4d3f0ff198d6",
+        "status" : "failed",
+        "statusDetails" : "expected [true] but found [false]",
+        "time" : {
+          "start" : 1660462321987,
+          "stop" : 1660462393688,
+          "duration" : 71701
+        }
+      }, {
+        "uid" : "4601592427a2faa9",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/118/allure/#testresult/4601592427a2faa9",
+        "status" : "failed",
+        "statusDetails" : "expected [true] but found [false]",
+        "time" : {
+          "start" : 1660462321987,
+          "stop" : 1660462393688,
+          "duration" : 71701
+        }
+      }, {
+        "uid" : "46c20fa6c2955057",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/117/allure/#testresult/46c20fa6c2955057",
+        "status" : "failed",
+        "statusDetails" : "expected [true] but found [false]",
+        "time" : {
+          "start" : 1660462321987,
+          "stop" : 1660462393688,
+          "duration" : 71701
+        }
+      }, {
+        "uid" : "4e7dbaa135273039",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/116/allure/#testresult/4e7dbaa135273039",
+        "status" : "failed",
+        "statusDetails" : "expected [true] but found [false]",
+        "time" : {
+          "start" : 1660462321987,
+          "stop" : 1660462393688,
+          "duration" : 71701
+        }
+      }, {
+        "uid" : "7ddf573dd126d4ed",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/115/allure/#testresult/7ddf573dd126d4ed",
+        "status" : "failed",
+        "statusDetails" : "expected [true] but found [false]",
+        "time" : {
+          "start" : 1660462321987,
+          "stop" : 1660462393688,
+          "duration" : 71701
+        }
+      }, {
+        "uid" : "8ff70b0e4a99f389",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/114/allure/#testresult/8ff70b0e4a99f389",
+        "status" : "failed",
+        "statusDetails" : "expected [true] but found [false]",
+        "time" : {
+          "start" : 1660462321987,
+          "stop" : 1660462393688,
+          "duration" : 71701
+        }
+      }, {
+        "uid" : "7c49cffbb4186b1b",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/113/allure/#testresult/7c49cffbb4186b1b",
+        "status" : "failed",
+        "statusDetails" : "expected [true] but found [false]",
+        "time" : {
+          "start" : 1660462321987,
+          "stop" : 1660462393688,
+          "duration" : 71701
+        }
+      }, {
+        "uid" : "18dd0bf8e6eebc1c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/112/allure/#testresult/18dd0bf8e6eebc1c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      }, {
+        "uid" : "b9eddb61f0629c76",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/111/allure/#testresult/b9eddb61f0629c76",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      }, {
+        "uid" : "2a95bf56a5df2705",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/110/allure/#testresult/2a95bf56a5df2705",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      }, {
+        "uid" : "20e66551f337cc9b",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/109/allure/#testresult/20e66551f337cc9b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      }, {
+        "uid" : "fb8a99b2da12e089",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/108/allure/#testresult/fb8a99b2da12e089",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      }, {
+        "uid" : "134c3bb30df4cabe",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/107/allure/#testresult/134c3bb30df4cabe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      }, {
+        "uid" : "3d141221018111",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/106/allure/#testresult/3d141221018111",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      }, {
+        "uid" : "7d514159d2cbbb3d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/105/allure/#testresult/7d514159d2cbbb3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      }, {
+        "uid" : "c7d566937e81cfac",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/104/allure/#testresult/c7d566937e81cfac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      }, {
+        "uid" : "4a84bcb1778b9997",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/103/allure/#testresult/4a84bcb1778b9997",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      }, {
+        "uid" : "b3f83f4eb8b252fa",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/102/allure/#testresult/b3f83f4eb8b252fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      }, {
+        "uid" : "b7e926aa0e48a40a",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/101/allure/#testresult/b7e926aa0e48a40a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659347605295,
+          "stop" : 1659347855546,
+          "duration" : 250251
+        }
+      } ]
+    },
+    "tags" : [ "allTest", "CaseList", "AssignInspector" ]
+  },
+  "source" : "2725a315cfb58f75.json",
+  "parameterValues" : [ ]
+}

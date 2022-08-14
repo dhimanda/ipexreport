@@ -2,9 +2,9 @@
   "name" : "Jenkins",
   "type" : "jenkins",
   "url" : "http://automate.seliselocal.com:8080/",
-  "buildOrder" : 92,
-  "buildName" : "IPEX #92",
-  "buildUrl" : "http://automate.seliselocal.com:8080/job/IPEX/92/",
+  "buildOrder" : 121,
+  "buildName" : "IPEX #121",
+  "buildUrl" : "http://automate.seliselocal.com:8080/job/IPEX/121/",
   "reportName" : "AllureReport",
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/92/allure"
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/121/allure"
 } ]

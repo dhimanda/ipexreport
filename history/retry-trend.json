@@ -1,161 +1,161 @@
 [ {
-  "buildOrder" : 92,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/92/allure",
+  "buildOrder" : 121,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/121/allure",
   "reportName" : "AllureReport",
   "data" : {
     "run" : 40,
-    "retry" : 26
+    "retry" : 55
   }
 }, {
-  "buildOrder" : 91,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/91/allure",
+  "buildOrder" : 120,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/120/allure",
   "reportName" : "AllureReport",
   "data" : {
     "run" : 40,
-    "retry" : 25
+    "retry" : 54
   }
 }, {
-  "buildOrder" : 90,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/90/allure",
+  "buildOrder" : 119,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/119/allure",
   "reportName" : "AllureReport",
   "data" : {
     "run" : 40,
-    "retry" : 24
+    "retry" : 53
   }
 }, {
-  "buildOrder" : 89,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/89/allure",
+  "buildOrder" : 118,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/118/allure",
   "reportName" : "AllureReport",
   "data" : {
     "run" : 40,
-    "retry" : 23
+    "retry" : 52
   }
 }, {
-  "buildOrder" : 88,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/88/allure",
+  "buildOrder" : 117,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/117/allure",
   "reportName" : "AllureReport",
   "data" : {
     "run" : 40,
-    "retry" : 22
+    "retry" : 51
   }
 }, {
-  "buildOrder" : 87,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/87/allure",
+  "buildOrder" : 116,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/116/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 39,
-    "retry" : 22
+    "run" : 40,
+    "retry" : 50
   }
 }, {
-  "buildOrder" : 86,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/86/allure",
+  "buildOrder" : 115,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/115/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 38,
-    "retry" : 22
+    "run" : 40,
+    "retry" : 49
   }
 }, {
-  "buildOrder" : 85,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/85/allure",
+  "buildOrder" : 114,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/114/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 37,
-    "retry" : 22
+    "run" : 40,
+    "retry" : 48
   }
 }, {
-  "buildOrder" : 84,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/84/allure",
+  "buildOrder" : 113,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/113/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 36,
-    "retry" : 22
+    "run" : 40,
+    "retry" : 47
   }
 }, {
-  "buildOrder" : 83,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/83/allure",
+  "buildOrder" : 112,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/112/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 35,
-    "retry" : 22
+    "run" : 40,
+    "retry" : 46
   }
 }, {
-  "buildOrder" : 82,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/82/allure",
+  "buildOrder" : 111,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/111/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 34,
-    "retry" : 22
+    "run" : 40,
+    "retry" : 45
   }
 }, {
-  "buildOrder" : 81,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/81/allure",
+  "buildOrder" : 110,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/110/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 34,
-    "retry" : 21
+    "run" : 40,
+    "retry" : 44
   }
 }, {
-  "buildOrder" : 80,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/80/allure",
+  "buildOrder" : 109,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/109/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 34,
-    "retry" : 20
+    "run" : 40,
+    "retry" : 43
   }
 }, {
-  "buildOrder" : 79,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/79/allure",
+  "buildOrder" : 108,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/108/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 34,
-    "retry" : 20
+    "run" : 40,
+    "retry" : 42
   }
 }, {
-  "buildOrder" : 78,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/78/allure",
+  "buildOrder" : 107,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/107/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 34,
-    "retry" : 20
+    "run" : 40,
+    "retry" : 41
   }
 }, {
-  "buildOrder" : 77,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/77/allure",
+  "buildOrder" : 106,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/106/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 34,
-    "retry" : 20
+    "run" : 40,
+    "retry" : 40
   }
 }, {
-  "buildOrder" : 76,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/76/allure",
+  "buildOrder" : 105,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/105/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 34,
-    "retry" : 20
+    "run" : 40,
+    "retry" : 39
   }
 }, {
-  "buildOrder" : 75,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/75/allure",
+  "buildOrder" : 104,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/104/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 34,
-    "retry" : 20
+    "run" : 40,
+    "retry" : 38
   }
 }, {
-  "buildOrder" : 74,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/74/allure",
+  "buildOrder" : 103,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/103/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 34,
-    "retry" : 20
+    "run" : 40,
+    "retry" : 37
   }
 }, {
-  "buildOrder" : 73,
-  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/73/allure",
+  "buildOrder" : 102,
+  "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/102/allure",
   "reportName" : "AllureReport",
   "data" : {
-    "run" : 33,
-    "retry" : 20
+    "run" : 40,
+    "retry" : 36
   }
 } ]

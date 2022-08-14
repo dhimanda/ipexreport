@@ -1,6 +1,17 @@
 {
   "total" : 7,
   "items" : [ {
+    "uid" : "dfcecc8650d0e68472251c05d02f5238",
+    "name" : "Users Module",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 10
+    }
+  }, {
     "uid" : "55767c341c65cc718307cd720d0f34a6",
     "name" : "Mailbox Module",
     "statistic" : {
@@ -10,17 +21,6 @@
       "passed" : 2,
       "unknown" : 0,
       "total" : 3
-    }
-  }, {
-    "uid" : "dfcecc8650d0e68472251c05d02f5238",
-    "name" : "Users Module",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 9,
-      "unknown" : 0,
-      "total" : 10
     }
   }, {
     "uid" : "43d2f9445691326481fd7682c4abcc3e",

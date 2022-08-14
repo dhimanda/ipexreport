@@ -1,0 +1,368 @@
+{
+  "uid" : "aae7d60ed77f47c2",
+  "name" : "Verify default backoffice is set or not",
+  "fullName" : "Case Creation Module: Verify default backoffice is set or not",
+  "historyId" : "dc6c91562ef51cc361411ffc2f8ae336",
+  "time" : {
+    "start" : 1660461860285,
+    "stop" : 1660461923720,
+    "duration" : 63435
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit",
+      "time" : {
+        "start" : 1660461860289,
+        "stop" : 1660461874187,
+        "duration" : 13898
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  Login \"saniuzzaman.robin@selise.ch\"",
+      "time" : {
+        "start" : 1660461874187,
+        "stop" : 1660461891564,
+        "duration" : 17377
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then  SelectMail \"Zurich\" 0",
+      "time" : {
+        "start" : 1660461891565,
+        "stop" : 1660461897034,
+        "duration" : 5469
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Then  VerifyBackoffice",
+      "time" : {
+        "start" : 1660461897034,
+        "stop" : 1660461919558,
+        "duration" : 22524
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "edf29bea58f4e0f2",
+        "name" : "Default backoffice Validation",
+        "source" : "edf29bea58f4e0f2.png",
+        "type" : "image/png",
+        "size" : 126488
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1660461919560,
+      "stop" : 1660461923719,
+      "duration" : 4159
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ValidateDefaultBackoffice"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseCreation"
+  }, {
+    "name" : "tag",
+    "value" : "VerifyBackoffice"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "6480@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "story",
+    "value" : "Verify default backoffice is set or not"
+  }, {
+    "name" : "suite",
+    "value" : "Case Creation Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify default backoffice is set or not"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20Creation.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case Creation_feature.Case Creation Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "88aafaf0ac540494",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659346883822,
+        "stop" : 1659346951552,
+        "duration" : 67730
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 51,
+        "unknown" : 0,
+        "total" : 51
+      },
+      "items" : [ {
+        "uid" : "bcdc9eaee7d987bb",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/120/allure/#testresult/bcdc9eaee7d987bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660461860285,
+          "stop" : 1660461923720,
+          "duration" : 63435
+        }
+      }, {
+        "uid" : "1c7a97cb38b5233b",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/119/allure/#testresult/1c7a97cb38b5233b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660461860285,
+          "stop" : 1660461923720,
+          "duration" : 63435
+        }
+      }, {
+        "uid" : "59a7ad8dbdf01385",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/118/allure/#testresult/59a7ad8dbdf01385",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660461860285,
+          "stop" : 1660461923720,
+          "duration" : 63435
+        }
+      }, {
+        "uid" : "bf0af70e2e145998",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/117/allure/#testresult/bf0af70e2e145998",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660461860285,
+          "stop" : 1660461923720,
+          "duration" : 63435
+        }
+      }, {
+        "uid" : "cb3873e37205b3e9",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/116/allure/#testresult/cb3873e37205b3e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660461860285,
+          "stop" : 1660461923720,
+          "duration" : 63435
+        }
+      }, {
+        "uid" : "d102c9754c5bc631",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/115/allure/#testresult/d102c9754c5bc631",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660461860285,
+          "stop" : 1660461923720,
+          "duration" : 63435
+        }
+      }, {
+        "uid" : "bf0fc1c3519e69de",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/114/allure/#testresult/bf0fc1c3519e69de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660461860285,
+          "stop" : 1660461923720,
+          "duration" : 63435
+        }
+      }, {
+        "uid" : "b749613e4e7975b6",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/113/allure/#testresult/b749613e4e7975b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660461860285,
+          "stop" : 1660461923720,
+          "duration" : 63435
+        }
+      }, {
+        "uid" : "ca72d177ba0a700e",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/112/allure/#testresult/ca72d177ba0a700e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660461860285,
+          "stop" : 1660461923720,
+          "duration" : 63435
+        }
+      }, {
+        "uid" : "533a665f74c054b4",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/111/allure/#testresult/533a665f74c054b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660461860285,
+          "stop" : 1660461923720,
+          "duration" : 63435
+        }
+      }, {
+        "uid" : "3c94663bcad90bde",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/110/allure/#testresult/3c94663bcad90bde",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660461860285,
+          "stop" : 1660461923720,
+          "duration" : 63435
+        }
+      }, {
+        "uid" : "8da040f389aec19c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/109/allure/#testresult/8da040f389aec19c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659346883822,
+          "stop" : 1659346951552,
+          "duration" : 67730
+        }
+      }, {
+        "uid" : "821478156f5b5088",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/108/allure/#testresult/821478156f5b5088",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659346883822,
+          "stop" : 1659346951552,
+          "duration" : 67730
+        }
+      }, {
+        "uid" : "ced85b8b25774127",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/107/allure/#testresult/ced85b8b25774127",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659346883822,
+          "stop" : 1659346951552,
+          "duration" : 67730
+        }
+      }, {
+        "uid" : "427373284a66b111",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/106/allure/#testresult/427373284a66b111",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659346883822,
+          "stop" : 1659346951552,
+          "duration" : 67730
+        }
+      }, {
+        "uid" : "819e7446b74f7095",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/105/allure/#testresult/819e7446b74f7095",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659346883822,
+          "stop" : 1659346951552,
+          "duration" : 67730
+        }
+      }, {
+        "uid" : "7c42e0046ccaf22c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/104/allure/#testresult/7c42e0046ccaf22c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659346883822,
+          "stop" : 1659346951552,
+          "duration" : 67730
+        }
+      }, {
+        "uid" : "106215c287582b06",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/103/allure/#testresult/106215c287582b06",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659346883822,
+          "stop" : 1659346951552,
+          "duration" : 67730
+        }
+      }, {
+        "uid" : "b24447d18d3a021f",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/102/allure/#testresult/b24447d18d3a021f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659346883822,
+          "stop" : 1659346951552,
+          "duration" : 67730
+        }
+      }, {
+        "uid" : "3a328a9668dce310",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/101/allure/#testresult/3a328a9668dce310",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659346883822,
+          "stop" : 1659346951552,
+          "duration" : 67730
+        }
+      } ]
+    },
+    "tags" : [ "CaseCreation", "allTest", "VerifyBackoffice", "ValidateDefaultBackoffice" ]
+  },
+  "source" : "aae7d60ed77f47c2.json",
+  "parameterValues" : [ ]
+}

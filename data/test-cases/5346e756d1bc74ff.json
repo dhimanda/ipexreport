@@ -1,0 +1,377 @@
+{
+  "uid" : "5346e756d1bc74ff",
+  "name" : "Validate Assigned Inspector from case list via Additional Option filter",
+  "fullName" : "Case List Module: Validate Assigned Inspector from case list via Additional Option filter",
+  "historyId" : "30feffd064ad9368a28ee407bc141dc0",
+  "time" : {
+    "start" : 1660462626444,
+    "stop" : 1660462711882,
+    "duration" : 85438
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1660462626449,
+        "stop" : 1660462642303,
+        "duration" : 15854
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1660462642303,
+        "stop" : 1660462661685,
+        "duration" : 19382
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "691e9e8712426d58",
+        "name" : "Just Login",
+        "source" : "691e9e8712426d58.png",
+        "type" : "image/png",
+        "size" : 83096
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "Given  ValidateAssignedInspector",
+      "time" : {
+        "start" : 1660462661686,
+        "stop" : 1660462707709,
+        "duration" : 46023
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "143e433c17bd5b67",
+        "name" : "Validate Assigned Inspector",
+        "source" : "143e433c17bd5b67.png",
+        "type" : "image/png",
+        "size" : 223345
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1660462707711,
+      "stop" : 1660462711880,
+      "duration" : 4169
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "ValidateAssignedInspector"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "CaseList"
+  }, {
+    "name" : "tag",
+    "value" : "AdditionalOptions"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "15564@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Case List Module"
+  }, {
+    "name" : "story",
+    "value" : "Validate Assigned Inspector from case list via Additional Option filter"
+  }, {
+    "name" : "suite",
+    "value" : "Case List Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Assigned Inspector from case list via Additional Option filter"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Case%20List%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Case List Module_feature.Case List Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c1a7cfa3dc7842cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659358461971,
+        "stop" : 1659358549184,
+        "duration" : 87213
+      }
+    }, {
+      "uid" : "f9969847304a0cf",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//span[text()='Cases'])[1]\"}\n  (Session info: chrome=103.0.5060.134)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-D4SH2AK', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\RIDWAN~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:65284}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 145618529f85c71192a685fc03d1cd08\n*** Element info: {Using=xpath, value=(//span[text()='Cases'])[1]}",
+      "time" : {
+        "start" : 1659357967941,
+        "stop" : 1659358140411,
+        "duration" : 172470
+      }
+    }, {
+      "uid" : "8f6e4cbdd8085dac",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#am-1080\"}\n  (Session info: chrome=103.0.5060.134)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-D4SH2AK', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 103.0.5060.134, chrome: {chromedriverVersion: 103.0.5060.134 (8ec6fce403b..., userDataDir: C:\\Users\\RIDWAN~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:64526}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: bafb1ff6ad410d4522961c418a3d7ddb\n*** Element info: {Using=css selector, value=#am-1080}",
+      "time" : {
+        "start" : 1659354255439,
+        "stop" : 1659354329053,
+        "duration" : 73614
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 4,
+        "skipped" : 0,
+        "passed" : 32,
+        "unknown" : 0,
+        "total" : 36
+      },
+      "items" : [ {
+        "uid" : "e4099f65a6a9229d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/120/allure/#testresult/e4099f65a6a9229d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660462626444,
+          "stop" : 1660462711882,
+          "duration" : 85438
+        }
+      }, {
+        "uid" : "7020b79b57e3579d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/119/allure/#testresult/7020b79b57e3579d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660462626444,
+          "stop" : 1660462711882,
+          "duration" : 85438
+        }
+      }, {
+        "uid" : "15fb69b34673f996",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/118/allure/#testresult/15fb69b34673f996",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660462626444,
+          "stop" : 1660462711882,
+          "duration" : 85438
+        }
+      }, {
+        "uid" : "4fbee3a4ac192515",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/117/allure/#testresult/4fbee3a4ac192515",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660462626444,
+          "stop" : 1660462711882,
+          "duration" : 85438
+        }
+      }, {
+        "uid" : "40403af30698fb41",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/116/allure/#testresult/40403af30698fb41",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660462626444,
+          "stop" : 1660462711882,
+          "duration" : 85438
+        }
+      }, {
+        "uid" : "51ce0c36a5aff0cb",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/115/allure/#testresult/51ce0c36a5aff0cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "56d30a43b4dc4bb",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/114/allure/#testresult/56d30a43b4dc4bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "313b16ae2a6f5e5d",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/113/allure/#testresult/313b16ae2a6f5e5d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "cc47eef8170da49c",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/112/allure/#testresult/cc47eef8170da49c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "853ca4772cdcd1e9",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/111/allure/#testresult/853ca4772cdcd1e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "7e92d0472ca7ab77",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/110/allure/#testresult/7e92d0472ca7ab77",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "69362219b85b5b4b",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/109/allure/#testresult/69362219b85b5b4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "6e33e1cde3456b36",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/108/allure/#testresult/6e33e1cde3456b36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "83d08f213dfaffd5",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/107/allure/#testresult/83d08f213dfaffd5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "4a48492c7ff78b9f",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/106/allure/#testresult/4a48492c7ff78b9f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "7c6b352abd070e25",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/105/allure/#testresult/7c6b352abd070e25",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "cae458527c54b896",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/104/allure/#testresult/cae458527c54b896",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "29352a0057a5890",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/103/allure/#testresult/29352a0057a5890",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "d39cef2abd52e090",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/102/allure/#testresult/d39cef2abd52e090",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      }, {
+        "uid" : "f8cc17fb334e2ba5",
+        "reportUrl" : "http://automate.seliselocal.com:8080/job/IPEX/101/allure/#testresult/f8cc17fb334e2ba5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659358461971,
+          "stop" : 1659358549184,
+          "duration" : 87213
+        }
+      } ]
+    },
+    "tags" : [ "ValidateAssignedInspector", "allTest", "CaseList", "AdditionalOptions" ]
+  },
+  "source" : "5346e756d1bc74ff.json",
+  "parameterValues" : [ ]
+}

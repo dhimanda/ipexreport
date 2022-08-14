@@ -1,0 +1,161 @@
+{
+  "uid" : "318b059b07334366",
+  "name" : "Delete existing User by its mail",
+  "fullName" : "Users Module: Delete existing User by its mail",
+  "historyId" : "e35525866ea69c0802f0ec3ec3af42f1",
+  "time" : {
+    "start" : 1659339317181,
+    "stop" : 1659339422043,
+    "duration" : 104862
+  },
+  "status" : "failed",
+  "statusMessage" : "expected [1] but found [0]",
+  "statusTrace" : "java.lang.AssertionError: expected [1] but found [0]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:652)\r\n\tat org.testng.Assert.assertEquals(Assert.java:662)\r\n\tat pcx.modules.CreateUser.findUser(CreateUser.java:142)\r\n\tat pcx.modules.CreateUser.deleteUser(CreateUser.java:163)\r\n\tat stepDefinations.stepDefinition.DeleteExistingUser(stepDefinition.java:474)\r\n\tat ✽.DeleteExistingUser(file:src/test/java/features/Users%20Module.feature:30)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected [1] but found [0]",
+    "statusTrace" : "java.lang.AssertionError: expected [1] but found [0]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:652)\r\n\tat org.testng.Assert.assertEquals(Assert.java:662)\r\n\tat pcx.modules.CreateUser.findUser(CreateUser.java:142)\r\n\tat pcx.modules.CreateUser.deleteUser(CreateUser.java:163)\r\n\tat stepDefinations.stepDefinition.DeleteExistingUser(stepDefinition.java:474)\r\n\tat ✽.DeleteExistingUser(file:src/test/java/features/Users%20Module.feature:30)\r\n",
+    "steps" : [ {
+      "name" : "And  Visit",
+      "time" : {
+        "start" : 1659339317183,
+        "stop" : 1659339347289,
+        "duration" : 30106
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Given  Login",
+      "time" : {
+        "start" : 1659339347290,
+        "stop" : 1659339379460,
+        "duration" : 32170
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e9a11ad4bac69f5a",
+        "name" : "Just Login",
+        "source" : "e9a11ad4bac69f5a.png",
+        "type" : "image/png",
+        "size" : 82403
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "Given  DeleteExistingUser",
+      "time" : {
+        "start" : 1659339379460,
+        "stop" : 1659339416901,
+        "duration" : 37441
+      },
+      "status" : "failed",
+      "statusMessage" : "expected [1] but found [0]",
+      "statusTrace" : "java.lang.AssertionError: expected [1] but found [0]\r\n\tat org.testng.Assert.fail(Assert.java:96)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:776)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:137)\r\n\tat org.testng.Assert.assertEquals(Assert.java:118)\r\n\tat org.testng.Assert.assertEquals(Assert.java:652)\r\n\tat org.testng.Assert.assertEquals(Assert.java:662)\r\n\tat pcx.modules.CreateUser.findUser(CreateUser.java:142)\r\n\tat pcx.modules.CreateUser.deleteUser(CreateUser.java:163)\r\n\tat stepDefinations.stepDefinition.DeleteExistingUser(stepDefinition.java:474)\r\n\tat ✽.DeleteExistingUser(file:src/test/java/features/Users%20Module.feature:30)\r\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "stepDefinition.afterScenerio(Scenario)",
+    "time" : {
+      "start" : 1659339416906,
+      "stop" : 1659339422038,
+      "duration" : 5132
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ce600919ede8a022",
+      "name" : "Failure Screenshot",
+      "source" : "ce600919ede8a022.png",
+      "type" : "image/png",
+      "size" : 47568
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "DeleteExistingUser"
+  }, {
+    "name" : "tag",
+    "value" : "allTest"
+  }, {
+    "name" : "tag",
+    "value" : "Users"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-D4SH2AK"
+  }, {
+    "name" : "thread",
+    "value" : "13000@DESKTOP-D4SH2AK.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Users Module"
+  }, {
+    "name" : "story",
+    "value" : "Delete existing User by its mail"
+  }, {
+    "name" : "suite",
+    "value" : "Users Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Delete existing User by its mail"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:src/test/java/features/Users%20Module.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.features.Users Module_feature.Users Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "allTest", "DeleteExistingUser", "Users" ]
+  },
+  "source" : "318b059b07334366.json",
+  "parameterValues" : [ ]
+}
